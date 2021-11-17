@@ -2,38 +2,25 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hotspotty is a tool that will help you order, deploy and manage your hotspots. Whether you're simply considering buying your first hotspot or you already have a fleet, Hotspotty is here to make it simple and profitable for you to participate in the Helium ecosystem.
 
-## Getting Started
+## Getting started
 
-Get started by **creating a new site**.
+If you're just starting out in the Helium ecosystem and have a few hotspots or want to become a hotspot owner we recommend the below guides:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Create an account and understand your area
+- Add your wallet
+- Order a hotspot
+- Dashboard analytics
 
-## Generate a new site
+## Expand the network
 
-Generate a new Docusaurus site using the **classic template**:
+If you're managing a fleet of hotspots we recommend you utilise the advanced features on Hotspotty described in these guides:
 
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
-
-## Status
-
-WIP2
+- [Evaluate hotspot locations](../expand-the-network/evaluate-hotspot-locations.md)
+- Add and manage contacts
+- Add and track installation data
+- Pay your contacts
+- Generate commission reports
