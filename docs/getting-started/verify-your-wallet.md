@@ -4,6 +4,7 @@ sidebar_position: 2
 # Verify your wallet
 
 To enjoy the full capabilities of Hotspotty analytics including communication with other hotspot owners you need to connect to Discord and verify your HNT wallet. 
+
 ![Docs](/img/docs/getting-started/verify-your-wallet/verify-your-wallet-1.PNG)
 
 From the main map view, click sign in with Discord in the top right corner. If you do not have a Discord account you will be asked to create one. Create one using your email. 

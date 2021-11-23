@@ -4,14 +4,14 @@ sidebar_position: 1
 
 # Introduction
 
-Hotspotty is a tool that will help you order, deploy and manage your hotspots. Whether you're simply considering buying your first hotspot or you already have a fleet, Hotspotty is here to make it simple and profitable for you to participate in the Helium ecosystem.
+Hotspotty is a tool that will help you order, deploy and manage your hotspots. Whether you're simply considering buying your first hotspot or you have a fleet, Hotspotty is here to make it simple and profitable for you to participate in the Helium ecosystem.
 
 ## Getting started
 
 If you're just starting out in the Helium ecosystem and have a few hotspots or want to become a hotspot owner we recommend the below guides:
 
-- [Create an account and understand your area](./getting-started/create-an-account-and-understand-your-area.md)
-- [Add your wallet](./getting-started/add-your-wallet.md)
+- [Create an account and understand your area](./getting-started/understand-your-area-and-account-verification.md)
+- [Add your wallet](./getting-started/verify-your-wallet.md)
 - [Order a hotspot](./getting-started/order-a-hotspot.md)
 - [Analytics dashboard](./getting-started/analytics-dashboard.md)
 

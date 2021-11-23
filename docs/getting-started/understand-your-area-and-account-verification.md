@@ -6,9 +6,9 @@ sidebar_position: 1
 
 Open Hotspotty from the main landing page and you'll see the map of your area and the positioning and status of the hotspots within it.  
 
-You need to understand the Hotspotty fundamentals to read the map and link to Discord and verify your wallet to get the most out of the Hotspotty analytics and location planning tools.
+You need to understand the Hotspotty fundamentals to read the map. We also recommend to link to Discord and verify your wallet to get the most out of the Hotspotty analytics and location planning tools.
 
-## Hotspots analytics in your area
+## Hotspot analytics 
 
 Zoom in and out the map using the + / - symbols at the top right corner. When you zoom out sufficiently you will see the purple hex that defines the outter borders of the area that's being analysed. You can move the purple hex or use the magnifing glass to search for specific locations, hotspots or contacts and the map will move to the desired location when you press enter.  
 
@@ -23,14 +23,11 @@ If you want a detailed understanding of a hotspot's reward scale and how you can
 
 [Optimise your earnings and reward scaling](../expand-the-network/optimise-your-earnings-and-reward-scaling.md)
 
-Click on an individual Hotspot and you will see its analytics including rewards, reward scaling, hotspots witnessed and other information. 
+When you click on an individual Hotspot and you see its analytics including rewards, reward scaling, hotspots witnessed and other information. 
 
-You can contact a
+You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users connect to Discord and verify their wallets to enable a smooth and easy communication among hotspot owners globally. 
 
 ## Link to Discord and verify your wallet
 
-To get the most out of Hotspotty analytics we recommend that you connect to Discord and verify your wallet 
-
 [Add your wallet](add-your-wallet.md)
-
 
