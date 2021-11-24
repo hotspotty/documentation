@@ -21,7 +21,7 @@ Every circle on the map represents a hotspot as it is asserted in the Helium net
 
 If you want a detailed understanding of a hotspot's reward scale and how you can improve your reward potential see
 
-[Optimise your earnings and reward scaling](../expand-the-network/optimise-your-earnings-and-reward-scaling.md)
+[Optimise your earnings and reward scaling](../expand-the-network/optimise-you-earnings-and-reward-scaling.md)
 
 When you click on an individual Hotspot and you see its analytics including rewards, reward scaling, hotspots witnessed and other information. 
 
@@ -29,5 +29,5 @@ You can contact a hotspot's owner under Contact Owner tab when you click on an i
 
 ## Link to Discord and verify your wallet
 
-[Add your wallet](add-your-wallet.md)
+[Add your wallet](verify-your-wallet.md)
 
