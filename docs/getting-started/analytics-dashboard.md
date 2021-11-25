@@ -11,4 +11,6 @@ If you navigate to the Wallets tab, you can add and remove wallets you want to t
 The main dashboard desplays total balance and gives you an option to filter by hotspot status and parameters such as transmit scale and install status. You 
 
 ![Docs](/img/docs/getting-started/verify-your-wallet/dashboard-1.png)
+
+
  
