@@ -13,7 +13,7 @@ After you sign in with Discord, we advise that you verify your HNT wallet. This 
 
 ![Docs](/img/docs/getting-started/verify-your-wallet/verify-your-wallet-3.PNG)
 
-Add your HNT wallet address and decide if you want to track the hotspots associated with the HNT address. If not untick the box. You can always add or remove individual hotspots associated with the wallet should you decide not to track these.
+Add your HNT wallet address and decide if you want to track the hotspots associated with the HNT address. If not untick the box. You can always add or remove individual hotspots associated with the wallet should you decide not to track a selection of hotspots associated with a wallet. 
 
 ![Docs](/img/docs/getting-started/verify-your-wallet/verify-your-wallet-2.PNG)
 
