@@ -28,4 +28,4 @@ Further down you see how much HNT your hotspots are generating over different ti
 
 The region dashboard shows hotspot performance within the area including the HNT rewards generated and a list of hotspots that require attention.
 
-![Docs](/img/docs/getting-started/verify-your-wallet/dashboard-region-4.png)
+![Docs](/img/docs/getting-started/verify-your-wallet/dashboard-region-5.png)
