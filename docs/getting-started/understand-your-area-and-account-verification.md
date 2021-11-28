@@ -23,7 +23,7 @@ Every dot on the map represents a hotspot as it is asserted in the Helium networ
 
 If you want a detailed understanding of the hotspots' reward scale and how you can improve your reward potential see
 
-[Optimise your earnings and reward scaling](../expand-the-network/optimise-you-earnings-and-reward-scaling.md)
+[Optimise your earnings and reward scaling](../expand-the-network/optimise-your-earnings-and-reward-scaling)
 
 Click on an individual Hotspot and you'll see its analytics including hotspot status, rewards, reward scaling, hotspots witnessed and other information. 
 
