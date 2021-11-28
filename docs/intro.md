@@ -14,6 +14,7 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 - [Verify your wallet](./getting-started/verify-your-wallet.md)
 - [Order a hotspot](./getting-started/order-a-hotspot.md)
 - [Analytics dashboard](./getting-started/analytics-dashboard.md)
+- [Time travel](./getting-started/time-travel.md)
 
 ## Expand the network
 
