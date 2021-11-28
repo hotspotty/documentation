@@ -12,20 +12,22 @@ You need to understand the Hotspotty fundamentals to read the map. We also recom
 
 ## Hotspot analytics 
 
-Zoom in and out the map using the + / - symbols at the top right corner. When you zoom out sufficiently you will see the purple hex that defines the outter borders of the area that's being analysed. You can move the purple hex or use the magnifing glass to search for specific locations, hotspots or contacts and the map will move to the desired location when you press enter.  
+Zoom in and out the map using the + / - symbols in the top right corner. When you zoom out sufficiently you will see the purple hex that defines the outer borders of the area that's being viewed. You can move the purple hex or use the magnifing glass to search for specific locations, hotspots or contacts. The map will move to the desired location, hotspot or contact when you press enter.  
 
-Every circle on the map represents a hotspot as it is asserted in the Helium network. The color represents a hotspot's status within the network. 
+Every dot on the map represents a hotspot as it is asserted in the Helium network. The color of the dot corresponds with the hotspot status within the network. For example, a green dot shows an active hotspot with excellent transmit scale.  
 
 - Green - the hotspot is online and has an excellent transmit scale
 - Yellow - the hotspot is online and has a mediocre transmit scale 
 - Orange - the hotspot is online and has a poor transmit scale
 - Purple - the hotspot is offline or has recently been offline and is currently syncing
 
-If you want a detailed understanding of a hotspot's reward scale and how you can improve your reward potential see
+If you want a detailed understanding of the hotspots' reward scale and how you can improve your reward potential see
 
 [Optimise your earnings and reward scaling](../expand-the-network/optimise-you-earnings-and-reward-scaling.md)
 
-When you click on an individual Hotspot and you see its analytics including rewards, reward scaling, hotspots witnessed and other information. 
+Click on an individual Hotspot and you'll see its analytics including hotspot status, rewards, reward scaling, hotspots witnessed and other information. 
+
+![Docs](/img/docs/getting-started/verify-your-wallet/understand-your-area2.png)
 
 You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users connect to Discord and verify their wallets to enable a smooth and easy communication among hotspot owners globally. 
 
