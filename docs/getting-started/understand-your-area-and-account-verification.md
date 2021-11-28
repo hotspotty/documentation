@@ -8,6 +8,8 @@ Open Hotspotty from the main landing page and you'll see the map of your area an
 
 You need to understand the Hotspotty fundamentals to read the map. We also recommend to link to Discord and verify your wallet to get the most out of the Hotspotty analytics and location planning tools.
 
+![Docs](/img/docs/getting-started/verify-your-wallet/understand-your-area1.png)
+
 ## Hotspot analytics 
 
 Zoom in and out the map using the + / - symbols at the top right corner. When you zoom out sufficiently you will see the purple hex that defines the outter borders of the area that's being analysed. You can move the purple hex or use the magnifing glass to search for specific locations, hotspots or contacts and the map will move to the desired location when you press enter.  

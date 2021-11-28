@@ -8,7 +8,7 @@ Unlock the dashboard analytics by connecting to Discord and veryfying your walle
 
 If you navigate to the Wallets tab, you can add and remove wallets you want to track in your dashboard.  
 
-The main dashboard displays total balance and gives you an option to filter by hotspot status and parameters such as transmit scale and install status. You 
+The main dashboard displays total balance and gives you an option to filter by hotspot status and parameters such as transmit scale and install status. 
 
 ![Docs](/img/docs/getting-started/verify-your-wallet/dashboard-1.png)
 
@@ -16,7 +16,7 @@ Further down you see how much HNT your hotspots are generating over different ti
 
 ![Docs](/img/docs/getting-started/verify-your-wallet/dashboard-2-rewards.png)
 
- Continue further and you'll see the hotspots that require your attention. This section notifies you about any potential issues that your trackked hotspots are facing. For example, this section will show hotspots that are offline, relayed, without hight setting and terrible transmit scale. 
+ Continue further and you'll see the hotspots that require your attention. This section notifies you about any potential issues that your tracked hotspots are facing. For example, this section will show hotspots that are offline, relayed, without hight setting and terrible transmit scale. 
 
  This section notifies you of issues that are affecting your HNT earning potential and should be addressed. 
 
