@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Time travel and area analytics
 
-Time travel tool is here to illustrate how hotspot poppulation changed in any given area over time. Increase in hotspots in an area will affec reward scaling and thus HNT earning potential. Too many hotspots in a hexogon in any resolution will have a detrimental effect on the earnings of hotspots in the area.
+Time travel tool is here to illustrate how hotspot poppulation changed in any given area over time. Increase in hotspots in an area will affec reward scaling and thus HNT earning potential. Too many hotspots in a hexagon in any resolution will have a detrimental effect on the earnings of hotspots in the area.
 
 From Map navigate to Time travel in the bottom right corner.
 
