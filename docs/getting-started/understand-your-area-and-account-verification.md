@@ -19,11 +19,11 @@ Every dot on the map represents a hotspot as it is asserted in the Helium networ
 - Green - the hotspot is online and has an excellent transmit scale
 - Yellow - the hotspot is online and has a mediocre transmit scale
 - Orange - the hotspot is online and has a poor transmit scale
-- Purple - the hotspot is offline or has recently been offline and is currently syncing
+- Purple - the hotspot is offline or has recently been offline and/or is currently syncing
 
 If you want a detailed understanding of the hotspots' reward scale and how you can improve your reward potential see
 
-[Optimise your earnings and reward scaling](../expand-the-network/optimise-your-earnings-and-reward-scaling)
+[Optimize your earnings and reward scaling](../expand-the-network/optimize-your-earnings-and-reward-scaling)
 
 Click on an individual Hotspot and you'll see its analytics including hotspot status, rewards, reward scaling, hotspots witnessed and other information.
 
