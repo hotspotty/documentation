@@ -4,7 +4,11 @@ sidebar_position: 5
 
 # Time travel and area analytics
 
-Time travel tool is here to illustrate how hotspot poppulation changed in any given area over time. Increase in hotspots in an area will affec reward scaling and thus HNT earning potential. Too many hotspots in a hexagon in any resolution will have a detrimental effect on the earnings of hotspots in the area.
+Time travel tool is here to illustrate how hotspot population changed in any given area over time. Increase in hotspots in an area will affect reward scaling and thus HNT earning potential per hotspot. Too many hotspots in a hexagon in any resolution will have a detrimental effect on the earnings of every hotspot in the area.
+
+Every hotspot owner should be aware how quickly the hotspot population changes in an area. As soon as an area is too densely populated with hotspots the HNT earnings drop dramatically for all hotspots in the area. 
+
+A good illustrative example of this happened in Lisbon over the 2021. 
 
 From Map navigate to Time travel in the bottom right corner.
 
@@ -14,6 +18,6 @@ Use the calendar to pick a date you want to review. Example below shows Lisbon a
 
 ![Docs](/img/docs/getting-started/time-travel-3.png)
 
-VS Lisbon area on 1 Jan 2021
+VS Lisbon area on 1 Jan 2021.
 
 ![Docs](/img/docs/getting-started/time-travel-2.png)
