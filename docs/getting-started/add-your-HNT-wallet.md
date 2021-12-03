@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Verify your wallet
+# Add your HNT wallet
 
 To enjoy the full capabilities of Hotspotty including communication with other hotspot owners you need to connect to Discord and verify your HNT wallet.
 
