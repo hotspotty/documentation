@@ -13,7 +13,7 @@ Below is an example of hotspot population split by makers in the greater Notting
 ![Docs](/img/docs/getting-started/makers-1.png)
 
 
-Choose and click on a maker. 
+Click on a maker. 
 
 The maker analytics dashboard shows the total number of hotspots by the maker that are added to the blockchain, the total number of activated hotspots and the total number of the maker's hotspots in the area analyzed. When you order your hotspots it's important to understand the type of hotspots that will work in your area and any potential maker production constraints and current stock supply. 
 
