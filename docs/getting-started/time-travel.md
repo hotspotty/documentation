@@ -8,7 +8,7 @@ Time travel tool is here to illustrate how hotspot population changed in any giv
 
 Every hotspot owner should be aware how quickly the hotspot population changes in an area. As soon as an area is too densely populated with hotspots the HNT earnings drop dramatically for all hotspots in the area. 
 
-A good illustrative example of this happened in Lisbon over the 2021. 
+A good illustrative example is hotspot population growth in Lisbon in 2021. 
 
 From Map navigate to Time travel in the bottom right corner.
 
