@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Optimise your earnings and reward scaling
+# Optimize your earnings and reward scaling
 
 Helium uses a grid system of hexagons to bucket and analyse network coverage. This is to ensure among other things an even spread of the ‘people powered network’ globally.
 
