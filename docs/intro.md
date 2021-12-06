@@ -13,8 +13,8 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 - [Understand your area and account verification](./getting-started/understand-your-area-and-account-verification.md)
 - [Add your HNT wallet](./getting-started/add-your-HNT-wallet.md)
 - [Order a hotspot](./getting-started/order-a-hotspot.md)
-- [Analytics dashboard](./getting-started/analytics-dashboard)
-- [Time travel & area analytics](./getting-started/time-travel)
+- [Analytics dashboard](./getting-started/analytics-dashboard.md)
+- [Time travel & area analytics](./getting-started/time-travel.md)
 
 ## Expand the network
 
