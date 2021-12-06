@@ -31,4 +31,4 @@ Click on an individual Hotspot and you'll see its analytics including hotspot st
 
 You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users connect to Discord and verify their wallets to enable a smooth and easy communication among hotspot owners globally.
 
-See more on [Verify your wallet](verify-your-wallet.md)
+See more on [Add your HNT wallet](./add-your-HNT-wallet.md)
