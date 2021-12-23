@@ -21,7 +21,10 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 
 To have a smooth and successful experience using Hotspotty to manage your hotspots installation data and any associated payments, we recommend that you read the below guides:
 
-- [Pay your contacts](./pay-your-contacts.md)
+- [Pay your contacts](./your-hotspotty-workspace/pay-your-contacts.md)
+- [Manage installation data](./your-hotspotty-workspace/manage-installation-data.md)  
+- [Manage contacts](./your-hotspotty-workspace/manage-contacts.md)  
+- [Generate comission reports](./your-hotspotty-workspace/generate-commission-reports.md)  
 
 ## Expand the network
 
