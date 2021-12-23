@@ -32,3 +32,13 @@ Click on an individual Hotspot and you'll see its analytics including hotspot st
 You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users connect to Discord and verify their wallets to enable a smooth and easy communication among hotspot owners globally.
 
 See more on [Add your HNT wallet](./add-your-HNT-wallet.md)
+
+## Regional dashboard
+
+You can also analyze and compare hotspot performance in any given geographic area. Go to Map and press the Region Dashboard in the bottom right corner.
+
+![Docs](/img/docs/getting-started/dashboard-region-4.png)
+
+The region dashboard shows hotspot performance within the area including the HNT rewards generated and a list of hotspots that require attention.
+
+![Docs](/img/docs/getting-started/dashboard-region-5.png)

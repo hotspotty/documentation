@@ -24,11 +24,4 @@ For example, for hotspots with terrible transmit scale you could be better off p
 
 ![Docs](/img/docs/getting-started/dashboard-3.png)
 
-You can also analyze and compare hotspot performance in any given geographic area. Go to Map and press the Region Dashboard in the bottom right corner.
-
-![Docs](/img/docs/getting-started/dashboard-region-4.png)
-
-The region dashboard shows hotspot performance within the area including the HNT rewards generated and a list of hotspots that require attention.
-
-![Docs](/img/docs/getting-started/dashboard-region-5.png)
 
