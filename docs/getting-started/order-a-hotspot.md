@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Order a hotspot
 
-Hotspotty is a one stop shop tool to help you order, install and manage your hotspots. We partner with hotspot makers and provide you with real-time analytics of hotspots based on maker performance and popularity within any given area. 
+Hotspotty is a one stop shop tool to help you order, install and manage your hotspots. We partner with hotspot manufacturers and provide you with real-time analytics of hotspots based on 'maker' performance and popularity within any given area. 
 
 To see area analytics split by hotspot maker first sign in with Discord. From Map view navigate to Hotspots and proceed to the Makers tab in the top left corner. 
 

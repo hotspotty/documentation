@@ -12,7 +12,7 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 
 - [Understand your area and account verification](./getting-started/understand-your-area-and-account-verification.md)
 - [Add your HNT wallet](./getting-started/add-your-HNT-wallet.md)
-- [Hotspot Manufactures & Order a hotspot](./getting-started/order-a-hotspot.md)
+- [Hotspot Manufacturers & Order a hotspot](./getting-started/order-a-hotspot.md)
 - [Analytics dashboard](./getting-started/analytics-dashboard.md)
 
 
