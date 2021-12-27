@@ -8,15 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hotspotty',
   tagline: 'Your all-in-one tool for building the Helium network',
-  url: 'https://hotspotty.net',
+  url: 'https://docs.hotspotty.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'hotspotty', // Usually your GitHub org/user name.
-  projectName: 'documentation', // Usually your repo name.
-
-
+  organizationName: 'hotspotty',
+  projectName: 'documentation',
   presets: [
     [
       '@docusaurus/preset-classic',
