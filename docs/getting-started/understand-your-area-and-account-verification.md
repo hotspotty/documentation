@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Open Hotspotty from the main landing page and you'll see the map of your area and the positioning and status of the hotspots within it.
 
-You need to understand the Hotspotty fundamentals to read the map. We also recommend to link to Discord and verify your wallet to get the most out of the Hotspotty analytics and location planning tools.
+You need to understand the Hotspotty fundamentals to read the map. We also recommend that you connect to Discord and verify your wallet to get the most out of the Hotspotty analytics and location planning tools.
 
 ![Docs](/img/docs/getting-started/understand-your-area1.png)
 
