@@ -2,7 +2,8 @@
 sidebar_position: 5
 ---
 
-# Line of sight tool
+# Line-of-sight tool
+
 
 ## Video Introduction
 
