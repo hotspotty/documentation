@@ -13,15 +13,14 @@ From Map navigate to Contacts in the top left corner and press Add contact. Fill
 
 Fill in the fields and save. You can save a contact without a payment method, but you will not be able to process payouts via Hotspotty if you don't save a payment method. You can always edit or remove a contact. 
 
- 
 ![Docs](/img/workspace/managecontacts2.png)
 
-In the Payment Method field you can choose a fiat or a crypto payment method. A contact's payment method and details can be changed anytime, and will be applied automatically when you generate commission reports. To learn how you can pay your contacts via Hotspotty and use our bulk payment function see [Pay your contacts](../hotspotty-workspace/pay-your-contacts)
+In the Payment Method field, you can choose a fiat or a crypto payment method. A contact's payment method and details can be changed anytime, and will be applied automatically when you generate commission reports. To learn how you can pay your contacts via Hotspotty and use our bulk payment function, check [Pay your contacts](../hotspotty-workspace/pay-your-contacts)
 
 ![Docs](/img/workspace/managecontacts3.png)
 
-Please be accurate when adding payment details as these will be used if you decide to process payouts via Hotspotty. Hotspotty cannot be held accountable for any incaccurate transctions and cannot reverse these.   
+Please be accurate when adding payment details, as these will be used if you decide to process payouts via Hotspotty. Hotspotty cannot be held accountable for any inaccurate transactions and cannot reverse these.   
 
-When you save a contact the name will appear on the left-hand side. Click on the name, add a label or edit contact details and install information. 
+When you save a contact, the name will appear on the left-hand side. Click on the name, add a label, or edit contact details and install information. 
 
 ![Docs](/img/workspace/managecontacts4.png)
