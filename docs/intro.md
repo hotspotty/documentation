@@ -20,7 +20,7 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 
 ## Hotspotty Workspace
 
-To have a smooth and successful experience using Hotspotty to manage your hotspots installation data and any associated payments, we recommend the below guidesyarn:
+To have a smooth and successful experience using Hotspotty to manage your hotspots installation data and any associated payments, we recommend the below guides:
 
 - [Pay your contacts](./hotspotty-workspace/pay-your-contacts)
 - [Manage installation data](./hotspotty-workspace/manage-installation-data)  
@@ -35,6 +35,8 @@ If you're managing a fleet of hotspots we recommend you utilise the advanced fea
 - [Optimize your earnings and reward scaling](./expand-the-network/optimize-your-earnings-and-reward-scaling.md)
 - [Contact hotspot owner](./expand-the-network/contact-hotspot-owner.md)
 - [Time travel & area analytics](./expand-the-network/time-travel.md)
+- [Line of sight tool](./expand-the-network/line-of-sight.md)
+- [Status checker tool](./expand-the-network/status-checker.md)
 
 
 
