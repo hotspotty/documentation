@@ -8,7 +8,7 @@ Open Hotspotty from the main landing page and you'll see the map of your area an
 
 You need to understand the Hotspotty fundamentals to read the map. We also recommend to link to Discord and verify your wallet to get the most out of the Hotspotty analytics and location planning tools.
 
-![Docs](/img/docs/getting-started/understand-your-area1.png)
+![Docs](/img/getting-started/understand-your-area1.png)
 
 ## Hotspot analytics
 
@@ -27,7 +27,7 @@ If you want a detailed understanding of the hotspots' reward scale and how you c
 
 Click on an individual Hotspot and you'll see its analytics including hotspot status, rewards, reward scaling, hotspots witnessed and other information.
 
-![Docs](/img/docs/getting-started/understand-your-area2.png)
+![Docs](/img/getting-started/understand-your-area2.png)
 
 You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users connect to Discord and verify their wallets to enable a smooth and easy communication among hotspot owners globally.
 
@@ -37,8 +37,8 @@ See more on [Add your HNT wallet](./add-your-HNT-wallet.md)
 
 You can also analyze and compare hotspot performance in any given geographic area. Go to Map and press the Region Dashboard in the bottom right corner.
 
-![Docs](/img/docs/getting-started/dashboard-region-4.png)
+![Docs](/img/getting-started/dashboard-region-4.png)
 
 The region dashboard shows hotspot performance within the area including the HNT rewards generated and a list of hotspots that require attention.
 
-![Docs](/img/docs/getting-started/dashboard-region-5.png)
+![Docs](/img/getting-started/dashboard-region-5.png)

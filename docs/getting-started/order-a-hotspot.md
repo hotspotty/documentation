@@ -10,7 +10,7 @@ To see area analytics split by hotspot maker first sign in with Discord. From Ma
 
 Below is an example of hotspot population split by makers in the greater Nottingham area. To the left you see a list of hotspot makers ranked by the total number of hotspots within the area analyzed.  
 
-![Docs](/img/docs/getting-started/makers-1.png)
+![Docs](/img/getting-started/makers-1.png)
 
 
 Click on a maker. 
@@ -19,6 +19,6 @@ The maker analytics dashboard shows the total number of hotspots by the maker th
 
 In the Links tab we link to the maker's SoMe channels, website and support pages. Click on Purchase hotspot to go directly to the maker's webshop. 
 
-![Docs](/img/docs/getting-started/makers-2.png)
+![Docs](/img/getting-started/makers-2.png)
 
 We recommend that you do your research carefully before deciding on a maker to purchase from. Supply chain problems and delivery delays are not uncommon and Hotspotty does not take any responsibility for order delays or hardware issues.    
