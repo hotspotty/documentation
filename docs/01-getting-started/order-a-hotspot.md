@@ -23,6 +23,8 @@ In the Links tab we link to the maker's SoMe channels, website and support pages
 We recommend that you do your research carefully before deciding on a maker to purchase from. Supply chain problems and delivery delays are not uncommon, and Hotspotty does not take any responsibility for order delays or hardware issues.    
 
 
-## Makers page youtube introduction
+## Video Introduction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyHFBr4RpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wyHFBr4RpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
