@@ -2,38 +2,40 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hotspotty is a tool that will help you order, deploy and manage your hotspots. Whether you're simply considering buying your first hotspot or you have a fleet, Hotspotty is here to make it simple and profitable for you to participate in the Helium ecosystem.
 
-## Getting Started
+## Getting started
 
-Get started by **creating a new site**.
+If you're just starting out in the Helium ecosystem and have a few hotspots or want to become a hotspot owner we recommend you start with the below guides:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- [Understand your area and account verification](./getting-started/understand-your-area-and-account-verification.md)
+- [Add your HNT wallet](./getting-started/add-your-HNT-wallet.md)
+- [Hotspot Manufacturers & Order a hotspot](./getting-started/order-a-hotspot.md)
+- [Analytics dashboard](./getting-started/analytics-dashboard.md)
+- [Hotspot Status](./getting-started/hotspot-status.)
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**:
+## Hotspotty Workspace
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+To have a smooth and successful experience using Hotspotty to manage your hotspots installation data and any associated payments, we recommend the below guidesyarn:
 
-## Start your site
+- [Pay your contacts](./hotspotty-workspace/pay-your-contacts)
+- [Manage installation data](./hotspotty-workspace/manage-installation-data)  
+- [Manage contacts](./hotspotty-workspace/manage-contacts)  
+- [Generate comission reports](./hotspotty-workspace/generate-commission-reports)
 
-Run the development server:
+## Expand the network
 
-```shell
-cd my-website
+If you're managing a fleet of hotspots we recommend you utilise the advanced features of Hotspotty described in the below guides:
 
-npx docusaurus start
-```
+- [Evaluate hotspot locations](./expand-the-network/evaluate-hotspot-locations.md)
+- [Optimize your earnings and reward scaling](./expand-the-network/optimize-your-earnings-and-reward-scaling.md)
+- [Contact hotspot owner](./expand-the-network/contact-hotspot-owner.md)
+- [Time travel & area analytics](./expand-the-network/time-travel.md)
 
-Your site starts at `http://localhost:3000`.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
 
-## Status
 
-WIP2
+
