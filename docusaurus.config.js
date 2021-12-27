@@ -22,16 +22,11 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
+
+          routeBasePath: '/',
           editUrl: 'https://github.com/hotspotty/documentation',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/hotspotty/documentation/blog/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -50,13 +45,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Documentation',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
             href: 'https://app.hotspotty.net',
             label: 'Open app',
             position: 'right',
@@ -71,7 +59,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
@@ -97,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://hotspotty.net/blog/',
               },
               {
                 label: 'GitHub',
@@ -106,7 +94,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hotspotty, Ltd. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hotspotty, Ltd.`,
       },
       prism: {
         theme: lightCodeTheme,
