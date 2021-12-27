@@ -16,6 +16,11 @@
   --ifm-code-font-size: 95%;
 }
 
+.menu {
+  padding-top: 30px !important;
+  font-weight: 400;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;
