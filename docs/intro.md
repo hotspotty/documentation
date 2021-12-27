@@ -1,7 +1,10 @@
 ---
 sidebar_position: 1
 slug: /
+title: "Home"
 ---
+
+![hotspotty docs](/img/hotspotty_docs.png)
 
 # Introduction
 
