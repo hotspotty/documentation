@@ -16,6 +16,7 @@ const config = {
   organizationName: 'hotspotty', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
 
+
   presets: [
     [
       '@docusaurus/preset-classic',
