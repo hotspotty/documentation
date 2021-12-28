@@ -17,7 +17,7 @@ The first way to use the tool is by going to the [map within hotspotty](https://
 
 ![los-01](/img/expand-the-network/los-01.png)
 
-You will then be prompted with the second location. There is one thing you can notice now, where by simply moving the second point, you can already analyze if the two points can see each other by the color of the line. Bellow you can check two examples, where the first one, line of sight was established and the second one wasn't.
+You will then be prompted with the second location. There is one thing you can notice now, whereby simply moving the second point, you can already analyze if the two points can see each other by the color of the line. Below, you can check two examples, where the first one, line of sight was established, and the second one wasn't.
 
 **Success**, the two points that are separated by 9,114 meters have clear line of sight
 ![line of sight succeeded](/img/expand-the-network/los-02.png)
@@ -25,12 +25,12 @@ You will then be prompted with the second location. There is one thing you can n
 **Fail**, the two points that are separated by 9,746 meters have clear line of sight.
 ![line of sight fail](/img/expand-the-network/los-03.png)
 
-Now that you have the two points selected, you can click on **Confirm** to be able to check the elevation map between those two points. In the image bellow, you can see the example where LoS failed, as there is a mountain between the two points. In the image bellow, you can also click on **Point A** or **Point B** in order to relocate those unique points.
+Now that you have the two points selected, you can click on **Confirm** to be able to check the elevation map between those two points. In the image below, you can see the example where LoS failed, as there is a mountain between the two points. In the image below, you can also click on **Point A** or **Point B** in order to relocate those unique points.
 
 ![line of sight map](/img/expand-the-network/los-04.png)
 
 ### Second method
-The second method you can use to start a **LoS** verification is by going to the **[locations list](https://app.hotspotty.net/locations)**  on the map or the **[workspace locations](https://app.hotspotty.net/workspace/locations)** and click on the three dots <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg>, and selecyt **Line of Sight**.  Hotspotty will pre-define the first spot, as this location is the starting point of your verification.
+The second method you can use to start a **LoS** verification is by going to the **[locations list](https://app.hotspotty.net/locations)**  on the map or the **[workspace locations](https://app.hotspotty.net/workspace/locations)** and click on the three dots, <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> and select **Line of Sight**.  Hotspotty will pre-define the first spot, as this location is the starting point of your verification.
 
 ![los-05](/img/expand-the-network/los-05.png)
 
