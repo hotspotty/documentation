@@ -8,9 +8,9 @@ When setting up a new hotspot or analyzing the performance of an existing one, t
 
 ### What is the isse with the blockchain information?
 
-When trying to understand the actual status of a hotspot on the network, there are many times that you can ask yourself "***my hotspot is online, why the explorer or hotspotty is showing as offline?***". This happens because the helium network and blockchain are built on top of the  [libp2p](https://libp2p.io/) library in order to be a truly decentralized network. The downside of a decentralized network is that there isn't a single source of true status of the network, meaning that every network update needs to be transmitted from a hotspot into one random node of the blockchain, and this node will then transmit this information to other nodes and so on. This communication method is called **gossiping**, meaning that one blockchain node talk to other nodes that then talks to other nodes until the information is shared among the entire network.
+When trying to understand the actual status of a hotspot on the network, there are many times that you can ask yourself "***my hotspot is online, why the explorer or hotspotty is showing as offline?***". This happens because the helium network and blockchain are built on top of the  [libp2p](https://libp2p.io/) library in order to be a truly decentralized network. The downside of a decentralized network is that there isn't a single source of true status of the network, meaning that every network update needs to be transmitted from a hotspot into one random node of the blockchain, and this node will then transmit this information to other nodes and so on. This communication method is called **gossiping**, meaning that one blockchain node talks to other nodes that then talks to other nodes until the information is shared among the entire network.
 
-This gossiping activity can take up to a few days to finish syncing on all nodes. **[Hotspotty](https://hotspotty.net)** runs its own instance of the blockchain, the helium explorer is based on a blockchain node run by [stakejoy](https://stakejoy.com/), and other tools also have their own nodes. Understanding the gossiping method will clarify the why some hotspot statuses are different on one platform than in another.
+This gossiping activity can take up to a few days to finish syncing on all nodes. **[Hotspotty](https://hotspotty.net)** runs its own instance of the blockchain, the helium explorer is based on a blockchain node run by [stakejoy](https://stakejoy.com/), and other tools also have their own nodes. Understanding the gossiping method will clarify the why some hotspot statuses are different on one platform than on another.
 
 ### What is a relayed hotspot?
 
@@ -25,7 +25,7 @@ What the tool does is, it forces a **blockchain node** and a **hotspot** to perf
 
 ![hotspot-page](/img/expand-the-network/status-check-01.png)
 
-When you go to any hotspot status page, you have two sections, **Blockchain data** and **Real time status check** (displayed in the image above). The **Blockchain data** is the latest information pulled from the blockchain, which is usually correct, but can be outdated. If you want to double-check the data, you can run the **status check** by pressing the <button class="hotspotty-button">Run status check</button> button. 
+When you go to any hotspot status page, you have two sections, **Blockchain data**, and **Real time status check** (displayed in the image above). The **Blockchain data** is the latest information pulled from the blockchain, which is usually correct, but can be outdated. If you want to double-check the data, you can run the **status check** by pressing the <button class="hotspotty-button">Run status check</button> button. 
 
 Let's perform a few status checks that will represent different results to demonstrate the tool better.
 
