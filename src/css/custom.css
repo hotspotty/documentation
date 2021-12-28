@@ -14,6 +14,12 @@
   --ifm-color-primary-lighter: rgba(221, 214, 254);
   --ifm-color-primary-lightest: rgba(237, 233, 254);
   --ifm-code-font-size: 95%;
+
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color:rgba(17,24,39,1);
+  --ifm-background-surface-color:rgb(20, 31, 56);
 }
 
 .menu {
@@ -45,4 +51,36 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.los-icon {
+  width:30px;
+  height:30px;
+  background-color: rgba(28, 50, 146, 0.5); 
+  border-radius: 50%;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+
+.green-text {
+  color: #00a878;
+}
+
+.yellow-text{
+  color: #f9c851;
+}
+
+.orange-text{
+  color: #f9a851;
+}
+
+.purple-text{
+  color: #a851f9;
 }

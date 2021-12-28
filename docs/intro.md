@@ -8,7 +8,7 @@ title: "Home"
 
 # Introduction
 
-Hotspotty is a tool that will help you order, deploy and manage your hotspots. Whether you're simply considering buying your first hotspot or you have a fleet, Hotspotty is here to make it simple and profitable for you to participate in the Helium ecosystem.
+Hotspotty is a tool that will help you order, deploy and manage your [helium](https://www.helium.com/) hotspots. Whether you're simply considering buying your first hotspot or you have a fleet, Hotspotty is here to make it simple and profitable for you to participate in the Helium ecosystem.
 
 ## Getting started
 
@@ -16,7 +16,6 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 
 - [Understand your area and account verification](./getting-started/understand-your-area-and-account-verification.md)
 - [Add your HNT wallet](./getting-started/add-your-HNT-wallet.md)
-- [Verify your HNT Wallet](./getting-started/verify-your-HNT-wallet.md)
 - [Hotspot Manufacturers & Order a hotspot](./getting-started/order-a-hotspot.md)
 - [Analytics dashboard](./getting-started/analytics-dashboard.md)
 - [Hotspot Status](./getting-started/hotspot-status.md)
