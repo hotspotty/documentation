@@ -68,6 +68,19 @@ img {
   font-weight: bold;
 }
 
+.hotspotty-button {
+  color: rgba(255,255,255,1);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  background-color: rgba(124,58,237,1);
+  border-width: 1px;
+  border-radius: .375rem;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .green-text {
   color: #00a878;
