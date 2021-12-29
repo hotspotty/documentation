@@ -16,12 +16,13 @@ This gossiping activity can take up to a few days to finish syncing on all nodes
 
 #### Port 44158
 
-When a hotspot comes online, it communicates with the helium network, but that doesn't mean the network can connect back to the miner. The communication from the world to the hotspot happens via **port 44158**, which will ensure that all data can easily flow to and from the miner without any issue. If the port-forwarding isn't correctly setup, the miner can still communicate to the network, but it will first establish a direct connection to another unrelayed hotspot in the network via the **p2plib* protocol. This means that most data transmitted from and to this hotspot will first pass by another hotspot. As you can imagine, doing this will add more friction and slowness to the hotspot performance.
+When a hotspot comes online, it communicates with the helium network, but that doesn't mean the network can connect back to the miner. The communication from the world to the hotspot happens via **port 44158**, which will ensure that all data can easily flow to and from the miner without any issue. If the port-forwarding isn't correctly setup, the miner can still communicate to the network, but it will first establish a direct connection to another unrelayed hotspot in the network via the **p2plib** protocol. This means that most data transmitted from and to this hotspot will first pass by another hotspot. As you can imagine, doing this will add more friction and slowness to the hotspot performance.
 
 #### The listen address
 
-Ipsum dolor
+The **listen address** is the address the network uses to communicate with the hotspot. If your hotspot is **not relayed** and accessible, the listen address will look something similar to **"/ip4/108.53.113.177/tcp/44158"**, meaning that this hotspot's IP address is **108.53.113.177** and is configured on the port **44158**. All good there.
 
+If the port-forwarding is not successfully done, the hotspot will be **relayed**, which means that all communication to the hotspot will be done via the p2p network using another hotspot as intermediator. In this case, the hotspot listen address will be something like **/p2p/11uwqFkaZZDiUBDCB9gdKdD9JxrKPsp7MRLkWUvkCYEwtS5YqYr/p2p-circuit/p2p/11127YbdxPgbyGBXiFegqv56mh76Yqv9XfD3cEvH9672sBcqLw7**. If this is the case, you need to fix the port-forwarding of the device for optimal performance.
 
 ### The status check tool
 
@@ -36,27 +37,33 @@ When you go to any hotspot status page, you have two sections, **Blockchain data
 ![hotspot-page](/img/expand-the-network/status-check-05.png)
 
 The result of the **status check** will be separated into the blocks:
-* **1** - Shows if the hotspot is **online**, **offline**, or **likely online**. **Likely online** happens when all our tests fail (couldn't fetch a valid address for the hotspot to perform a PIN), but the hotspot has had an activity recorded on the blockchain not too long ago.
+* **1** - Shows if the hotspot is **online**, **offline**, or **likely online**. **Likely online** happens when all our tests fail (couldn't fetch a valid address for the hotspot to perform a PIN), but the hotspot has had activity recorded on the blockchain not too long ago.
 * **2** - Based on the [**listen address**](#the-listen-address), we can know if the hotspot is relayed or not. This data is fetched from pinging the hotspot, and not from the blockchain data.
-* **3** - 
-* **4** - 
+* **3** - This is the average time it took to get a ping response from our servers in North Europe to the miner. Keep in mind that the hotspot responding to the ping request is mich more important information than the actual value of the ping.
+* **4** - When the system tries to ping the hotspot, it uses two data sources, the **miner** performs a ping using the miner's peer-book, so that would be the latest value available on the network. The **blockchain** tries reaching out to the device using the data stored in the blockchain. Let's list some available options:
+    * **Miner 5/5 pings succeeded** & **Blockchain 5/5 pings succeeded**: Out system was able to ping the hotspot using the address from the **miner** and from the **blockchain**. This means that everything is good on the hotspot end and the blockchain contains the actual address of the device.
+    * **Miner 5/5 pings succeeded** & **Blockchain 0/5 pings succeeded**: Everything is good on the helium miner, but the **listen address** on the blockchain is outdated and will be updated as soon as the gossiping is finished.
+    * **No listen address** & **Blockchain 0/5 pings succeeded**: Something is wrong, the device can be offline or unresponsive. The **miner** couldn't reach it in its peer-book address as well as with the address from the blockchain.
+    
 
 Let's perform a few status checks that will represent different results to demonstrate the tool better.
 
 #### Case 1:
 ![hotspot-page](/img/expand-the-network/status-check-02.png)
 
-More information coming soon...
+Everything good, we were able to verify that the hotspot is **not relayed**, and was able to ping it from the **miner** address as well with the address from the **blockchain**.
 
 #### Case 2:
 ![hotspot-page](/img/expand-the-network/status-check-04.png)
 
-More information coming soon...
+This is a tricky one, the system could not reach the hotspot from the address presented on the **blockchain**, and the miner could not fetch the listen address for the hotspot. The address presented on the blockchain also reflects that the hotspot is (or at least, was) relayed. **Likely online** comes form the fact that, even not being able to ping the device, there was activity recorded on the network. In this case it was recorded six hours ago, which means that the hotspot can still be online but having some issue or it just went offline six hours ago.
+
+One thing you can do here is run the **status check** another time or wait a few hours to test again.
 
 #### Case 3:
 ![hotspot-page](/img/expand-the-network/status-check-03.png)
 
-More information coming soon...
+Looks like the device is actually **offline**, it didn't record any activity many hours ago, the listen address from the blockchain is reflecting of a **relayed** hotspot, but the miner couldn't ping it.
 
 ### Port Check
 
@@ -69,10 +76,6 @@ To run the port test, click on the three dots, <svg xmlns="http://www.w3.org/200
 ![port-check](/img/expand-the-network/status-check-port-check-01.png)
 
 ![port-check](/img/expand-the-network/port-check.gif)
-
-
-### Frequently asked questions:
-* More information coming soon...
 
 ## Video Introduction
 
