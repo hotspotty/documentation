@@ -10,7 +10,7 @@ To enjoy the full capabilities of Hotspotty including communication with other h
 
 From the main map view, click sign in with Discord in the top right corner. If you do not have a Discord account, you will be asked to create one. Create one using your email.
 
-After you sign in with Discord, we advise that you verify your HNT wallet. This will unlock access to a broader range of Hotspotty tools, e.g. help you plan your locations to ensure an even distribution of the Helium Network and in effect greatest earning potential for all.
+After you sign in with Discord, we advise that you verify your HNT wallet. This will unlock access to a broader range of Hotspotty tools, e.g. helping you plan your locations to ensure an even distribution of the Helium Network and in effect greatest earning potential for all.
 
 ![Docs](/img/getting-started/verify-your-wallet-3.png)
 
