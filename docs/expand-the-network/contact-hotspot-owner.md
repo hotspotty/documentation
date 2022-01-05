@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Contact hotspot owner
+# Contact hotspot owner (in dev)
 Letting people contact you is a great way to improve the overall quality of the Helium network. Maybe someone wants to collaborate with you or wants to help you [improve your reward scale](../expand-the-network/optimize-your-earnings-and-reward-scaling)?
 Or what if you are the person willing to help someone out?
 
