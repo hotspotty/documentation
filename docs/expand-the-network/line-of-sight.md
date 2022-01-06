@@ -13,7 +13,7 @@ sidebar_position: 5
 
 When planning a hotspot deployment, there are many tools that you can use to help you assess if the locations are good and promising or not. With helium's PoC ([Proof-Of-Coverage](https://docs.helium.com/blockchain/proof-of-coverage/)), being able to communicate with other hotspots is extremely important to guarantee a profitable mining operation, as it is the current way the network analyzes that your hotspot is actually providing coverage to the network.
 
-In order to verify that you have a good location, you can use one tool built by our team called **Line of Sight** (LoS), which checks if two points in the map along with its altitudes can freely see each other. In our experience, proving line of sight is a more accurate tool than doing RF simulations to guarantee connectivity between two antennas.
+In order to verify that you have a good location, you can use one tool built by our team called **Line of Sight** (LoS), which checks if two points on the map along with its altitudes can freely see each other. In our experience, proving line of sight is a more accurate tool than doing RF simulations to guarantee connectivity between two antennas.
 
 
 To use our line of sight tool, there are two different ways you can use it. 
@@ -24,7 +24,7 @@ The first way to use the tool is by going to the [map within hotspotty](https://
 
 ![los-01](/img/expand-the-network/los-01.png)
 
-You will then be prompted with the second location. There is one thing you can notice now, whereby simply moving the second point, you can already analyze if the two points can see each other by the color of the line. Below, you can check two examples, where the first one, line of sight was established, and the second one wasn't.
+You will then be prompted for the second location. There is one thing you can notice now, whereby simply moving the second point, you can already analyze if the two points can see each other by the color of the line. Below, you can check two examples, where the first one, line of sight was established, and the second one wasn't.
 
 **Success**, the two points that are separated by 9,114 meters have clear line of sight
 ![line of sight succeeded](/img/expand-the-network/los-02.png)
