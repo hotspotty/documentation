@@ -9,9 +9,13 @@ Or what if you are the person willing to help someone out?
 
 ## How to get contacted?
 Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a 🤖. There are 2 approaches: 
-1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the **Verify wallet** button.
+1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button class="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](../getting-started/add-your-helium-wallet#verify-wallet-ownership).
+
+![Verify Wallet](/img/expand-the-network/verify-wallet-01.png)
+
 2. You can add your wallet to your [workspace](https://app.hotspotty.net/workspace/wallets) and verify it from there by clicking on the 3 dots aligned at the right of your wallet address.
 
+![Verify Wallet](/img/expand-the-network/verify-wallet-02.png)
 
 ## How to contact a hotspot owner?
 First, [navigate to the desired hotspot](https://app.hotspotty.net/hotspots) you want to message the owner from. By then clicking on the **Contact owner** tab, you will be able to send a message to the owner who will then receive an email.
