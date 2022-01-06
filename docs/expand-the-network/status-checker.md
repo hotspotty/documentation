@@ -4,8 +4,14 @@ sidebar_position: 6
 
 # Status check
 
-Verifying if a hotspot is fully functional is useful as it allows you to optimize network up-time and consequently your earnings.
-The **status** tab on the hotspot details page displays the status of a hotspot according to the blockchain data but more importantly, it includes a **real time status check** feature that reports in-depth hotspot status information and provides guidance for fixing any issues that might be present.
+## Video Introduction
+
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0ETAK0Osz2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+When setting up a new hotspot or analyzing the performance of an existing one, there are many things you need to check in order to ensure top performance. The **status check** tool enables you to perform a live test of the actual hotspot instead of relying on the information provided by the blockchain. Before we dig into the tool, lets check out a few concepts first.
 
 Let's address some common questions before we dive into the **real time status check** feature.
 
@@ -86,12 +92,6 @@ To run the port test, click on the three dots, <svg xmlns="http://www.w3.org/200
 ![port-check](/img/expand-the-network/status-check-port-check-01.png)
 
 ![port-check](/img/expand-the-network/port-check.gif)
-
-## Video Introduction
-
-<div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0ETAK0Osz2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ### Resources
 

@@ -4,6 +4,13 @@ sidebar_position: 5
 
 # Line of sight 
 
+## Video Introduction
+
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lBdkoYNK_kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 When planning a hotspot deployment, there are many tools that you can use to help you assess if the locations are good and promising or not. With helium's PoC ([Proof-Of-Coverage](https://docs.helium.com/blockchain/proof-of-coverage/)), being able to communicate with other hotspots is extremely important to guarantee a profitable mining operation, as it is the current way the network analyzes that your hotspot is actually providing coverage to the network.
 
 In order to verify that you have a good location, you can use one tool built by our team called **Line of Sight** (LoS), which checks if two points on the map along with its altitudes can freely see each other. In our experience, proving line of sight is a more accurate tool than doing RF simulations to guarantee connectivity between two antennas.
@@ -35,8 +42,3 @@ The second method you can use to start a **LoS** verification is by going to the
 ![los-05](/img/expand-the-network/los-05.png)
 
 
-## Video Example
-
-<div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lBdkoYNK_kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
