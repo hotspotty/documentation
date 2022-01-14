@@ -10,3 +10,4 @@ Transmit scale is a multiplier that is applied to rewards of any Hotspot that wi
 The only way to affect the scale is to move your hotspot somewhere less dense, or somehow remove the hotspots around you.
 
 ## Hexes
+Coming soon...
