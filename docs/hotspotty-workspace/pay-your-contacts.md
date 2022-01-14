@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Pay your contacts (in dev)
+# Pay your contacts
 
 If you have not yet created a commission report, please go ahead and take a look [here](../hotspotty-workspace/generate-commission-reports) before proceeding.
 
