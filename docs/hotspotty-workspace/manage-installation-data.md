@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Manage installation data (in dev)
+# Manage installation data
 
 ## Add installs
 1. Head over to your workspace and go to the 'Installs' tab.

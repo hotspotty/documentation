@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Hotspot status (in dev)
+# Hotspot status
 
 ![Docs](/img/getting-started/hotspot-status-ui.png)
 
