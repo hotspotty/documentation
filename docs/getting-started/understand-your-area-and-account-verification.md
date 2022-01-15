@@ -4,15 +4,15 @@ sidebar_position: 1
 
 # Understand your area
 
-Open Hotspotty from the main landing page and you'll see the map of your area and the positioning and status of the hotspots within it. Use the Apperance settings cog in the top right corner to choose the filter you want to apply to your area. 
+Open Hotspotty from the main landing page and you'll see the map of your area and the positioning and status of the hotspots within it. Use the Appearance settings cog in the top right corner to choose the filter you want to apply to your area. 
 
-Hotspotty provides different filters to help you analyze your area based on the question you seek to answer. For example, in the apperance settings you can choose to filter by online status, wallet verification status, rewards and witnesses. Many of those are self-explanatory. 
+Hotspotty provides different filters to help you analyze your area based on the question you seek to answer. For example, in the appearance settings you can choose to filter by online status, wallet verification status, rewards and witnesses. Many of those are self-explanatory. 
 
 ![Docs](/img/getting-started/understand-your-area0.png)
 
-You need to understand the Hotspotty fundamentals to read the map. We also recommend linking to Discord and verifying your wallet to get the most out of the Hotspotty analytics and location planning tools. 
+You need to understand the Hotspotty fundamentals to read the map. We also recommend verifying your wallet to get the most out of the Hotspotty analytics and community tools. 
 
-In the below example, we're filtering by winess reward units. 
+In the below example, we're filtering by witness reward units. 
 
 ![Docs](/img/getting-started/understand-your-area1.png)
 
@@ -20,7 +20,9 @@ In the below example, we're filtering by winess reward units.
 
 Zoom in and out of the map using the + / - symbols in the top right corner. When you zoom out sufficiently, you will see the purple hex that defines the outer borders of the area that's being viewed. You can move the purple hex or use the magnifying glass to search for specific locations, hotspots or contacts. The map will move to the desired location, hotspot or contact when you press enter.
 
-Every dot on the map represents a hotspot as it is asserted in the Helium network. The chosen apperance settings filter dictates the color of the hotspots. The color of the dot corresponds with the hotspot status within the network. In the example hotspots we're filtering by witness reward scale, and a green dot shows an active hotspot with excellent transmit scale.
+Every dot on the map represents a hotspot as it is asserted in the Helium network. The chosen apperance settings filter dictates the color of the hotspots. The color of the dot corresponds with the hotspot status within the network. In the example hotspots we're filtering by witness reward scale, and a green dot shows an active hotspot with an excellent transmit scale.
+
+If you navigate to the appearance settings cog in the top right corner you can read more about the different filters at the bottom of the page. 
 
 <ul>
     <li><span class="green-text bold-text">Green</span> - the hotspot is <span class="bold-text">online</span> and has an <span class="bold-text">excellent transmit scale</span></li>
@@ -30,15 +32,13 @@ Every dot on the map represents a hotspot as it is asserted in the Helium networ
 </ul>
 
 
-If you want a detailed understanding of the hotspots' reward scale and how you can improve your reward potential see
-
-[Optimize your earnings and reward scaling](../expand-the-network/optimize-your-earnings-and-reward-scaling)
+If you want a detailed understanding of the hotspots' reward scale and how you can improve your reward potential see [Optimize your earnings and reward scaling](../expand-the-network/optimize-your-earnings-and-reward-scaling)
 
 Click on an individual Hotspot and you'll see its analytics including hotspot status, rewards, reward scaling, hotspots witnessed and other information.
 
 ![Docs](/img/getting-started/understand-your-area2.png)
 
-You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users connect to Discord and verify their wallets to enable a smooth and easy communication among hotspot owners globally.
+You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users verify their wallets to enable a smooth and easy communication among hotspot owners globally.
 
 See more on [Add your HNT wallet](./add-your-helium-wallet.md)
 
