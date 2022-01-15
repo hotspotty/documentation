@@ -7,7 +7,12 @@ sidebar_position: 5
 If you have not yet created a commission report, please go ahead and take a look [here](../hotspotty-workspace/generate-commission-reports) before proceeding.
 
 ## Separate payments
-...
+Instead of paying all contacts in a commission report at the same time you have tha ability to pay your contacts one by one. Start by opening up a commission report.
+![Docs](/img/workspace/pay-seperately-1.png)
+
+Select the contact(s) you want to pay. And click on <button class="hotspotty-button">Pay selected contacts</button>.
+You can choose to pay your selected contact(s) using the Helium app to scan the provided QR code or pay using the [Helium CLI](https://docs.helium.com/wallets/cli-wallet/).
+![Docs](/img/workspace/pay-seperately-2.png)
 ## Bulk payments
 Hotspotty gives you the option to pay multiple people at once so that you do not have to worry about copy/pasting every single HNT wallet address. We have 2 options to quickly have your contacts paid:
 
