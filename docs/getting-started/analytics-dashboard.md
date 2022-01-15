@@ -20,7 +20,7 @@ Continue further, and you'll see the hotspots that require your attention. This 
 
 This section notifies you of issues that are affecting your HNT earning potential and should be addressed. 
 
-For example, for hotspots with terrible transmit scale you could be better off positioning these in a different location. To find the optimal location for your hotspot and to maximize HNT reward use Hotspotty planning tools and see [Evaluate hotspot locations](../expand-the-network/evaluate-hotspot-locations.md) and [Optimize your earnings and reward scaling](../expand-the-network/optimize-your-earnings-and-reward-scaling.md)
+For example, for hotspots with terrible transmit scale you could be better off positioning these in a different location. To find the optimal location for your hotspot and to maximize HNT reward use Hotspotty planning tools and see [Evaluate hotspot locations](../expand-the-network/evaluate-hotspot-locations.md) and [Optimize your earnings and reward scaling](../expand-the-network/optimize-your-earnings-and-reward-scaling.md).
 
 ![Docs](/img/getting-started/dashboard-3.png)
 
