@@ -4,9 +4,15 @@ sidebar_position: 1
 
 # Understand your area
 
-Open Hotspotty from the main landing page and you'll see the map of your area and the positioning and status of the hotspots within it.
+Open Hotspotty from the main landing page and you'll see the map of your area and the positioning and status of the hotspots within it. Use the Apperance settings cog in the top right corner to choose the filter you want to apply to your area. 
 
-You need to understand the Hotspotty fundamentals to read the map. We also recommend linking to Discord and verifying your wallet to get the most out of the Hotspotty analytics and location planning tools.
+You need to understand the Hotspotty fundamentals to read the map. We also recommend linking to Discord and verifying your wallet to get the most out of the Hotspotty analytics and location planning tools. 
+
+Hotspotty provides different filters to help you analyze your area based on the question you seek to answer. For example, in the apperance settings you can choose to filter by online status, wallet verification status, rewards and witnesses. 
+
+![Docs](/img/getting-started/understand-your-area0.png)
+
+Many of those are self-explanatory. 
 
 ![Docs](/img/getting-started/understand-your-area1.png)
 
