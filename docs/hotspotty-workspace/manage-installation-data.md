@@ -1,7 +1,6 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Manage installation data
-
 Coming soon...

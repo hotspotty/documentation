@@ -17,7 +17,6 @@ In the below example, we're filtering by witness reward units.
 ![Docs](/img/getting-started/understand-your-area1.png)
 
 ## Hotspot analytics
-
 Zoom in and out of the map using the + / - symbols in the top right corner. When you zoom out sufficiently, you will see the purple hex that defines the outer borders of the area that's being viewed. You can move the purple hex or use the magnifying glass to search for specific locations, hotspots or contacts. The map will move to the desired location, hotspot or contact when you press enter.
 
 Every dot on the map represents a hotspot as it is asserted in the Helium network. The chosen apperance settings filter dictates the color of the hotspots. The color of the dot corresponds with the hotspot status within the network. In the example hotspots we're filtering by witness reward scale, and a green dot shows an active hotspot with an excellent transmit scale.
