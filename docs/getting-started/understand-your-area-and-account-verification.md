@@ -6,11 +6,12 @@ sidebar_position: 1
 
 Open Hotspotty from the main landing page and you'll see the map of your area and the positioning and status of the hotspots within it. Use the appearance settings cog in the top right corner to choose your preferred visualization setting.
 
-Hotspotty provides different visualization settings to help you analyze your area based on the question you seek to answer. For example, in the appearance settings you can choose to visualize by online status, wallet verification status, rewards and witnesses. Some of these metrics are absolute (e.g. online  =  green, offline = red), whereas other represent the relative performance of a metric of choice among all hotspots in your area (purple zone). The histogram displays the meaning of each color and specifies the boundaries  of values  as well as how many fall under each 'bucket'. We encourage you to try different settings.
+Hotspotty provides different visualization settings to help you analyze your area based on the question you seek to answer. For example, in the appearance settings you can choose to visualize by online status, wallet verification status, rewards and witnesses. Some of these metrics are absolute (e.g. online  =  green, offline = red), whereas other represent the relative performance of a metric of choice among all hotspots in your area (the purple zone). 
+The histogram at the bottom of the appearance settings displays the meaning of each color and specifies the boundaries  of values  as well as how many fall under each 'bucket'. You need to understand the chosen setting to read the map. We encourage you to try different settings, and recommend verifying your wallet to get the most out of the Hotspotty analytics and community tools. 
 
 ![Docs](/img/getting-started/understand-your-area0.png)
 
-You need to understand the Hotspotty fundamentals to read the map. We also recommend verifying your wallet to get the most out of the Hotspotty analytics and community tools. 
+ 
 
 In the below example, we're visualizing by simulated transmit scale. Simulated transmit scale represents how saturated any given area is, and is there to help you understand whether it makes sense to add a hotspot to any given area. 
 
@@ -28,8 +29,7 @@ Every dot on the map represents a hotspot as it is asserted in the Helium networ
     <li><span class="yellow-text bold-text">Yellow</span> - the hotspot is <span class="bold-text">online</span> and has a <span class="bold-text">mediocre transmit scale</span></li>
     <li><span class="orange-text bold-text">Orange</span> - the hotspot is <span class="bold-text">online</span> and has a <span class="bold-text">poor transmit scale</span></li>
     <li><span class="purple-text bold-text">Purple</span> - the hotspot is <span class="bold-text">offline</span> or has recently been <span class="bold-text">offline</span> and/or is currently <span class="bold-text">syncing</span></li>
-</ul>
-<li><span class="red-text bold-text">Red</span> - the hotspot is <span class="bold-text">online</span> and has a <span class="bold-text">terrible transmit scale</span></li>
+</ul> <li><span class="red-text bold-text">Red</span> - the hotspot is <span class="bold-text">online</span> and has a <span class="bold-text">terrible transmit scale</span></li>
 
 If you want a detailed understanding of the hotspots' reward scaling and how you can improve your reward potential see [Optimize your earnings and reward scaling](../expand-the-network/optimize-your-earnings-and-reward-scaling)
 
