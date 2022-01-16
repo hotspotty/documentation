@@ -30,6 +30,7 @@ To have a smooth and successful experience using Hotspotty to manage your hotspo
 - [Generate commission reports](./hotspotty-workspace/generate-commission-reports)
 - [Pay your contacts](./hotspotty-workspace/pay-your-contacts)
 - [Workspace settings](./hotspotty-workspace/settings)
+- [Tax reporting](./hotspotty-workspace/tax-reporting)
 
 ## Expand the network
 
