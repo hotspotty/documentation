@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Order a hotspot
 
-Hotspotty is a one-stop shop tool to help you order, install and manage your hotspots. We partner with hotspot manufacturers and provide you with real-time analytics of hotspots based on 'maker' performance and popularity within any given area. 
+Hotspotty is a one-stop-shop tool to help you order, install and manage your hotspots. We partner with hotspot manufacturers and provide you with real-time analytics of hotspots based on 'maker' performance and popularity within any given area. 
 
 To see area analytics split by hotspot maker, first sign in with Discord. From Map view, navigate to Hotspots and proceed to the Makers tab in the top left corner. 
 
-Below is an example of hotspot population split by makers in the greater Nottingham area. To the left you see a list of hotspot makers ranked by the total number of hotspots within the area analyzed.  
+Below is an example of hotspot population split by makers in the greater Nottingham area. To the left you see a list of hotspot makers ranked by the total number of hotspots within the area being analyzed.  
 
 ![Docs](/img/getting-started/makers-1.png)
 
