@@ -25,7 +25,7 @@ In this example, John (a contact) hosts a hotspot at the given location address.
 
 ### **2. Add commission to [install](../hotspotty-workspace/manage-installation-data)**
 
-You can either add a new commission for your contact or attach a [commission template](../hotspotty-workspace/settings#commissions) that you can set up through your workspace settings. [Commission templates](../hotspotty-workspace/settings#commissions) are extremely useful if you want the same payout rules for multiple hosts.
+You can either add a new commission for your contact or attach a [commission template](../hotspotty-workspace/settings#commission-templates) that you can set up through your workspace settings. [Commission templates](../hotspotty-workspace/settings#commission-templates) are extremely useful if you want the same payout rules for multiple hosts.
 
 ![Docs](/img/workspace/commission-report-2.png)
 
