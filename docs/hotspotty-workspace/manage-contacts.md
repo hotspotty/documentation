@@ -1,17 +1,22 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Manage contacts 
-Hotspotty gives you an option to store and manage details of any contacts that are involved in spreading the Helium network with you. The contacts section is there to assist you with payment and information management. 
+# Manage contacts
 
-This section is also essential if you want to process payments via Hotspotty. This is especially convenient if you need to process several regular payments.    
+Hotspotty gives you an option to store and manage details of any contacts that are involved in spreading the Helium network with you. The contacts section is there to assist you with payment and information management.
 
-From Map navigate to Contacts in the top left corner and press Add contact. Fill in the contact information. 
+This section is also essential if you want to process payments via Hotspotty. This is especially convenient if you need to process several regular payments.
+
+From Map navigate to Contacts in the top left corner and press Add contact. Fill in the contact information.
 
 ![Docs](/img/workspace/managecontacts1.png)
 
+<<<<<<< HEAD
 Fill in the fields and save. You can save a contact without a payment method, but you will not be able to process payouts via Hotspotty. You can always edit or remove a contact. 
+=======
+Fill in the fields and save. You can save a contact without a payment method, but you will not be able to process payouts via Hotspotty if you don't save a payment method. You can always edit or remove a contact.
+>>>>>>> 2c9ecbd... sidebar position update
 
 ![Docs](/img/workspace/managecontacts2.png)
 
@@ -19,8 +24,8 @@ In the Payment Method field, you can choose a fiat or a crypto payment method. A
 
 ![Docs](/img/workspace/managecontacts3.png)
 
-Please be accurate when adding payment details, as these will be used if you decide to process payouts via Hotspotty. Hotspotty cannot be held accountable for any inaccurate transactions and cannot reverse these.   
+Please be accurate when adding payment details, as these will be used if you decide to process payouts via Hotspotty. Hotspotty cannot be held accountable for any inaccurate transactions and cannot reverse these.
 
-When you save a contact, the name will appear on the left-hand side. Click on the name, add a label, or edit contact details and install information. 
+When you save a contact, the name will appear on the left-hand side. Click on the name, add a label, or edit contact details and install information.
 
 ![Docs](/img/workspace/managecontacts4.png)
