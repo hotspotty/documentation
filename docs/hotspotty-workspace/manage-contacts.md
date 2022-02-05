@@ -13,10 +13,7 @@ From Map navigate to Contacts in the top left corner and press Add contact. Fill
 ![Docs](/img/workspace/managecontacts1.png)
 
 <<<<<<< HEAD
-Fill in the fields and save. You can save a contact without a payment method, but you will not be able to process payouts via Hotspotty. You can always edit or remove a contact. 
-=======
-Fill in the fields and save. You can save a contact without a payment method, but you will not be able to process payouts via Hotspotty if you don't save a payment method. You can always edit or remove a contact.
->>>>>>> 2c9ecbd... sidebar position update
+Fill in the fields and save. You can save a contact without a payment method, but you will not be able to process payouts via Hotspotty. You can always edit or remove a contact.
 
 ![Docs](/img/workspace/managecontacts2.png)
 
