@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Manage contacts
 
-Hotspotty gives you an option to store and manage details of any contacts that are involved in spreading the Helium network with you. The contacts section is there to assist you with payment and information management.
+Hotspotty gives you the option to store and manage details of any contacts that are involved in spreading the Helium network with you. The contacts section is there to assist you with payment and information management.
 
 This section is also essential if you want to process payments via Hotspotty. This is especially convenient if you need to process several regular payments.
 
