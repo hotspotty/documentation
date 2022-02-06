@@ -14,12 +14,11 @@
   --ifm-color-primary-lighter: rgba(221, 214, 254);
   --ifm-color-primary-lightest: rgba(237, 233, 254);
   --ifm-code-font-size: 95%;
-
 }
 
-html[data-theme='dark'] {
-  --ifm-background-color:rgba(17,24,39,1);
-  --ifm-background-surface-color:rgb(20, 31, 56);
+html[data-theme="dark"] {
+  --ifm-background-color: rgba(17, 24, 39, 1);
+  --ifm-background-surface-color: rgb(20, 31, 56);
 }
 
 .menu {
@@ -45,7 +44,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 .videoWrapper iframe,
 .videoWrapper embed,
-.videoWrapper object  {
+.videoWrapper object {
   position: absolute;
   top: 0;
   left: 0;
@@ -54,9 +53,9 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .los-icon {
-  width:30px;
-  height:30px;
-  background-color: rgba(28, 50, 146, 0.5); 
+  width: 30px;
+  height: 30px;
+  background-color: rgba(28, 50, 146, 0.5);
   border-radius: 50%;
 }
 
@@ -69,31 +68,43 @@ img {
 }
 
 .hotspotty-button {
-  color: rgba(255,255,255,1);
+  color: rgba(255, 255, 255, 1);
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-  background-color: rgba(124,58,237,1);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: rgba(124, 58, 237, 1);
   border-width: 1px;
-  border-radius: .375rem;
+  border-radius: 0.375rem;
   justify-content: center;
   align-items: center;
 }
 
+.hotspotty-button-2 {
+  color: rgba(124, 58, 237, 1);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: transparent;
+  border-width: 1px;
+  border-radius: 0.375rem;
+  justify-content: center;
+  align-items: center;
+}
 
 .green-text {
   color: #00a878;
 }
 
-.yellow-text{
+.yellow-text {
   color: #f9c851;
 }
 
-.orange-text{
+.orange-text {
   color: #f9a851;
 }
 
-.purple-text{
+.purple-text {
   color: #a851f9;
 }
