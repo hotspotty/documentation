@@ -25,6 +25,7 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 To have a smooth and successful experience using Hotspotty to manage your hotspots installation data and any associated payments, we recommend the below guides:
 
 - [Add hotspots to your workspace](./hotspotty-workspace/add-hotspot)
+- [Add locations to your workspace](./hotspotty-workspace/manage-locations)
 - [Manage contacts](./hotspotty-workspace/manage-contacts)
 - [Manage installation data](./hotspotty-workspace/manage-installation-data)
 - [Generate commission reports](./hotspotty-workspace/generate-commission-reports)
