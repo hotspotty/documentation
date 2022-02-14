@@ -4,6 +4,13 @@ sidebar_position: 3
 
 # Order a hotspot
 
+## Video Introduction
+
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wyHFBr4RpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 Hotspotty is a one-stop-shop tool to help you order, install and manage your hotspots. We partner with hotspot manufacturers and provide you with real-time analytics of hotspots based on 'maker' performance and popularity within any given area. 
 
 To see area analytics split by hotspot maker, first sign in with Discord. From Map view, navigate to Hotspots and proceed to the Makers tab in the top left corner. 
@@ -21,10 +28,3 @@ In the Links tab we link to the maker's SoMe channels, website and support pages
 ![Docs](/img/getting-started/makers-2.png)
 
 We recommend that you do your research carefully before deciding on a maker to purchase from. Supply chain problems and delivery delays are not uncommon, and Hotspotty does not take any responsibility for order delays or hardware issues.    
-
-
-## Video Introduction
-
-<div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wyHFBr4RpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
