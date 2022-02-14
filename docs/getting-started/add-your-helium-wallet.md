@@ -25,10 +25,18 @@ You can choose to verify your wallet either from your workspace or the Hotspotty
 
 The process of actually verifying a wallet is very straight forward.
 
-1. Check if you are going to verify the right wallet. The hotspots attached to the wallet are shown on the right.
+1. **Check if you are going to verify the right wallet. The hotspots attached to the wallet are shown on the right.**
 
-2. You will need to make a small donation to the Hotspotty team. The minimum amount is 0.1 HNT, every donation larger than that is greatly appreciated and will help out the team to make more great content for the community!
+![Docs](/img/getting-started/verify-flow-1.png)
 
-3. A QR code is now generated and you have 24 hours the time in order to make the transaction by scanning the QR code using the Helium app. If the transaction is not made within 24 hours, you can start the process again.
+2. **You will need to make a small donation to the Hotspotty team. The minimum amount is 0.1 HNT, every donation larger than that is greatly appreciated and will help out the team to make more great content for the community!**
 
-4. Great! Your transaction is now pending and will automatically get approved by the Helium blockchain.
+![Docs](/img/getting-started/verify-flow-2.png)
+
+3. **A QR code is now generated and you have 24 hours the time in order to make the transaction by scanning the QR code using the Helium app. If the transaction is not made within 24 hours, you can start the process again.**
+
+![Docs](/img/getting-started/verify-flow-3.png)
+
+4. **Great! Your transaction is now pending and will automatically get approved by the Helium blockchain. You will receive an email once accepted.**
+
+![Docs](/img/getting-started/verify-flow-4.png)
