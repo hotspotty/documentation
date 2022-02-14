@@ -22,9 +22,16 @@ Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a �
 
 First, [navigate to the desired hotspot](https://app.hotspotty.net/hotspots) you want to message the owner from. By then clicking on the **Contact owner** tab, you will be able to send a message to the owner who will then receive an email.
 
-> ### ⚠️ It is required to [verify](../getting-started/add-your-helium-wallet#verify-wallet-ownership) at least one wallet in the workspace to be able to contact others.
+:::caution
+#### It is required to [verify](../getting-started/add-your-helium-wallet#verify-wallet-ownership) at least one wallet in the workspace to be able to contact others.
+:::
 
-> ### ⚠️ For the user to receive the message, the wallet containing this hotspot needs to be verified!
+:::caution
+#### For the user to receive the message, the wallet containing this hotspot needs to be verified!
+:::
+
+
+
 
 ![Contact hotspot](/img/expand-the-network/contact-hotspot-01.png)
 
@@ -34,7 +41,9 @@ First, [navigate to the desired hotspot](https://app.hotspotty.net/hotspots) you
 
 If someone is trying to reach out to you on your **verified hotspots**, you will receive an email notification, so don't worry about missing any messages.
 
-> ### ⚠️ This feature works best the more people are verified on hotspotty, so tell all your contacts to get verified!
+:::caution
+#### This feature works best the more people are verified on hotspotty, so tell all your contacts to get verified!
+:::
 
 ## Listing all verified hotspots in the map
 

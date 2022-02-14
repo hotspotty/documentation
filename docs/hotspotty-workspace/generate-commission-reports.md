@@ -21,7 +21,9 @@ Calculate and track payouts for contacts that facilitate your hotspot deployment
 ![Docs](/img/workspace/commission-report.png)
 In this example, John (a contact) hosts a hotspot at the given location address. This location is where the hotspot is currently installed, which is defined in the [installs tab](../hotspotty-workspace/manage-installation-data).
 
-**Note: In order to pay people easily in HNT using commission reports, a HNT wallet address must be added as a payment method to your contact otherwise you can only view the commission report.**
+:::note
+**In order to pay people easily in HNT using commission reports, a HNT wallet address must be added as a payment method to your contact otherwise you can only view the commission report.**
+:::
 
 ### **2. Add commission to [install](../hotspotty-workspace/manage-installation-data)**
 
