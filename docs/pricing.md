@@ -1,11 +1,11 @@
 ---
 sidebar_position: 4
-slug: /billing
-title: "Billing"
+slug: /pricing
+title: "Pricing"
 ---
 import Admonition from '@theme/Admonition';
 
-# Billing
+# Pricing
 
 ## Plans
 
