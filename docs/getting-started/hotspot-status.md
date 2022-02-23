@@ -4,7 +4,7 @@ sidebar_position: 5
 
 import Admonition from '@theme/Admonition';
 
-# Hotspot status
+# Advanced hotspot overview
 
 By clicking on a hotspot on the [Hotspotty map](https://app.hotspotty.net/hotspots), you'll find a row that contains lots of information.
 
@@ -61,6 +61,31 @@ HIP17 rewards hotspots transmitting from a given location based on how many othe
 Most rewards are earnend by witnessing other hotspots, and these rewards are scaled down by the transmit scale of these other hotspots. This means that optimizing rewards (and thereby the network) comes down to collective network planning efforts in equally spreading out the network, as that will be more valuable as a whole and more profitable individually.
 :::
 
+You can run following simulations here (following metrics are examples): 
+
+![Docs](/img/getting-started/simulations.png)
+
+### Transmit scale simulation
+Simulate the transmit scales for this area by enabling or disabling hotspots and/or locations. By default this option is **enabled** and will show you metrics regarding the hotspot's transmit scale and witness reward units in that area. If you choose to **disable** this option, that hotspot will not be included in other transmit scale simulation you perform in that area. These calculations are done locally on your machine and the option will automatically be enabled again if you remove your browser cache or data. [Read more about transmit scale](../expand-the-network/evaluate-hotspot-locations#transmit-scale).
+:::tip
+Most rewards come from witnessing activities, which are decreased based on the values below. The lower these values, the less attractive it is to install a hotspot nearby because there is no added value for witnessing it.
+:::
+
+:::tip
+**Why do I have a terrible Witness Reward scale?**
+
+This represents the number of reward units another hotspot gets for witnessing this hotspot. This value ranges from 0.12 to 1 and is calculated by the 'Reward Formula for each Receiver' in [HIP15](https://github.com/helium/HIP/tree/main/0015-beaconing-rewards). If this value is below 1, it means that this hotspot can be witnessed by more than 4 other hotspots, which is the redundancy targeted by Helium.
+:::
+
+The HIP17 transmit scale is based on calculations for h3 hexes at different resolutions. The excess or available number of interactive hotspots or planned locations is displayed per hex below the metrics. [Learn about hexes](../expand-the-network/evaluate-hotspot-locations#hexes)
+
+### Placement simulation
+
+You can change the positioning of the hotspot on the map to see how it would perform in another location. All the metrics below will then update per your new location. Keep in mind that this is a simulation and you are not actually reasserting the hotspot on another location on the map.
+
+:::caution
+Placements over 150m away from the physical install are not recommended as [PoCv11](https://blog.helium.com/pocv11-explained-call-to-action-4add36c75a1d) will invalidate witnesses resulting in less rewards.
+:::
 
 ## Witnesses
 
@@ -75,7 +100,7 @@ Rewards for transmitted beacons are scaled down by the transmit scale. All dots 
 
 ## Comments
 
-[Contact a hotspot owner or get contacted](../expand-the-network/contact-hotspot-owner)
+[Full explanation](../expand-the-network/internal-workspace-comments)
 
 ## Info
 
@@ -93,7 +118,7 @@ The name of multiple hotspots can be the same, those are distinguished by their 
 
 - See the **HNT wallet address** associated to the hotspot.
 
-- Get info about the [**maker**](../getting-started/order-a-hotspot.md).
+- Get info about the [**Hotspot manufacturers metrics**](../getting-started/order-a-hotspot.md).
 
 ## Resources
 
