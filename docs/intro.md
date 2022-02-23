@@ -17,7 +17,7 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 - [Hotspotty 101](./getting-started/hotspotty-quickstart.md)
 - [Understand your area and account verification](./getting-started/understand-your-area-and-account-verification.md)
 - [Manage Helium wallets](./getting-started/add-your-helium-wallet.md)
-- [Hotspot Manufacturers & Order a hotspot](./getting-started/order-a-hotspot.md)
+- [Hotspot Manufacturers & Order a hotspot](./getting-started/hotspot-manufacturers-metrics.md)
 - [Analytics dashboard](./getting-started/analytics-dashboard.md)
 - [Advanced hotspot overview](./getting-started/hotspot-status.md)
 
@@ -26,6 +26,7 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 To have a smooth and successful experience using Hotspotty to manage your hotspots installation data and any associated payments, we recommend the below guides:
 
 <!-- - [What is a workspace?](./hotspotty-workspace/What-are-workspaces) -->
+
 - [Manage hotspots in your workspace](./hotspotty-workspace/add-hotspot)
 - [Manage locations in your workspace](./hotspotty-workspace/manage-locations)
 - [Manage contacts](./hotspotty-workspace/manage-contacts)
