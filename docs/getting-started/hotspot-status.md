@@ -118,7 +118,7 @@ The name of multiple hotspots can be the same, those are distinguished by their 
 
 - See the **HNT wallet address** associated to the hotspot.
 
-- Get info about the [**Hotspot manufacturers metrics**](../getting-started/order-a-hotspot.md).
+- Get info about the [**Hotspot manufacturers metrics**](../getting-started/hotspot-manufacturers-metrics.md).
 
 ## Resources
 
