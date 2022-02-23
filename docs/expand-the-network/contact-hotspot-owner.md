@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Contact hotspot owner
+# Contact and be contacted by other hotspot owners
 Letting people contact you is a great way to improve the overall quality of the Helium network. Maybe someone wants to collaborate with you or wants to help you [improve your reward scale](../expand-the-network/optimize-your-earnings-and-reward-scaling)?
 Or what if you are the person willing to help someone out?
 
@@ -10,7 +10,7 @@ Or what if you are the person willing to help someone out?
 ## How to get contacted?
 
 Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a 🤖. There are 2 approaches: 
-1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button class="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](../getting-started/add-your-helium-wallet#verify-wallet-ownership).
+1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button class="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](../expand-the-network/contact-hotspot-owner#verify-wallet-ownership).
 
 ![Verify Wallet](/img/expand-the-network/verify-wallet-01.png)
 
@@ -23,7 +23,7 @@ Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a �
 First, [navigate to the desired hotspot](https://app.hotspotty.net/hotspots) you want to message the owner from. By then clicking on the **Contact owner** tab, you will be able to send a message to the owner who will then receive an email.
 
 :::caution
-#### It is required to [verify](../getting-started/add-your-helium-wallet#verify-wallet-ownership) at least one wallet in the workspace to be able to contact others.
+#### It is required to [verify](../expand-the-network/contact-hotspot-owner#verify-wallet-ownership) at least one wallet in the workspace to be able to contact others.
 :::
 
 :::caution
@@ -48,4 +48,38 @@ If someone is trying to reach out to you on your **verified hotspots**, you will
 ## Listing all verified hotspots in the map
 
 ![Verified hotspots in the map](/img/expand-the-network/verified-wallets-map.gif)
+
+## Verify wallet ownership
+
+You can choose to verify your wallet either from your workspace or the Hotspotty map. [Both ways are shown here](../expand-the-network/contact-hotspot-owner#how-to-get-contacted)
+
+The process of actually verifying a wallet is very straight forward.
+
+1. **Check if you are going to verify the right wallet. The hotspots attached to the wallet are shown on the right.**
+
+![Docs](/img/getting-started/verify-flow-1.png)
+
+2. **You will need to make a small donation to the Hotspotty team. The minimum amount is 0.1 HNT, every donation larger than that is greatly appreciated and will help out the team to make more great content for the community!**
+
+![Docs](/img/getting-started/verify-flow-2.png)
+
+3. **A QR code is now generated and you have 24 hours the time in order to make the transaction by scanning the QR code using the Helium app. If the transaction is not made within 24 hours, you can start the process again.**
+
+![Docs](/img/getting-started/verify-flow-3.png)
+
+4. **Great! Your transaction is now pending and will automatically get approved by the Helium blockchain. You will receive an email once accepted.**
+
+![Docs](/img/getting-started/verify-flow-4.png)
+
+## Discord region collaboration
+
+At the press of a button, you can open a channel that automatically creates a group with and connects you to - nearby verified wallet owners. This makes it easy for verified owners to message and collaborate with other verified owners, whose hotspots may be impacting each other’s performance.
+
+1. Make sure you are on the **Map** and go over to **Hexes**.
+2. Select the resolution that best matches the region in which you want to contact people. Then select **Discord collaboration**.
+3. Make sure you made at least one [wallet verification](../expand-the-network/contact-hotspot-owner#verify-wallet-ownership) and click **Discuss in Discord**.
+
+![Discord collab](/img/expand-the-network/discord-collab.png)
+
+[Join the Hotspotty & Chill discord server by clicking here](https://discord.com/invite/498Rc8khaN)
 
