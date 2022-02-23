@@ -2,8 +2,8 @@
 sidebar_position: 2
 ---
 
-# Add your Helium wallet
-
+# Manage Helium wallets
+## Add your Helium wallet
 To enjoy the full capabilities of Hotspotty, you need to login with your Discord account and verify your helium wallet. This will unlock features such as being able to communicate with other hotspot owners on the network and allow them to communicate with you.
 
 ![Docs](/img/getting-started/verify-your-wallet-1.png)
@@ -18,25 +18,11 @@ Add your HNT wallet address and decide if you want to track all the hotspots ass
 
 ![Docs](/img/getting-started/verify-your-wallet-2.png)
 
+## Wallet payment transactions
+Incoming payments are shown underneath your wallet list.
 
-## Verify wallet ownership
+**TX AMOUNT**: Amount sent by the sender. Keep in mind that a transaction can have multiple recipients and does not always represent the amount you received. Open the details of the transaction for more details.
 
-You can choose to verify your wallet either from your workspace or the Hotspotty map. [Here is how.](../expand-the-network/contact-hotspot-owner#how-to-get-contacted)
+**MEMO**: Short message from the sender.
 
-The process of actually verifying a wallet is very straight forward.
-
-1. **Check if you are going to verify the right wallet. The hotspots attached to the wallet are shown on the right.**
-
-![Docs](/img/getting-started/verify-flow-1.png)
-
-2. **You will need to make a small donation to the Hotspotty team. The minimum amount is 0.1 HNT, every donation larger than that is greatly appreciated and will help out the team to make more great content for the community!**
-
-![Docs](/img/getting-started/verify-flow-2.png)
-
-3. **A QR code is now generated and you have 24 hours the time in order to make the transaction by scanning the QR code using the Helium app. If the transaction is not made within 24 hours, you can start the process again.**
-
-![Docs](/img/getting-started/verify-flow-3.png)
-
-4. **Great! Your transaction is now pending and will automatically get approved by the Helium blockchain. You will receive an email once accepted.**
-
-![Docs](/img/getting-started/verify-flow-4.png)
+![Docs](/img/getting-started/wallet-payment-transactions.png)
