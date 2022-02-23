@@ -6,7 +6,7 @@ sidebar_position: 6
 
 If you have not yet created a commission report, please go ahead and take a look [here](../hotspotty-workspace/generate-commission-reports) before proceeding.
 
-## Separate payments
+## Pay contacts individually
 
 Instead of paying all contacts in a commission report at the same time you have tha ability to pay your contacts one by one. Start by opening up a commission report.
 
