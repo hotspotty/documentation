@@ -55,6 +55,8 @@ Open your generated report by clicking on the <button class="hotspotty-button">O
 
 The report will show the total amount of commissions in your preferred currency. The counter next to the amount shows how many contacts have an HNT wallet attached to them. U can pay them very easily by either choosing <button class="hotspotty-button">Pay selected contacts</button> or <button class="hotspotty-button">Pay all contacts</button>. It is recommended to check out [pay your contacts](../hotspotty-workspace/pay-your-contacts).
 
+Hotspotty helps you stay on top of paid HNT commissions by automatically monitoring the blockchain for paid wallet transactions making it easy to view across all your contacts - while still enabling you to manually mark commissions as paid, if needed.
+
 Commission reports can also get exported to a raw JSON file.
 
 ![Docs](/img/workspace/commission-report-6.png)
