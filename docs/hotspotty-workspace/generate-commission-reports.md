@@ -21,7 +21,9 @@ Calculate and track payouts for contacts that facilitate your hotspot deployment
 ![Docs](/img/workspace/commission-report.png)
 In this example, John (a contact) hosts a hotspot at the given location address. This location is where the hotspot is currently installed, which is defined in the [installs tab](../hotspotty-workspace/manage-installation-data).
 
-**Note: In order to pay people easily in HNT using commission reports, a HNT wallet address must be added as a payment method to your contact otherwise you can only view the commission report.**
+:::note
+**In order to pay people easily in HNT using commission reports, a HNT wallet address must be added as a payment method to your contact otherwise you can only view the commission report.**
+:::
 
 ### **2. Add commission to [install](../hotspotty-workspace/manage-installation-data)**
 
@@ -52,6 +54,8 @@ Open your generated report by clicking on the <button class="hotspotty-button">O
 ### **4. Tips and tricks**
 
 The report will show the total amount of commissions in your preferred currency. The counter next to the amount shows how many contacts have an HNT wallet attached to them. U can pay them very easily by either choosing <button class="hotspotty-button">Pay selected contacts</button> or <button class="hotspotty-button">Pay all contacts</button>. It is recommended to check out [pay your contacts](../hotspotty-workspace/pay-your-contacts).
+
+Hotspotty helps you stay on top of paid HNT commissions by automatically monitoring the blockchain for paid wallet transactions making it easy to view across all your contacts - while still enabling you to manually mark commissions as paid, if needed.
 
 Commission reports can also get exported to a raw JSON file.
 

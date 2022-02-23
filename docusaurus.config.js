@@ -23,7 +23,7 @@ const config = {
         docs: {
 
           routeBasePath: '/',
-          editUrl: 'https://github.com/hotspotty/documentation',
+          editUrl: 'https://github.com/hotspotty/documentation/blob/main',
         },
         blog: false,
         theme: {

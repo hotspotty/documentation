@@ -2,8 +2,8 @@
 sidebar_position: 2
 ---
 
-# Add your Helium wallet
-
+# Manage Helium wallets
+## Add your Helium wallet
 To enjoy the full capabilities of Hotspotty, you need to login with your Discord account and verify your helium wallet. This will unlock features such as being able to communicate with other hotspot owners on the network and allow them to communicate with you.
 
 ![Docs](/img/getting-started/verify-your-wallet-1.png)
@@ -18,7 +18,11 @@ Add your HNT wallet address and decide if you want to track all the hotspots ass
 
 ![Docs](/img/getting-started/verify-your-wallet-2.png)
 
+## Wallet payment transactions
+Incoming payments are shown underneath your wallet list.
 
-## Verify wallet ownership
+**TX AMOUNT**: Amount sent by the sender. Keep in mind that a transaction can have multiple recipients and does not always represent the amount you received. Open the details of the transaction for more details.
 
-Coming soon...
+**MEMO**: Short message from the sender.
+
+![Docs](/img/getting-started/wallet-payment-transactions.png)

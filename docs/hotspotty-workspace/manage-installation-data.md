@@ -12,7 +12,9 @@ sidebar_position: 4
 
 2. Find a specific hotspot for which you want to keep track of where it is installed.
 3. Add the current location where the hotspot is placed.
-   Note: You can either select a location that has already been added to your workspace or you can easily add a new one.
+:::note
+You can either select a location that has already been added to your workspace or you can easily add a new one.
+:::
 
    In case you have not set up a location in your workspace yet, you can easily click on **+ Add new location** or choose the option **+ Use hotspot location**. Installs can represent future or past locations.
 

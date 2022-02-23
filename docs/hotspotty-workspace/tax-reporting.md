@@ -2,8 +2,9 @@
 sidebar_position: 7
 ---
 
-# Tax reporting
-With Hotspotty you can generate hotspot earnings reports for tax purposes. 
+# Export hotspot rewards
+## Export hotspot rewards to a csv file
+With Hotspotty you can generate hotspot rewards files.
 
 From your workspace navigate to the hotspot tab. From there you've two ways to generate a reward earnings report. 
 
@@ -14,3 +15,7 @@ To generate a report for all hotspots in your workspace navigate to the three do
 Alternatively and when in the hotspot tab, select the hotspots you want to generate a report for. A drop down menu will appear. Select Export hotspot rewards, choose the date window and export the earnings report.  
 
 ![Docs](/img/workspace/tax2.png)
+## Tax reporting
+Reports can also be generated for tax purposes. Make sure to enable the option: **Export rewards compatible with Koinly tax reporting**.
+
+[Get more info about Koinly](https://koinly.io/)

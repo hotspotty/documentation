@@ -6,13 +6,15 @@ sidebar_position: 6
 
 If you have not yet created a commission report, please go ahead and take a look [here](../hotspotty-workspace/generate-commission-reports) before proceeding.
 
-## Separate payments
+## Pay contacts individually
 
 Instead of paying all contacts in a commission report at the same time you have tha ability to pay your contacts one by one. Start by opening up a commission report.
+
 ![Docs](/img/workspace/pay-seperately-1.png)
 
 Select the contact(s) you want to pay. And click on <button class="hotspotty-button">Pay selected contacts</button>.
 You can choose to pay your selected contact(s) using the Helium app to scan the provided QR code or pay using the [Helium CLI](https://docs.helium.com/wallets/cli-wallet/).
+
 ![Docs](/img/workspace/pay-seperately-2.png)
 
 ## Bulk payments

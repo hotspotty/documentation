@@ -10,6 +10,8 @@ Transmit scale is a multiplier that is applied to rewards of any Hotspot that wi
 
 The only way to affect the scale is to move your hotspot somewhere less dense, or somehow remove the hotspots around you.
 
+HIP17 rewards hotspots transmitting from a given location based on how many other hotspots can transmit from the same area. It assigns a transmit scale which gets lower the more saturated the area is so that a redundancy is met but oversaturation is disincentivized. PoC rewards are multiplied by the transmit scale of the transmitting hotspot.
+
 ## Hexes
 
 <div class="videoWrapper">

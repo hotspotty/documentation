@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Status check
+# Hotspot status and diagnostics
 
 ## Video Introduction
 
