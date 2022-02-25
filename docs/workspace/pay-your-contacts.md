@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Pay your contacts
 
-If you have not yet created a commission report, please go ahead and take a look [here](../hotspotty-workspace/generate-commission-reports) before proceeding.
+If you have not yet created a commission report, please go ahead and take a look [here](../workspace/generate-commission-reports) before proceeding.
 
 ## Pay contacts individually
 
@@ -23,7 +23,7 @@ Hotspotty gives you the option to pay multiple people at once so that you do not
 
 ### Pay using a QR code
 
-You can make bulk payments by simply scanning a QR code provided when you [create a commission report](../hotspotty-workspace/generate-commission-reports). Open up the Helium app. Go to 'My Wallet', and click on the blue 'Send HNT' button. Instead of entering the recipient address you can easily click on the qr code symbol, and you are good to go.
+You can make bulk payments by simply scanning a QR code provided when you [create a commission report](../workspace/generate-commission-reports). Open up the Helium app. Go to 'My Wallet', and click on the blue 'Send HNT' button. Instead of entering the recipient address you can easily click on the qr code symbol, and you are good to go.
 
 ### Pay using the CLI
 
@@ -31,6 +31,6 @@ By choosing the CLI payment option you will be prompted to download the generate
 
 ## Duplicate payment prevention
 
-Not feeling confident in paying tons of people with some simple clicks? We made it easy for you by automatically marking a [commission report](../hotspotty-workspace/generate-commission-reports) as paid so that you are not able to accidentally pay your hosts multiple times at once.
+Not feeling confident in paying tons of people with some simple clicks? We made it easy for you by automatically marking a [commission report](../workspace/generate-commission-reports) as paid so that you are not able to accidentally pay your hosts multiple times at once.
 
 Besides that, you will also get notified whenever there is payment information missing from one or more hosts.

@@ -31,7 +31,7 @@ If you navigate to the appearance settings cog in the top right corner you can r
     <li><span class="red-text bold-text">Red</span> - the hotspot is <span class="bold-text">online</span> and has a <span class="bold-text">terrible transmit scale</span></li>
  </ul>
 
-If you want a detailed understanding of reward scaling and how you can improve your reward potential see [Optimize your earnings and reward scaling](../expand-the-network/optimize-your-earnings-and-reward-scaling) There are multiple concepts that are combined to scale the rewards, for example transmit scale (HIP17) and witness reward units (HIP15). A simplified version of the latter is included in Hotspotty.
+If you want a detailed understanding of reward scaling and how you can improve your reward potential see [Optimize your earnings and reward scaling](../advanced/optimize-your-earnings-and-reward-scaling) There are multiple concepts that are combined to scale the rewards, for example transmit scale (HIP17) and witness reward units (HIP15). A simplified version of the latter is included in Hotspotty.
 
 Click on an individual Hotspot and you'll see its analytics including hotspot status, rewards, reward scaling, hotspots witnessed and other information.
 

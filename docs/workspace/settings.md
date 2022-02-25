@@ -22,11 +22,11 @@ Give members permission to view or edit your workspace. Adding a member is easy.
 
 ## Labels
 
-You can configure labels for your wallets, locations, hotspots, contacts and installs. Use labels to make groups so that you can easily filter through them when you have a lot of data in your workspace. For more info: [Advanced labelling and filters](../expand-the-network/labelling-and-filtering).
+You can configure labels for your wallets, locations, hotspots, contacts and installs. Use labels to make groups so that you can easily filter through them when you have a lot of data in your workspace. For more info: [Advanced labelling and filters](../advanced/labelling-and-filtering).
 
 ## Commissions
 
-With [commissions](../hotspotty-workspace/generate-commission-reports) you can keep track of contacts that need to be paid for their involvement with your hotspot deployments. This can be done by adding installs for your hotspots and linking contacts to those installs by adding commissions.
+With [commissions](../workspace/generate-commission-reports) you can keep track of contacts that need to be paid for their involvement with your hotspot deployments. This can be done by adding installs for your hotspots and linking contacts to those installs by adding commissions.
 
 Commission reports are generated at the beginning of each month based on the previous month's installs and commissions data.
 You can change your timezone here.
@@ -37,7 +37,7 @@ You can change your timezone here.
 
 Commission templates are very convenient when you want to have the same payout rules for several hosts. By clicking on <button class="hotspotty-button">Add commission template</button> you can specify a fixed percentage of HNT that your hosts will receive if this template is attached to them.
 
-[How to add a commission template to an install?](../hotspotty-workspace/generate-commission-reports#2-add-commission-to-install)
+[How to add a commission template to an install?](../workspace/generate-commission-reports#2-add-commission-to-install)
 
 ## Notifications
 

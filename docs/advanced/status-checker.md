@@ -10,7 +10,6 @@ sidebar_position: 6
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0ETAK0Osz2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 When setting up a new hotspot or analyzing the performance of an existing one, there are many things you need to check in order to ensure top performance. The **status check** tool enables you to perform a live test of the actual hotspot instead of relying on the information provided by the blockchain. Before we dig into the tool, lets check out a few concepts first.
 
 Let's address some common questions before we dive into the **real time status check** feature.
@@ -43,11 +42,11 @@ Let's finally dig into the **real time status check** tool and how you can use i
 
 Our **real time status check** uses a **blockchain node** to force a direct connection with the **hotspot** in question, and diagnosis the current hotspot status.
 
-![hotspot-page](/img/expand-the-network/status-check-01.png)
+![hotspot-page](/img/advanced/status-check-01.png)
 
 When you go to any hotspot status page, you have two sections, **Blockchain data**, and **Real time status check** (displayed in the image above). The **Blockchain data** is the latest information pulled from the blockchain, which is usually correct but can be outdated. If you want to double-check the data, you can run the **status check** by pressing the <button class="hotspotty-button">Run status check</button> button.
 
-![hotspot-page](/img/expand-the-network/status-check-05.png)
+![hotspot-page](/img/advanced/status-check-05.png)
 
 The result of the **status check** consists of several components:
 
@@ -63,13 +62,13 @@ Let's perform a few status checks that will represent different results to demon
 
 #### Case 1:
 
-![hotspot-page](/img/expand-the-network/status-check-02.png)
+![hotspot-page](/img/advanced/status-check-02.png)
 
 Everything good, we were able to verify that the hotspot is **not relayed**, and was able to ping it from the **miner** address as well with the address from the **blockchain**.
 
 #### Case 2:
 
-![hotspot-page](/img/expand-the-network/status-check-04.png)
+![hotspot-page](/img/advanced/status-check-04.png)
 
 This is a tricky one, the system could not reach the hotspot from the address presented on the **blockchain**, and the miner could not fetch the listen address for the hotspot. The address presented on the blockchain also reflects that the hotspot is (or at least, was) relayed. **Likely online** comes form the fact that, even not being able to ping the device, there was activity recorded on the network. In this case it was recorded six hours ago, which means that the hotspot can still be online but having some issue or it just went offline six hours ago.
 
@@ -77,7 +76,7 @@ One thing you can do here is run the **status check** another time or wait a few
 
 #### Case 3:
 
-![hotspot-page](/img/expand-the-network/status-check-03.png)
+![hotspot-page](/img/advanced/status-check-03.png)
 
 Looks like the device is actually **offline**, which means that there has not been any proof of coverage activity reported to the blockchain for this hotspot. The listen address on the blockchain reflects that the hotspot is **relayed**, and the miner couldn't ping it.
 
@@ -89,9 +88,9 @@ The port test must be performed using the public IP address of the network to wh
 
 To run the port test, click on the three dots, <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> and select **"Test relay status (port test)"**, which will open a form that is pre-filled with the hotspot's IP address or in case that is unavailable, with your current external IP address. You may need to change the IP address to the network where the hotspot is located.
 
-![port-check](/img/expand-the-network/status-check-port-check-01.png)
+![port-check](/img/advanced/status-check-port-check-01.png)
 
-![port-check](/img/expand-the-network/port-check.gif)
+![port-check](/img/advanced/port-check.gif)
 
 ### Resources
 

@@ -12,9 +12,9 @@ sidebar_position: 4
 
 2. Find a specific hotspot for which you want to keep track of where it is installed.
 3. Add the current location where the hotspot is placed.
-:::note
-You can either select a location that has already been added to your workspace or you can easily add a new one.
-:::
+   :::note
+   You can either select a location that has already been added to your workspace or you can easily add a new one.
+   :::
 
    In case you have not set up a location in your workspace yet, you can easily click on **+ Add new location** or choose the option **+ Use hotspot location**. Installs can represent future or past locations.
 
@@ -23,7 +23,7 @@ You can either select a location that has already been added to your workspace o
    ![Docs](/img/workspace/add-install-2.png)
 
 4. Customize your install (required) and uninstall date (optional) for the location you have specified.
-5. You can add commissions to your new install in case someone hosts this hotspot for you. Head over to [commission reports](../hotspotty-workspace/generate-commission-reports) for more info.
+5. You can add commissions to your new install in case someone hosts this hotspot for you. Head over to [commission reports](../workspace/generate-commission-reports) for more info.
 
 ## Export installs data
 

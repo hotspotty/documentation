@@ -3,37 +3,39 @@ sidebar_position: 3
 ---
 
 # Contact and be contacted by other hotspot owners
-Letting people contact you is a great way to improve the overall quality of the Helium network. Maybe someone wants to collaborate with you or wants to help you [improve your reward scale](../expand-the-network/optimize-your-earnings-and-reward-scaling)?
-Or what if you are the person willing to help someone out?
 
+Letting people contact you is a great way to improve the overall quality of the Helium network. Maybe someone wants to collaborate with you or wants to help you [improve your reward scale](../advanced/optimize-your-earnings-and-reward-scaling)?
+Or what if you are the person willing to help someone out?
 
 ## How to get contacted?
 
-Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a 🤖. There are 2 approaches: 
-1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button class="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](../expand-the-network/contact-hotspot-owner#verify-wallet-ownership).
+Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a 🤖. There are 2 approaches:
 
-![Verify Wallet](/img/expand-the-network/verify-wallet-01.png)
+1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button class="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](../advanced/contact-hotspot-owner#verify-wallet-ownership).
+
+![Verify Wallet](/img/advanced/verify-wallet-01.png)
 
 2. You can add your wallet to your [workspace](https://app.hotspotty.net/workspace/wallets) and verify it from there by clicking on the 3 dots aligned at the right of your wallet address.
 
-![Verify Wallet](/img/expand-the-network/verify-wallet-02.png)
+![Verify Wallet](/img/advanced/verify-wallet-02.png)
 
 ## How to contact another hotspot owner?
 
 First, [navigate to the desired hotspot](https://app.hotspotty.net/hotspots) you want to message the owner from. By then clicking on the **Contact owner** tab, you will be able to send a message to the owner who will then receive an email.
 
 :::caution
-#### It is required to [verify](../expand-the-network/contact-hotspot-owner#verify-wallet-ownership) at least one wallet in the workspace to be able to contact others.
+
+#### It is required to [verify](../advanced/contact-hotspot-owner#verify-wallet-ownership) at least one wallet in the workspace to be able to contact others.
+
 :::
 
 :::caution
+
 #### For the user to receive the message, the wallet containing this hotspot needs to be verified!
+
 :::
 
-
-
-
-![Contact hotspot](/img/expand-the-network/contact-hotspot-01.png)
+![Contact hotspot](/img/advanced/contact-hotspot-01.png)
 
 1. Whenever a hotspot belongs to a verified wallet, a <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg> icon will be displayed next to the name.
 
@@ -42,16 +44,18 @@ First, [navigate to the desired hotspot](https://app.hotspotty.net/hotspots) you
 If someone is trying to reach out to you on your **verified hotspots**, you will receive an email notification, so don't worry about missing any messages.
 
 :::caution
+
 #### This feature works best the more people are verified on hotspotty, so tell all your contacts to get verified!
+
 :::
 
 ## Listing all verified hotspots in the map
 
-![Verified hotspots in the map](/img/expand-the-network/verified-wallets-map.gif)
+![Verified hotspots in the map](/img/advanced/verified-wallets-map.gif)
 
 ## Verify wallet ownership
 
-You can choose to verify your wallet either from your workspace or the Hotspotty map. [Both ways are shown here](../expand-the-network/contact-hotspot-owner#how-to-get-contacted)
+You can choose to verify your wallet either from your workspace or the Hotspotty map. [Both ways are shown here](../advanced/contact-hotspot-owner#how-to-get-contacted)
 
 The process of actually verifying a wallet is very straight forward.
 
@@ -77,9 +81,8 @@ At the press of a button, you can open a channel that automatically creates a gr
 
 1. Make sure you are on the **Map** and go over to **Hexes**.
 2. Select the resolution that best matches the region in which you want to contact people. Then select **Discord collaboration**.
-3. Make sure you made at least one [wallet verification](../expand-the-network/contact-hotspot-owner#verify-wallet-ownership) and click **Discuss in Discord**.
+3. Make sure you made at least one [wallet verification](../advanced/contact-hotspot-owner#verify-wallet-ownership) and click **Discuss in Discord**.
 
-![Discord collab](/img/expand-the-network/discord-collab.png)
+![Discord collab](/img/advanced/discord-collab.png)
 
 [Join the Hotspotty & Chill discord server by clicking here](https://discord.com/invite/498Rc8khaN)
-

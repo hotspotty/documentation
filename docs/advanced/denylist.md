@@ -19,7 +19,7 @@ The Helium community requested Helium, Inc. to maintain a temporary Hotspot Deny
 3. Select **denylist**.
 4. The dots shown on the map represent hotspots that are added to the denylist.
 
-![Docs](/img/expand-the-network/denylist-1.png)
+![Docs](/img/advanced/denylist-1.png)
 
 **The [Regional Dashboard](../getting-started/understand-your-area-and-account-verification#regional-dashboard) now also shows the amount of hotspots added to the denylist in that area.**
 
@@ -27,4 +27,4 @@ The Helium community requested Helium, Inc. to maintain a temporary Hotspot Deny
 
 1. Head over to your [workspace](https://app.hotspotty.net/workspace/dashboard).
 2. In your dashboard, scroll to the bottom.
-3. If [hotspots added](../hotspotty-workspace/add-hotspot) to your workspace are in the denylist, it will show up in an attention list there.
+3. If [hotspots added](../workspace/manage-hotspots) to your workspace are in the denylist, it will show up in an attention list there.

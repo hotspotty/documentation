@@ -12,11 +12,11 @@ By clicking on a hotspot on the [Hotspotty map](https://app.hotspotty.net/hotspo
 
 ## Status
 
-[Full explanation](../expand-the-network/status-checker)
+[Full explanation](../advanced/status-checker)
 
 ## Activity
 
-See what your hotspot is doing. The activity tab gives info about following items: 
+See what your hotspot is doing. The activity tab gives info about following items:
 
 ![Docs](/img/getting-started/activity-status-ui.png)
 
@@ -26,11 +26,11 @@ See what your hotspot is doing. The activity tab gives info about following item
 
 ![Docs](/img/getting-started/understanding-witnesses.png)
 
-**Witness**: Witnesses on the Helium network are Hotspots that have seen (or witnessed) a Proof-of-Coverage packet from a Hotspot. This single-stage Proof-of-Coverage challenge is also known as a "Beacon". Be aware that relayed hotspots do not only affect the hotspot owner but also the area around. A relayed hotspot will block incoming witnesses to the challenger what results in both the challenger and the beaconer not earning HNT. [How to get out of relayed?](../expand-the-network/status-checker#what-is-a-relayed-hotspot)
+**Witness**: Witnesses on the Helium network are Hotspots that have seen (or witnessed) a Proof-of-Coverage packet from a Hotspot. This single-stage Proof-of-Coverage challenge is also known as a "Beacon". Be aware that relayed hotspots do not only affect the hotspot owner but also the area around. A relayed hotspot will block incoming witnesses to the challenger what results in both the challenger and the beaconer not earning HNT. [How to get out of relayed?](../advanced/status-checker#what-is-a-relayed-hotspot)
 
 **Challenger**: Hotspots are chosen as a Challenger by the network to issue Challenges (encrypted messages over the internet) to a selected Hotspot, receiving 0.95% of token rewards for doing so. Hotspots can issue challenges to any location around the world 🌎, not just to local Hotspots.
 
-**Reward**: Shows the history of all the hotspot mining rewards. Helium hotspots earn rewards by doing different tasks. 
+**Reward**: Shows the history of all the hotspot mining rewards. Helium hotspots earn rewards by doing different tasks.
 
 ![Docs](/img/getting-started/reward-types.png)
 
@@ -47,7 +47,9 @@ This tab shows the earning history of a particular hotspot. Get info about how a
 [Reward scaling](https://docs.helium.com/blockchain/proof-of-coverage/#poc-reward-scaling) promotes installation of hotspots in areas with insufficient coverage and penalizes unnecessary duplicate coverage. Rewards for witnessing and being witnessed are reduced using formulas described by [HIP15](https://github.com/helium/HIP/blob/main/0015-beaconing-rewards.md) and [HIP17](https://github.com/helium/HIP/blob/main/0017-hex-density-based-transmit-reward-scaling.md).
 
 :::info
-### PoC rewards explained 
+
+### PoC rewards explained
+
 Proof of Coverage challenges are exercises for hotspots to prove their usefulness to the network, which is designed to pass data between sensors and servers using RF.<br/><br/>
 In a PoC challenge a hotspot transmits a beacon and upon successful witnessing by other hotspots, two things were achieved:<br/>
 1 - the transmitter proved that it can reach sensors and deliver data to them<br/>
@@ -61,12 +63,13 @@ HIP17 rewards hotspots transmitting from a given location based on how many othe
 Most rewards are earnend by witnessing other hotspots, and these rewards are scaled down by the transmit scale of these other hotspots. This means that optimizing rewards (and thereby the network) comes down to collective network planning efforts in equally spreading out the network, as that will be more valuable as a whole and more profitable individually.
 :::
 
-You can run following simulations here (following metrics are examples): 
+You can run following simulations here (following metrics are examples):
 
 ![Docs](/img/getting-started/simulations.png)
 
 ### Transmit scale simulation
-Simulate the transmit scales for this area by enabling or disabling hotspots and/or locations. By default this option is **enabled** and will show you metrics regarding the hotspot's transmit scale and witness reward units in that area. If you choose to **disable** this option, that hotspot will not be included in other transmit scale simulation you perform in that area. These calculations are done locally on your machine and the option will automatically be enabled again if you remove your browser cache or data. [Read more about transmit scale](../expand-the-network/evaluate-hotspot-locations#transmit-scale).
+
+Simulate the transmit scales for this area by enabling or disabling hotspots and/or locations. By default this option is **enabled** and will show you metrics regarding the hotspot's transmit scale and witness reward units in that area. If you choose to **disable** this option, that hotspot will not be included in other transmit scale simulation you perform in that area. These calculations are done locally on your machine and the option will automatically be enabled again if you remove your browser cache or data. [Read more about transmit scale](../advanced/evaluate-hotspot-locations#transmit-scale).
 :::tip
 Most rewards come from witnessing activities, which are decreased based on the values below. The lower these values, the less attractive it is to install a hotspot nearby because there is no added value for witnessing it.
 :::
@@ -77,7 +80,7 @@ Most rewards come from witnessing activities, which are decreased based on the v
 This represents the number of reward units another hotspot gets for witnessing this hotspot. This value ranges from 0.12 to 1 and is calculated by the 'Reward Formula for each Receiver' in [HIP15](https://github.com/helium/HIP/tree/main/0015-beaconing-rewards). If this value is below 1, it means that this hotspot can be witnessed by more than 4 other hotspots, which is the redundancy targeted by Helium.
 :::
 
-The HIP17 transmit scale is based on calculations for h3 hexes at different resolutions. The excess or available number of interactive hotspots or planned locations is displayed per hex below the metrics. [Learn about hexes](../expand-the-network/evaluate-hotspot-locations#hexes)
+The HIP17 transmit scale is based on calculations for h3 hexes at different resolutions. The excess or available number of interactive hotspots or planned locations is displayed per hex below the metrics. [Learn about hexes](../advanced/evaluate-hotspot-locations#hexes)
 
 ### Placement simulation
 
@@ -100,7 +103,7 @@ Rewards for transmitted beacons are scaled down by the transmit scale. All dots 
 
 ## Comments
 
-[Full explanation](../expand-the-network/internal-workspace-comments)
+[Full explanation](../advanced/internal-workspace-comments)
 
 ## Info
 
@@ -114,7 +117,7 @@ The name of multiple hotspots can be the same, those are distinguished by their 
 
 - The **antenna gain** and **installation height** are crucial to earn the best amount of HNT. [How to find the best antenna for my hotspot?](https://gristleking.com/antennas-for-helium/)
 
-- See if the hotspot is added to the [**denylist**](../expand-the-network/denylist.md).
+- See if the hotspot is added to the [**denylist**](../advanced/denylist.md).
 
 - See the **HNT wallet address** associated to the hotspot.
 
