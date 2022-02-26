@@ -42,7 +42,7 @@ If you're managing a fleet of hotspots we recommend you utilise the advanced fea
 
 - [Evaluate hotspot locations](./advanced/evaluate-hotspot-locations.md)
 - [Optimize your earnings and reward scaling](./advanced/optimize-your-earnings-and-reward-scaling.md)
-- [Contact hotspot owner](./advanced/contact-hotspot-owner.md)
+- [Contact hotspot owners](./advanced/contact-hotspot-owners.md)
 - [Time travel & area analytics](./advanced/time-travel.md)
 - [Line of sight tool](./advanced/line-of-sight.md)
 - [Status checker tool](./advanced/status-checker.md)
