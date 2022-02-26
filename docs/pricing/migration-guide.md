@@ -5,7 +5,7 @@ title: "Migration guide"
 
 # Free to freemium migration guide
 
-Hotspotty will go live with its freemium model on **Mar 1, 2022**, which puts an end to the unlimited and free beta version that was launched mid August 2021. This document is meant to outline our new commercial offering and elaborate on some specific use cases.
+Hotspotty will go live with its freemium model on **Mar 15th, 2022**, which puts an end to the unlimited and free beta version that was launched mid August 2021. This document is meant to outline our new commercial offering and elaborate on some specific use cases.
 
 ## Pricing
 
