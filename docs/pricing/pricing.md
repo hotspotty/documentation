@@ -2,7 +2,7 @@
 
 Most features in Hotspotty are free to use but with the implementation of the freemium model there will be some limitations. Extra features and increased limits are available through paid subscription plans.
 
-Please go to our [pricing page](https://app.hotspotty.net/pricing) to sign up for your Hotspotty plan or manage your existing plan in the [billing settings](https://app.hotspotty.net/workspace/settings/billing) page.
+Please go to our [pricing page](https://app.hotspotty.net/pricing) to sign up for your Hotspotty plan or manage your existing plan in the billing settings page.
 
 ## Workspaces
 
