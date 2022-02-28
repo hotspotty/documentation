@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Pricing
 
 Most features in Hotspotty are free to use but with the implementation of the freemium model there will be some limitations. Extra features and increased limits are available through paid subscription plans.
