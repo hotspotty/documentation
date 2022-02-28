@@ -29,7 +29,7 @@ The hotspots tab in your workspace shows a list of the hotspots you added.
 Following information is shown there:
 
 - How multiple hotspots perform over a range of time variables.
-- How many messages your hotspots received. See: [How to get contacted?](../advanced/contact-hotspot-owner#how-to-get-contacted)
+- How many messages your hotspots received. See: [How to get contacted?](../advanced/contact-hotspot-owners#how-to-get-contacted)
 - Added labels
 - ...
 

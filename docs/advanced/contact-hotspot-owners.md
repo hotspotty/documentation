@@ -11,7 +11,7 @@ Or what if you are the person willing to help someone out?
 
 Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a 🤖. There are 2 approaches:
 
-1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button class="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](../advanced/contact-hotspot-owner#verify-wallet-ownership).
+1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button class="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](#verify-wallet-ownership).
 
 ![Verify Wallet](/img/advanced/verify-wallet-01.png)
 
@@ -25,7 +25,7 @@ First, [navigate to the desired hotspot](https://app.hotspotty.net/hotspots) you
 
 :::caution
 
-#### It is required to [verify](../advanced/contact-hotspot-owner#verify-wallet-ownership) at least one wallet in the workspace to be able to contact others.
+#### It is required to [verify](#verify-wallet-ownership) at least one wallet in the workspace to be able to contact others.
 
 :::
 
@@ -55,7 +55,7 @@ If someone is trying to reach out to you on your **verified hotspots**, you will
 
 ## Verify wallet ownership
 
-You can choose to verify your wallet either from your workspace or the Hotspotty map. [Both ways are shown here](../advanced/contact-hotspot-owner#how-to-get-contacted)
+You can choose to verify your wallet either from your workspace or the Hotspotty map. [Both ways are shown here](#how-to-get-contacted)
 
 The process of actually verifying a wallet is very straight forward.
 
@@ -81,7 +81,7 @@ At the press of a button, you can open a channel that automatically creates a gr
 
 1. Make sure you are on the **Map** and go over to **Hexes**.
 2. Select the resolution that best matches the region in which you want to contact people. Then select **Discord collaboration**.
-3. Make sure you made at least one [wallet verification](../advanced/contact-hotspot-owner#verify-wallet-ownership) and click **Discuss in Discord**.
+3. Make sure you made at least one [wallet verification](#verify-wallet-ownership) and click **Discuss in Discord**.
 
 ![Discord collab](/img/advanced/discord-collab.png)
 
