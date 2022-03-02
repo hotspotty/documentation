@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 4
 ---
 
 # Internal workspace comments
@@ -13,5 +13,5 @@ Use the comments section to save text information relevant to this hotspot. For 
 ![Docs](/img/getting-started/internal-comments.png)
 
 :::note
-Comments can't be used for contacting other hotspot owners. The "[Contact owner](../advanced/contact-hotspot-owners)" tab serves that purpose. Only you and people added to your workspace can view the comments.
+Comments can't be used for contacting other hotspot owners. The "[Contact owner](../Team%20&%20Community%20Collaboration/contact-hotspot-owners)" tab serves that purpose. Only you and people added to your workspace can view the comments.
 :::

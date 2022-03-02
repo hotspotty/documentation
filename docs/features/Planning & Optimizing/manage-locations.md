@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Manage locations
@@ -37,7 +37,7 @@ By choosing <button class="hotspotty-button">Add location</button>, you will be 
 ## What can you do with locations?
 
 - Locations can be used to simulate the [reward scale](../advanced/optimize-your-earnings-and-reward-scaling) at that place.
-- Locations can be linked to an [install](../workspace/manage-installation-data) (installs can represent future or past locations).
+- Locations can be linked to an [install](../Monitoring%20&%20Managing/manage-installation-data) (installs can represent future or past locations).
 - You can assign labels to your locations to organize them properly.
   The easiest way is by adding them directly via the locations tab. But you can also [create labels via your workspace settings](https://app.hotspotty.net/workspace/settings/labels).
   ![Docs](/img/workspace/locations_labels.png)

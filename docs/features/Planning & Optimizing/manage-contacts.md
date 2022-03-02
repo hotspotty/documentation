@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Manage contacts
@@ -16,7 +16,7 @@ Fill in the fields and save. You can save a contact without a payment method, bu
 
 ![Docs](/img/workspace/managecontacts2.png)
 
-In the Payment Method field, you can choose a **FIAT** or a **CRYPTO** payment method. A contact's payment method and details can be changed anytime, and will be applied automatically when you generate commission reports. To learn how you can pay your contacts via Hotspotty and use our bulk payment function, check [Pay your contacts](../workspace/pay-your-contacts)
+In the Payment Method field, you can choose a **FIAT** or a **CRYPTO** payment method. A contact's payment method and details can be changed anytime, and will be applied automatically when you generate commission reports. To learn how you can pay your contacts via Hotspotty and use our bulk payment function, check [Pay your contacts](../Payment%20Management/pay-your-contacts)
 
 ![Docs](/img/workspace/managecontacts3.png)
 

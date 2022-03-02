@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 import Admonition from '@theme/Admonition';
@@ -103,7 +103,7 @@ Rewards for transmitted beacons are scaled down by the transmit scale. All dots 
 
 ## Comments
 
-[Full explanation](../advanced/internal-workspace-comments)
+[Full explanation](../features/Monitoring%20&%20Managing/internal-workspace-comments)
 
 ## Info
 
@@ -117,11 +117,11 @@ The name of multiple hotspots can be the same, those are distinguished by their 
 
 - The **antenna gain** and **installation height** are crucial to earn the best amount of HNT. [How to find the best antenna for my hotspot?](https://gristleking.com/antennas-for-helium/)
 
-- See if the hotspot is added to the [**denylist**](../advanced/denylist.md).
+- See if the hotspot is added to the [**denylist**](../features/Visualize%20&%20Understand/denylist.md).
 
 - See the **HNT wallet address** associated to the hotspot.
 
-- Get info about the [**Hotspot manufacturers metrics**](../getting-started/hotspot-manufacturers-metrics.md).
+- Get info about the [**Hotspot manufacturers metrics**](../features/Visualize%20&%20Understand/hotspot-manufacturers-metrics.md).
 
 ## Resources
 
