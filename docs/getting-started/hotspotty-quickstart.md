@@ -6,51 +6,51 @@ sidebar_position: 1
 Hotspotty's basic concepts and terminology — Start Here! 🚀
 
 <div class="videoWrapper">
-    <iframe width="885" height="498" src="https://www.youtube.com/embed/scNzoUnDx8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="885" height="498" src="https://www.youtube.com/embed/oaSJIe5LLL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 ## Timestamps
-- Import wallets and hotspot - 0:23
-- Dashboard portfolio overview - 0:25
-- Advanced Hotspot Overview - 1:20
-- Map Explorer - 1:50
-- Visualize Relative Hotspot Performance - 2:11
-- Region Dashboard - 2:31
-- Hexes simulation strategies - 3:01
-- Time travel simulations - 3:26
-- Makers hotspot explorer - 3:44
+- 0:23 Import wallets and hotspot 
+- 0:25 Dashboard portfolio overview
+- 1:20 Advanced Hotspot Overview
+- 1:50 Map Explorer
+- 2:11 Visualize Relative Hotspot Performance
+- 2:31 Region Dashboard
+- 3:01 Hexes simulation strategies
+- 3:26 Time travel simulations
+- 3:44 Makers hotspot explorer
 
 --------------------------------------------
 
-- Add locations - 4:06
-- Locations management - 4:40
-- Contacts managament - 4:59
-- Simulate location transmit scale - 5:12
-- Line of sight tool - 5:35
-- Appearance settings - 5:49
+- 4:06 Add locations
+- 4:40 Locations management
+- 4:59 Contacts management
+- 5:12 Simulate location transmit scale
+- 5:35 Line of sight tool
+- 5:49 Appearance settings
 
 --------------------------------------------
 
-- Hotspot status and diagnostics - 6:13
-- Hotspot performance visualizer - 6:34
-- Hotspot actvity tab - 6:46
-- Hotspot installs management - 6:58
-- Labelling and filters - 7:14
+- 6:13 Hotspot status and diagnostics
+- 6:34 Hotspot performance visualizer
+- 6:46 Hotspot activity tab
+- 6:58 Hotspot installs management
+- 7:14 Labelling and filters
 
 --------------------------------------------
 
-- Workspaces - 7:31
-- Internal workspace comments - 8:18
-- Discord region collaboration- 8:43
+- 7:31 Workspaces
+- 8:18 Internal workspace comments
+- 8:43 Discord region collaboration
 
 --------------------------------------------
 
-- Commission reports - 9:13
-- Pay contacts - 10:23
-- Wallet transactions - 11:19
-- Export hotspot rewards - 11:39
-- Tip: verify wallet - 11:56
+- 9:13 Commission reports
+- 10:23 Pay contacts
+- 11:19 Wallet transactions
+- 11:39 Export hotspot rewards
+- 11:56 Tip: verify wallet
 
 ## Quick start guides
 
