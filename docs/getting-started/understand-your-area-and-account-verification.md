@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Understand your area
@@ -39,7 +39,7 @@ Click on an individual Hotspot and you'll see its analytics including hotspot st
 
 You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users verify their wallets to enable a smooth and easy communication among hotspot owners globally.
 
-See more on [Add your HNT wallet](./add-your-helium-wallet.md)
+See more on [Add your HNT wallet](./manage-helium-wallets#add-your-helium-wallet)
 
 ## Regional dashboard
 

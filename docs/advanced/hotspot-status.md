@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 import Admonition from '@theme/Admonition';
@@ -12,7 +12,7 @@ By clicking on a hotspot on the [Hotspotty map](https://app.hotspotty.net/hotspo
 
 ## Status
 
-[Full explanation](../advanced/status-checker)
+[Full explanation](../features/Monitoring%20&%20Managing/status-checker)
 
 ## Activity
 
@@ -26,7 +26,7 @@ See what your hotspot is doing. The activity tab gives info about following item
 
 ![Docs](/img/getting-started/understanding-witnesses.png)
 
-**Witness**: Witnesses on the Helium network are Hotspots that have seen (or witnessed) a Proof-of-Coverage packet from a Hotspot. This single-stage Proof-of-Coverage challenge is also known as a "Beacon". Be aware that relayed hotspots do not only affect the hotspot owner but also the area around. A relayed hotspot will block incoming witnesses to the challenger what results in both the challenger and the beaconer not earning HNT. [How to get out of relayed?](../advanced/status-checker#what-is-a-relayed-hotspot)
+**Witness**: Witnesses on the Helium network are Hotspots that have seen (or witnessed) a Proof-of-Coverage packet from a Hotspot. This single-stage Proof-of-Coverage challenge is also known as a "Beacon". Be aware that relayed hotspots do not only affect the hotspot owner but also the area around. A relayed hotspot will block incoming witnesses to the challenger what results in both the challenger and the beaconer not earning HNT. [How to get out of relayed?](../features/Monitoring%20&%20Managing/status-checker#what-is-a-relayed-hotspot)
 
 **Challenger**: Hotspots are chosen as a Challenger by the network to issue Challenges (encrypted messages over the internet) to a selected Hotspot, receiving 0.95% of token rewards for doing so. Hotspots can issue challenges to any location around the world 🌎, not just to local Hotspots.
 
@@ -103,7 +103,7 @@ Rewards for transmitted beacons are scaled down by the transmit scale. All dots 
 
 ## Comments
 
-[Full explanation](../advanced/internal-workspace-comments)
+[Full explanation](../features/Monitoring%20&%20Managing/internal-workspace-comments)
 
 ## Info
 
@@ -117,11 +117,11 @@ The name of multiple hotspots can be the same, those are distinguished by their 
 
 - The **antenna gain** and **installation height** are crucial to earn the best amount of HNT. [How to find the best antenna for my hotspot?](https://gristleking.com/antennas-for-helium/)
 
-- See if the hotspot is added to the [**denylist**](../advanced/denylist.md).
+- See if the hotspot is added to the [**denylist**](../features/Visualize%20&%20Understand/denylist.md).
 
 - See the **HNT wallet address** associated to the hotspot.
 
-- Get info about the [**Hotspot manufacturers metrics**](../getting-started/hotspot-manufacturers-metrics.md).
+- Get info about the [**Hotspot manufacturers metrics**](../features/Visualize%20&%20Understand/hotspot-manufacturers-metrics.md).
 
 ## Resources
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 4
 ---
 
 # Appearance settings
@@ -28,10 +28,10 @@ Head over to the [Hotspotty app landing page](https://app.hotspotty.net/hotspots
 
 #### Problematic hexes
 
-These [hexes](../advanced/evaluate-hotspot-locations#hexes) lower the transmit scale as their limits are exceeded.
+These [hexes](/advanced/evaluate-hotspot-locations#hexes) lower the transmit scale as their limits are exceeded.
 
 :::tip
-A low transmit scale is not beneficial to generate the optimal HNT revenue. [Read more about optimizing your earnings](../advanced/optimize-your-earnings-and-reward-scaling).
+A low transmit scale is not beneficial to generate the optimal HNT revenue. [Read more about optimizing your earnings](/advanced/optimize-your-earnings-and-reward-scaling).
 :::
 
 ![DOCS](/img/advanced/appearance-problematic-hexes.png)
@@ -44,7 +44,7 @@ Hotspots/locations that are too close to each other will not be rewarded for wit
 
 #### Witness lines
 
-Show/hide lines for hotspot witnesses. More info is on the hotspot witnesses tab. By enabling one of the witness options, the lines will visualize that information. Please see the [witness tab](../getting-started/hotspot-status#witnesses) for this.
+Show/hide lines for hotspot witnesses. More info is on the hotspot witnesses tab. By enabling one of the witness options, the lines will visualize that information. Please see the [witness tab](/advanced/hotspot-status#witnesses) for this.
 
 ![DOCS](/img/advanced/appearance-witnesses.png)
 ![DOCS](/img/advanced/appearance-witnesses-2.png)
@@ -71,7 +71,7 @@ The [Installs](https://app.hotspotty.net/installs) tab on the Hotspotty map allo
 
 #### Locations
 
-Locations allow managing and simulating potential places where hotspots can be installed at. Currently the only available metric for coloring locations is the [simulated transmit scale](../getting-started/hotspot-status#transmit-scale-simulation). Locations disabled for transmit scale simulations are grey.
+Locations allow managing and simulating potential places where hotspots can be installed at. Currently the only available metric for coloring locations is the [simulated transmit scale](/advanced/hotspot-status#transmit-scale-simulation). Locations disabled for transmit scale simulations are grey.
 
 #### Satellite view
 
@@ -79,7 +79,7 @@ Add a satellite view overlay to the map.
 
 ### Relative performance
 
-Choose a metric to visualize the relative performance of hotspots. [More info can be found here](../getting-started/understand-your-area-and-account-verification)
+Choose a metric to visualize the relative performance of hotspots. [More info can be found here](/getting-started/understand-your-area-and-account-verification)
 
 ## Customize your Hotspotty workspace
 
