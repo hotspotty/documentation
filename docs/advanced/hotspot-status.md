@@ -12,7 +12,7 @@ By clicking on a hotspot on the [Hotspotty map](https://app.hotspotty.net/hotspo
 
 ## Status
 
-[Full explanation](../advanced/status-checker)
+[Full explanation](../features/Monitoring%20&%20Managing/status-checker)
 
 ## Activity
 
@@ -26,7 +26,7 @@ See what your hotspot is doing. The activity tab gives info about following item
 
 ![Docs](/img/getting-started/understanding-witnesses.png)
 
-**Witness**: Witnesses on the Helium network are Hotspots that have seen (or witnessed) a Proof-of-Coverage packet from a Hotspot. This single-stage Proof-of-Coverage challenge is also known as a "Beacon". Be aware that relayed hotspots do not only affect the hotspot owner but also the area around. A relayed hotspot will block incoming witnesses to the challenger what results in both the challenger and the beaconer not earning HNT. [How to get out of relayed?](../advanced/status-checker#what-is-a-relayed-hotspot)
+**Witness**: Witnesses on the Helium network are Hotspots that have seen (or witnessed) a Proof-of-Coverage packet from a Hotspot. This single-stage Proof-of-Coverage challenge is also known as a "Beacon". Be aware that relayed hotspots do not only affect the hotspot owner but also the area around. A relayed hotspot will block incoming witnesses to the challenger what results in both the challenger and the beaconer not earning HNT. [How to get out of relayed?](../features/Monitoring%20&%20Managing/status-checker#what-is-a-relayed-hotspot)
 
 **Challenger**: Hotspots are chosen as a Challenger by the network to issue Challenges (encrypted messages over the internet) to a selected Hotspot, receiving 0.95% of token rewards for doing so. Hotspots can issue challenges to any location around the world 🌎, not just to local Hotspots.
 
