@@ -21,7 +21,7 @@ The Helium community requested Helium, Inc. to maintain a temporary Hotspot Deny
 
 ![Docs](/img/advanced/denylist-1.png)
 
-**The [Regional Dashboard](../getting-started/understand-your-area-and-account-verification#regional-dashboard) now also shows the amount of hotspots added to the denylist in that area.**
+**The [Regional Dashboard](/getting-started/understand-your-area-and-account-verification#regional-dashboard) now also shows the amount of hotspots added to the denylist in that area.**
 
 ## How to check if one of my hotspots is in the denylist?
 

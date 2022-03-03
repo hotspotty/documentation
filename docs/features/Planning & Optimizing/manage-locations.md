@@ -30,13 +30,13 @@ By choosing <button class="hotspotty-button">Add location</button>, you will be 
 
 ![Docs](/img/workspace/add-locations-2.png)
 
-3. Added locations are ranked according to their transmit scale. A transmit scale of 1 is excellent, a transmit scale between 0 and 0.25 is terrible. More info about transmit scale can be found [here](../advanced/evaluate-hotspot-locations#transmit-scale).
+3. Added locations are ranked according to their transmit scale. A transmit scale of 1 is excellent, a transmit scale between 0 and 0.25 is terrible. More info about transmit scale can be found [here](/advanced/evaluate-hotspot-locations#transmit-scale).
 
 ![Docs](/img/workspace/add-locations-3.png)
 
 ## What can you do with locations?
 
-- Locations can be used to simulate the [reward scale](../advanced/optimize-your-earnings-and-reward-scaling) at that place.
+- Locations can be used to simulate the [reward scale](/advanced/optimize-your-earnings-and-reward-scaling) at that place.
 - Locations can be linked to an [install](../Monitoring%20&%20Managing/manage-installation-data) (installs can represent future or past locations).
 - You can assign labels to your locations to organize them properly.
   The easiest way is by adding them directly via the locations tab. But you can also [create labels via your workspace settings](https://app.hotspotty.net/workspace/settings/labels).
