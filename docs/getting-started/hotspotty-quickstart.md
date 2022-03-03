@@ -51,7 +51,3 @@ Hotspotty's basic concepts and terminology — Start Here! 🚀
 - 11:19 Wallet transactions
 - 11:39 Export hotspot rewards
 - 11:56 Tip: verify wallet
-
-## Quick start guides
-
-### Payments
