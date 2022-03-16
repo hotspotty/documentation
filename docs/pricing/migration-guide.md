@@ -31,4 +31,4 @@ A user can have at most one workspace with the Community base plan.
 
 Users that have multiple workspaces will have to go through scenario 2 for each workspace until there is only one workspace left with one Community base plan.
 
-From April 2nd, 2022 onwards, the workspaces that do not meet the above requirements will have limited access to its resources.
+From April 2nd, 2022 onwards, workspaces that do not meet the above requirements will have limited access to its resources.
