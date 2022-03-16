@@ -16,25 +16,19 @@ This also means that you can be part of multiple workspaces that each have a dif
 
 Each workspace needs to have one of the four base subscription plans:
 
-- Hotspotty Community (FREE)
-- Hotspotty Plus
-- Hotspotty Pro
-- Hotspotty Max
+- Community (FREE)
+- Pro
+- Business
+- Enterprise
 
-**Hotspotty Community** is the default for each workspace, and is free of charge but limited in use.
+**Community** is the default for each workspace, and is free of charge but limited in use.
 
-Hotspotty Plus, Hotspotty Pro and Hotspotty Max come with a monthly subscription fee that grants elevated limits and an expanded feature set.
+The Pro, Business and Enterprise plans come with a monthly subscription fee that grants an expanded feature set.
 
-Each plan comes with a limit of hotspots and simulations per month that is included. For the Hotspotty Community plan, the only way to surpass these limits is to upgrade to a paid base subscription plan. For the paid subscription plans, you can add more hotspots to your workspace and thus, exceed the included number of monthly simulations of the plan. This extra use is billed at an on-demand rate (see below), which can be decreased by prepaid volume discounts (see below).
+For the Community plan, the only way to surpass these limits is to upgrade to a paid base subscription plan. For the paid subscription plans, you can add as many hotspots as you need to your workspace. The main difference from the paid plans are in the feature you get with them.
 
-## On-demand
+## Volume discounts
 
-> Note: This is not applicable to the free Hotspotty Community base plan.
+![volume discounts](/img/pricing/pricing-2.png)
 
-All plans come with a defined quota of hotspots and simulations. For paid plans you can always add more hotspots and simulations which will be billed at an on-demand rate of $1 per extra hotspot or simulation. This is billed at the end of each billing cycle based on the usage during that month.
-
-## Prepaid volume discounts
-
-![prepaid volume discounts](/img/pricing/pricing-2.png)
-
-Users that expect to use significantly more hotspot or simulations than are included in their base subscription plan can benefit from volume discounts by allocating extra prepaid hotspots and simulations per month. This means that the workspace will have this extra capacity available which is now exempt from the on-demand rates (for use up to the allocated volume) and instead will be billed at a more favorable rate. These prepaid hotspots and simulations reset after every month, meaning that it is not possible to stack up and rollover to the following month. A healthy balance needs to be found by the user to achieve the most favorable combination of base subscription plan, prepaid usage and on-demand usage.
+Users can benefit from volume discounts by purchasing hotspots and simulations on a monthy plan. These amount of paid hotspots and simulations reset after every month, meaning that it is not possible to stack up and rollover to the following month.
