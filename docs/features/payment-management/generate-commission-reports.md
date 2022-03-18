@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Generate commission reports
 
-Before you continue, it is recommended to check out [add contact](../Planning%20&%20Optimizing/manage-contacts), [add hotspot](../Visualize%20&%20Understand/manage-hotspots) and [add install](../Monitoring%20&%20Managing/manage-installation-data).
+Before you continue, it is recommended to check out [add contact](../planning-and-optimizing/manage-contacts), [add hotspot](../visualize-and-understand/manage-hotspots) and [add install](../monitoring-and-managing/manage-installation-data).
 
 Calculate and track payouts for contacts that facilitate your hotspot deployments. Add installs and link commissions for your contacts to get monthly commission reports.
 
@@ -16,18 +16,18 @@ Calculate and track payouts for contacts that facilitate your hotspot deployment
 
 ## Create commission report
 
-### **1. Link your [contact](../Planning%20&%20Optimizing/manage-contacts) to a location that is attached to an install.**
+### **1. Link your [contact](../planning-and-optimizing/manage-contacts) to a location that is attached to an install.**
 
 ![Docs](/img/workspace/commission-report.png)
-In this example, John (a contact) hosts a hotspot at the given location address. This location is where the hotspot is currently installed, which is defined in the [installs tab](../Monitoring%20&%20Managing/manage-installation-data).
+In this example, John (a contact) hosts a hotspot at the given location address. This location is where the hotspot is currently installed, which is defined in the [installs tab](../monitoring-and-managing/manage-installation-data).
 
 :::note
 **In order to pay people easily in HNT using commission reports, a HNT wallet address must be added as a payment method to your contact otherwise you can only view the commission report.**
 :::
 
-### **2. Add commission to [install](../Monitoring%20&%20Managing/manage-installation-data)**
+### **2. Add commission to [install](../monitoring-and-managing/manage-installation-data)**
 
-You can either add a new commission for your contact or attach a [commission template](../Monitoring%20&%20Managing/settings#commission-templates) that you can set up through your workspace settings. [Commission templates](../Monitoring%20&%20Managing/settings#commission-templates) are extremely useful if you want the same payout rules for multiple hosts.
+You can either add a new commission for your contact or attach a [commission template](../monitoring-and-managing/settings#commission-templates) that you can set up through your workspace settings. [Commission templates](../monitoring-and-managing/settings#commission-templates) are extremely useful if you want the same payout rules for multiple hosts.
 
 ![Docs](/img/workspace/commission-report-2.png)
 
@@ -53,7 +53,7 @@ Open your generated report by clicking on the <button class="hotspotty-button">O
 
 ### **4. Tips and tricks**
 
-The report will show the total amount of commissions in your preferred currency. The counter next to the amount shows how many contacts have an HNT wallet attached to them. U can pay them very easily by either choosing <button class="hotspotty-button">Pay selected contacts</button> or <button class="hotspotty-button">Pay all contacts</button>. It is recommended to check out [pay your contacts](../Payment%20Management/pay-your-contacts).
+The report will show the total amount of commissions in your preferred currency. The counter next to the amount shows how many contacts have an HNT wallet attached to them. U can pay them very easily by either choosing <button class="hotspotty-button">Pay selected contacts</button> or <button class="hotspotty-button">Pay all contacts</button>. It is recommended to check out [pay your contacts](../payment-management/pay-your-contacts).
 
 Hotspotty helps you stay on top of paid HNT commissions by automatically monitoring the blockchain for paid wallet transactions making it easy to view across all your contacts - while still enabling you to manually mark commissions as paid, if needed.
 

@@ -23,7 +23,7 @@ sidebar_position: 2
    ![Docs](/img/workspace/add-install-2.png)
 
 4. Customize your install (required) and uninstall date (optional) for the location you have specified.
-5. You can add commissions to your new install in case someone hosts this hotspot for you. Head over to [commission reports](../Payment%20Management/generate-commission-reports) for more info.
+5. You can add commissions to your new install in case someone hosts this hotspot for you. Head over to [commission reports](../payment-management/generate-commission-reports) for more info.
 
 ## Export installs data
 

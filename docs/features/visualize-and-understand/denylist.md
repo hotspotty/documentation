@@ -27,4 +27,4 @@ The Helium community requested Helium, Inc. to maintain a temporary Hotspot Deny
 
 1. Head over to your [workspace](https://app.hotspotty.net/workspace/dashboard).
 2. In your dashboard, scroll to the bottom.
-3. If [hotspots added](../Visualize%20&%20Understand/manage-hotspots) to your workspace are in the denylist, it will show up in an attention list there.
+3. If [hotspots added](../visualize-and-understand/manage-hotspots) to your workspace are in the denylist, it will show up in an attention list there.

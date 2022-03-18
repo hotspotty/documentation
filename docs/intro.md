@@ -24,30 +24,38 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 To have a smooth and successful experience using Hotspotty to manage your hotspots installation data and any associated payments, we recommend the below guides:
 
 ### Visualize & Understand
-- [Hotspot Manufacturers & Order a hotspot](./features/Visualize%20&%20Understand/hotspot-manufacturers-metrics.md)
-- [Time travel & area analytics](./features/Visualize%20&%20Understand/time-travel.md)
-- [Manage hotspots in your workspace](./features/Visualize%20&%20Understand/manage-hotspots.md)
-- [Denylist](./features/Visualize%20&%20Understand/denylist.md)
+
+- [Hotspot Manufacturers & Order a hotspot](./features/visualize-and-understand/hotspot-manufacturers-metrics.md)
+- [Time travel & area analytics](./features/visualize-and-understand/time-travel.md)
+- [Manage hotspots in your workspace](./features/visualize-and-understand/manage-hotspots.md)
+- [Denylist](./features/visualize-and-understand/denylist.md)
+
 ### Planning & Optimizing
-- [Manage locations in your workspace](./features/Planning%20&%20Optimizing/manage-locations.md)
-- [Manage contacts](./features/Planning%20&%20Optimizing/manage-contacts.md)
-- [Line of sight tool](./features/Planning%20&%20Optimizing/line-of-sight.md)
-- [Appearance settings](./features/Planning%20&%20Optimizing/appearance-settings.md)
+
+- [Manage locations in your workspace](./features/planning-and-optimizing/manage-locations.md)
+- [Manage contacts](./features/planning-and-optimizing/manage-contacts.md)
+- [Line of sight tool](./features/planning-and-optimizing/line-of-sight.md)
+- [Appearance settings](./features/planning-and-optimizing/appearance-settings.md)
+
 ### Monitoring & Managing
-- [Workspaces](./features/Monitoring%20&%20Managing/workspace.md)
-- [Manage installation data](./features/Monitoring%20&%20Managing/manage-installation-data.md)
-- [Labelling and filters](./features/Monitoring%20&%20Managing/labelling-and-filtering.md)
-- [Internal workspace comments](./features/Monitoring%20&%20Managing/internal-workspace-comments.md)
-- [Status checker tool](./features/Monitoring%20&%20Managing/status-checker.md)
-- [Workspace settings](./features/Monitoring%20&%20Managing/settings.md)
+
+- [Workspaces](./features/monitoring-and-managing/workspace.md)
+- [Manage installation data](./features/monitoring-and-managing/manage-installation-data.md)
+- [Labelling and filters](./features/monitoring-and-managing/labelling-and-filtering.md)
+- [Internal workspace comments](./features/monitoring-and-managing/internal-workspace-comments.md)
+- [Status checker tool](./features/monitoring-and-managing/status-checker.md)
+- [Workspace settings](./features/monitoring-and-managing/settings.md)
+
 ### Team & Community Collaboration
-- [Workspaces](./features/Team%20&%20Community%20Collaboration/workspace.md)
-- [Contact hotspot owners](./features/Team%20&%20Community%20Collaboration/contact-hotspot-owners.md)
+
+- [Workspaces](./features/team-and-community-collaboration/workspace.md)
+- [Contact hotspot owners](./features/team-and-community-collaboration/contact-hotspot-owners.md)
 
 ### Payment Management
-- [Generate commission reports](./features/Payment%20Management/generate-commission-reports.md)
-- [Pay your contacts](./features/Payment%20Management/pay-your-contacts.md)
-- [Export hotspot rewards](./features/Payment%20Management/tax-reporting.md)
+
+- [Generate commission reports](./features/payment-management/generate-commission-reports.md)
+- [Pay your contacts](./features/payment-management/pay-your-contacts.md)
+- [Export hotspot rewards](./features/payment-management/tax-reporting.md)
 
 ## Advanced
 
@@ -56,7 +64,6 @@ If you're managing a fleet of hotspots we recommend you utilise the advanced fea
 - [Evaluate hotspot locations](./advanced/evaluate-hotspot-locations.md)
 - [Optimize your earnings and reward scaling](./advanced/optimize-your-earnings-and-reward-scaling.md)
 - [Advanced hotspot overview](./advanced/hotspot-status.md)
-
 
 ## Pricing
 
