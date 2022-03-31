@@ -5,32 +5,49 @@ title: "Migration guide"
 
 # Free to freemium migration guide
 
-The go-live date of Hotspotty's freemium offering is **April 2nd, 2022**, which puts an end to the unlimited and free beta version that was launched mid August 2021. This document is meant to outline our new commercial offering and elaborate on some specific use cases.
+Hotspotty goes live with the freemium offering on **April 2nd, 2022**, ending the unlimited and free beta version that was launched mid August 2021. This document helps you prepare for these changes. Please consult the [pricing page](./pricing.md) to learn more about the different plans. **It is important to understand that everything billing-related is defined at a workspace level.**
 
-## Pricing
+## Users with just one workspace
 
-Please consult the [pricing page](./pricing.md) to learn more about the pricing.
+### Up to 1 hotspots and up to 2 locations
 
-## Free to freemium migration
+No action is required. The workspace will automatically transition to the free **community** plan that includes 1 hotspot, 2 locations, and 1 super simulation per month.
 
-### Existing workspaces within the Community plan limits
+### More than 1 hotspot and/or more than 2 locations
 
-In this case, no action is required for users that are happy to stay in the **Community plan**. Their workspace will automatically be converted to this plan.
+The workspace will automatically transition the free **community** plan that includes 1 hotpspot, 2 locations and 1 super simulation per month.
+This means that you will no longer be able to see more than 1 hotspot and/or more than 2 locations in your workspace.
 
-### Existing workspaces exceeding the the Community plan limits
+To continue managing all your hotspots and locations, you are asked to upgrade your workspace to either **pro** or **business** plan. To the chosen plan, you will also need to add the desired number of hotspots and/or simulations you want to use per month. Every hotspot or simulation added to the plan will automatically come with two locations.
 
-If your workspace has more than one hotspot, two locations or one team member, you will no longer have the complete functionalities available because the workspace exceeds the Community plan limits.
+If you do not want to upgrade to a paid plan, you should delete the extra hotspots and/or locations so that your data fits in the **community** plan. Note that you can not delete hotspots or locations that are linked to installs, as that would corrupt your data. So if you still want to proceed with deletion, you should first delete the linked installs.
 
-In this case, there are three options:
+### External team members (yourself + others)
 
-1. Upgrade the workspace to a matching paid plan on April 2nd (Plus, Business or Enterprise feature plan and add the desired number of hotspots and/or super simulations)
-2. Remove whatever exceeds the limits (hotspots, locations, team members). This needs to be done before the billing is launched on April 2nd, 2022
-3. Delete the workspace
+The **community** and **pro** plans do not support collaboration between multiple team members per workspace.
+The **business** plan allows up to 10 team members per workspace.
 
-### Users with multiple workspaces
+So if your workspace has multiple team members, you have two options:
 
-A user can have at most one workspace with the Community plan.
+1. Upgrade your workspace to the **business** plan
+2. Remove all other team members (except yourself)
 
-Users that have multiple workspaces will have to go through the above steps for each workspace until there is only one workspace left with one Community plan.
+In case you do not act before the 2nd of April, the workspace will be locked except for the settings tab so you can move forward with one of the options above.
 
-From April 2nd, 2022 onwards, workspaces that do not meet the above requirements will have limited access to its resources.
+## Users with multiple workspaces
+
+At most one **community** workspace per user is allowed.
+On top of your **community** workspace, you can have or be invited to unlimited paid workspaces.
+
+In the case of multiple workspaces before the 2nd of April, you have two options:
+
+1. Upgrade workspaces to the **pro** or **business** plans until you have only one **community** workspace left
+2. Delete workspaces until you have only one **community** workspace left
+
+In case you do not act before the 2nd of April, the oldest workspace will transition to the **community** plan and your additional workspaces will be locked except for the settings tab so you can move forward with migration steps above.
+
+## How to delete a workspace
+
+<div class="videoWrapper">
+    <iframe width="885" height="498" src="https://www.youtube.com/embed/9LtlZYlU_Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
