@@ -11,7 +11,7 @@ Hotspotty goes live with the freemium offering on **April 2nd, 2022**, ending th
 
 ### Up to 1 hotspots and up to 2 locations
 
-No action required. The workspace will automatically transition to the free **community** plan that includes 1 hotpspot, 2 locations and 1 super simulation per month.
+No action is required. The workspace will automatically transition to the free **community** plan that includes 1 hotspot, 2 locations, and 1 super simulation per month.
 
 ### More than 1 hotspot and/or more than 2 locations
 
@@ -27,12 +27,12 @@ If you do not want to upgrade to a paid plan, you should delete the extra hotspo
 The **community** and **pro** plans do not support collaboration between multiple team members per workspace.
 The **business** plan allows up to 10 team members per workspace.
 
-So if your workspace has multiple team members you have two options:
+So if your workspace has multiple team members, you have two options:
 
 1. Upgrade your workspace to the **business** plan
-2. Remove the other team members (except yourself)
+2. Remove all other team members (except yourself)
 
-In case you do not do act before the 2nd of April, the workspace will be locked except for the settings tab so you can move forward with one of the options above.
+In case you do not act before the 2nd of April, the workspace will be locked except for the settings tab so you can move forward with one of the options above.
 
 ## Users with multiple workspaces
 
@@ -44,4 +44,10 @@ In the case of multiple workspaces before the 2nd of April, you have two options
 1. Upgrade workspaces to the **pro** or **business** plans until you have only one **community** workspace left
 2. Delete workspaces until you have only one **community** workspace left
 
-In case you do not do act before the 2nd of April, the oldest workspace will transition to the **community** plan and your additional workspaces will be locked except for the settings tab so you can move forward with migration steps above.
+In case you do not act before the 2nd of April, the oldest workspace will transition to the **community** plan and your additional workspaces will be locked except for the settings tab so you can move forward with migration steps above.
+
+## How to delete a workspace
+
+<div class="videoWrapper">
+    <iframe width="885" height="498" src="https://www.youtube.com/embed/9LtlZYlU_Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
