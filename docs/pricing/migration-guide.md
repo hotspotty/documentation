@@ -15,7 +15,7 @@ No action is required. The workspace will automatically transition to the free *
 
 ### More than 1 hotspot and/or more than 2 locations
 
-The workspace will automatically transition the free **community** plan that includes 1 hotpspot, 2 locations and 1 super simulation per month.
+The workspace will automatically transition the free **community** plan that includes 1 hotspot, 2 locations and 1 super simulation per month.
 This means that you will no longer be able to see more than 1 hotspot and/or more than 2 locations in your workspace.
 
 To continue managing all your hotspots and locations, you are asked to upgrade your workspace to either **pro** or **business** plan. To the chosen plan, you will also need to add the desired number of hotspots and/or simulations you want to use per month. Every hotspot or simulation added to the plan will automatically come with two locations.
