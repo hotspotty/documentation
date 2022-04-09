@@ -3,15 +3,16 @@ sidebar_position: 1
 ---
 
 # Hotspotty 101
+
 Hotspotty's basic concepts and terminology — Start Here! 🚀
 
 <div class="videoWrapper">
     <iframe width="885" height="498" src="https://www.youtube.com/embed/oaSJIe5LLL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Timestamps
-- 0:23 Import wallets and hotspot 
+
+- 0:23 Import wallets and hotspot
 - 0:25 Dashboard portfolio overview
 - 1:20 Advanced Hotspot Overview
 - 1:50 Map Explorer
@@ -21,7 +22,7 @@ Hotspotty's basic concepts and terminology — Start Here! 🚀
 - 3:26 Time travel simulations
 - 3:44 Makers hotspot explorer
 
---------------------------------------------
+---
 
 - 4:06 Add locations
 - 4:40 Locations management
@@ -30,7 +31,7 @@ Hotspotty's basic concepts and terminology — Start Here! 🚀
 - 5:35 Line of sight tool
 - 5:49 Appearance settings
 
---------------------------------------------
+---
 
 - 6:13 Hotspot status and diagnostics
 - 6:34 Hotspot performance visualizer
@@ -38,13 +39,13 @@ Hotspotty's basic concepts and terminology — Start Here! 🚀
 - 6:58 Hotspot installs management
 - 7:14 Labelling and filters
 
---------------------------------------------
+---
 
 - 7:31 Workspaces
 - 8:18 Internal workspace comments
 - 8:43 Discord region collaboration
 
---------------------------------------------
+---
 
 - 9:13 Commission reports
 - 10:23 Pay contacts
@@ -53,6 +54,7 @@ Hotspotty's basic concepts and terminology — Start Here! 🚀
 - 11:56 Tip: verify wallet
 
 ## Visualize & Understand
+
 Importing wallets and hotspots is a great way to manage payouts, to keep track of transactions, to keep track of hotspot activity and so on. A lot of this info comes together in your personal dashboard or more detailed information regarding your hotspots can be viewed in the Advanced Hotspot overview tabs.
 
 [Dashboard](https://app.hotspotty.net/workspace/dashboard) :
@@ -62,6 +64,7 @@ When it comes to visualizing and understanding data - the Hotspotty map is there
 ![Map-buttons](/img/getting-started/101-2.png)
 
 ## Planning and optimizing
+
 Want to build out a network? Start by adding locations to your network and associate them with the associated contacts. Not sure where to place a new hotspot? Try out our location transmit scale simulations and learn all about the Helium network.
 
 ![Map-buttons](/img/getting-started/101-3.png)
@@ -71,6 +74,7 @@ Use the Line of Sight tool to view possible obstacles that can prevent your hots
 ![LOS](/img/getting-started/101-4.png)
 
 ## Monitoring and managing
+
 Monitor hotspot info closely. Get info about rewards, witnesses, beacons, challengers, antenna gain, ...
 On top of that you can perform real time checks to see if a hotspot is behaving online/offline or might be relayed. The difference with the blockchain data is that real time checks are updated live and are not delayed.
 
@@ -83,6 +87,7 @@ Manage your installs in your workspace. Installs represent locations where a hot
 Use labels to organize all your data and filter for default labels or labels created by yourself.
 
 ## Team & Community Collaboration
+
 Collaborate with others in your workspace by adding them as a member or admin. Add data together and keep of track of one another by adding comments. Comments can only be viewed by team members and are workspace-bound. Easily @ collaborators so that they receive an email.
 
 Looking for hosts in an area to connect with? Choose the correct hex and join the Discord server.
@@ -90,4 +95,5 @@ Looking for hosts in an area to connect with? Choose the correct hex and join th
 ![Hotspot status](/img/getting-started/101-7.png)
 
 ## Payment management
-Create commission reports to pay your hosts or to 
+
+Create commission reports to pay your hosts and more.
