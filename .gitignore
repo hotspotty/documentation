@@ -1,3 +1,7 @@
+#Algolia
+.env
+
+
 # Dependencies
 /node_modules
 

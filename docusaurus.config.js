@@ -39,6 +39,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        apiKey: 'df65e4125cc1aea639ca4c5294631647',
+        indexName: 'dev_Jelle_Hotspotty',
+        contextualSearch: true,
+        placeholder: 'Search in the Hotspotty paradise',
+        appId: 'K3QT2SUPTF',
+      },
       navbar: {
         title: 'Hotspotty',
         logo: {
