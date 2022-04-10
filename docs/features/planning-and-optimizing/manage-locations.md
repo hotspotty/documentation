@@ -36,6 +36,7 @@ By choosing <button class="hotspotty-button">Add location</button>, you will be 
 
 ## What can you do with locations?
 
+- Locations can be used to run [super simulations](super-simulations).
 - Locations can be used to simulate the [reward scale](/advanced/optimize-your-earnings-and-reward-scaling) at that place.
 - Locations can be linked to an [install](../monitoring-and-managing/manage-installation-data) (installs can represent future or past locations).
 - You can assign labels to your locations to organize them properly.
