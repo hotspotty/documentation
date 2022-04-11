@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+require('dotenv').config()
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hotspotty',
@@ -35,16 +37,24 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+    [
+      "docusaurus2-dotenv",
+      {
+        systemvars: true,
+      },
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        apiKey: 'df65e4125cc1aea639ca4c5294631647',
+        apiKey: process.env.API_KEY,
         indexName: 'dev_Jelle_Hotspotty',
         contextualSearch: true,
         placeholder: 'Search in the Hotspotty paradise',
-        appId: 'K3QT2SUPTF',
+        appId: process.env.APPLICATION_ID,
       },
       navbar: {
         title: 'Hotspotty',
