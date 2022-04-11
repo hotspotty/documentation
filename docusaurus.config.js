@@ -32,7 +32,7 @@ const config = {
           customCss: require.resolve('./src/css/custom.css'),
         },
         gtag: {
-          trackingID: 'GTM-5MKRJ2Z',
+          trackingID: process.env.GOOGLE_TAG_MANAGER_ID,
         },
       }),
     ],
@@ -50,11 +50,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        apiKey: process.env.API_KEY,
-        indexName: 'dev_Jelle_Hotspotty',
+        apiKey: process.env.ALGOLIA_API_KEY,
+        indexName: process.env.ALGOLIA_INDEX_NAME,
         contextualSearch: true,
-        placeholder: 'Search in the Hotspotty paradise',
-        appId: process.env.APPLICATION_ID,
+        placeholder: 'Search docs',
+        appId: process.env.ALGOLIA_APPLICATION_ID,
       },
       navbar: {
         title: 'Hotspotty',
