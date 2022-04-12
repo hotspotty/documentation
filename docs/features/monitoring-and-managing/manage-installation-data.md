@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Add installs
 
-1. Head over to the [**Installs**](https://app.hotspotty.net/workspace/installs) tab in your workspace and click on <button class="hotspotty-button">Add install</button>.
+1. Head over to the [**Installs**](https://app.hotspotty.net/workspace/installs) tab in your workspace and click on <button className="hotspotty-button">Add install</button>.
 
    ![Docs](/img/workspace/add-install.png)
 

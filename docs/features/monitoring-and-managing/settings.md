@@ -14,7 +14,7 @@ Configure your workspace name. You can add additional workspaces to your Hotspot
 
 ## Members
 
-Give members permission to view or edit your workspace. Adding a member is easy. Click on <button class="hotspotty-button">New member</button>, enter the email address of the team member you want to add. An automated email will be sent and the recepient needs to accept the invite.
+Give members permission to view or edit your workspace. Adding a member is easy. Click on <button className="hotspotty-button">New member</button>, enter the email address of the team member you want to add. An automated email will be sent and the recepient needs to accept the invite.
 
 **Admin:** A member with admin permissions can change the workspace settings and invite additional team members.
 
@@ -35,7 +35,7 @@ You can change your timezone here.
 
 ### Commission templates
 
-Commission templates are very convenient when you want to have the same payout rules for several hosts. By clicking on <button class="hotspotty-button">Add commission template</button> you can specify a fixed percentage of HNT that your hosts will receive if this template is attached to them.
+Commission templates are very convenient when you want to have the same payout rules for several hosts. By clicking on <button className="hotspotty-button">Add commission template</button> you can specify a fixed percentage of HNT that your hosts will receive if this template is attached to them.
 
 [How to add a commission template to an install?](../payment-management/generate-commission-reports#2-add-commission-to-install)
 

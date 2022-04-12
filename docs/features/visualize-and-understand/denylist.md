@@ -8,8 +8,8 @@ The Helium community requested Helium, Inc. to maintain a temporary Hotspot Deny
 
 ## Video introduction
 
-<div class="videoWrapper">
-    <iframe width="885" height="498" src="https://www.youtube.com/embed/4VkaltlEUww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div className="videoWrapper">
+    <iframe width="885" height="498" src="https://www.youtube.com/embed/4VkaltlEUww" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
 
 ## How to check which hotspots are blacklisted?

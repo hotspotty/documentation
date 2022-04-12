@@ -24,11 +24,11 @@ Every dot on the map represents a hotspot as it is asserted in the Helium networ
 If you navigate to the appearance settings cog in the top right corner you can read more about the different filters at the bottom of the page.
 
 <ul>
-    <li><span class="green-text bold-text">Green</span> - the hotspot is <span class="bold-text">online</span> and has an <span class="bold-text">excellent transmit scale</span></li>
-    <li><span class="yellow-text bold-text">Yellow</span> - the hotspot is <span class="bold-text">online</span> and has a <span class="bold-text">mediocre transmit scale</span></li>
-    <li><span class="orange-text bold-text">Orange</span> - the hotspot is <span class="bold-text">online</span> and has a <span class="bold-text">poor transmit scale</span></li>
-    <li><span class="purple-text bold-text">Purple</span> - the hotspot is <span class="bold-text">offline</span> or has recently been <span class="bold-text">offline</span> and/or is currently <span class="bold-text">syncing</span></li>
-    <li><span class="red-text bold-text">Red</span> - the hotspot is <span class="bold-text">online</span> and has a <span class="bold-text">terrible transmit scale</span></li>
+    <li><span className="green-text bold-text">Green</span> - the hotspot is <span className="bold-text">online</span> and has an <span className="bold-text">excellent transmit scale</span></li>
+    <li><span className="yellow-text bold-text">Yellow</span> - the hotspot is <span className="bold-text">online</span> and has a <span className="bold-text">mediocre transmit scale</span></li>
+    <li><span className="orange-text bold-text">Orange</span> - the hotspot is <span className="bold-text">online</span> and has a <span className="bold-text">poor transmit scale</span></li>
+    <li><span className="purple-text bold-text">Purple</span> - the hotspot is <span className="bold-text">offline</span> or has recently been <span className="bold-text">offline</span> and/or is currently <span className="bold-text">syncing</span></li>
+    <li><span className="red-text bold-text">Red</span> - the hotspot is <span className="bold-text">online</span> and has a <span className="bold-text">terrible transmit scale</span></li>
  </ul>
 
 If you want a detailed understanding of reward scaling and how you can improve your reward potential see [Optimize your earnings and reward scaling](../advanced/optimize-your-earnings-and-reward-scaling) There are multiple concepts that are combined to scale the rewards, for example transmit scale (HIP17) and witness reward units (HIP15). A simplified version of the latter is included in Hotspotty.
