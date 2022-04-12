@@ -26,13 +26,13 @@ Depending on your preference you may want to enter the installation height in me
 
 ![DOCS](/img/workspace/super-simulation-1.png)
 
-4. Click <button class="hotspotty-button">Run simulation</button>
+4. Click <button className="hotspotty-button">Run simulation</button>
 
 :::caution
 By running a super simulation, 1 simulation credit will be used. You can buy super simulation credits for your workspace [here](https://app.hotspotty.net/pricing).
 :::
 
-5. It takes some time to run the calculations. The process should not take longer than a few minutes. You will receive an email once the super simulation is created. The status will change to <button class="hotspotty-button">Open simulation</button> when processing is done.
+5. It takes some time to run the calculations. The process should not take longer than a few minutes. You will receive an email once the super simulation is created. The status will change to <button className="hotspotty-button">Open simulation</button> when processing is done.
 
 ![DOCS](/img/workspace/super-simulation-2.png)
 
@@ -42,25 +42,27 @@ If you want to build a network, it is interesting to check several locations so 
 
 1. Go over to your [Locations](https://app.hotspotty.net/workspace/locations) in your workspace.
 2. Select the locations you want to run super simulations for by checking their boxes at the far left of the location names.
-3. Click <button class="hotspotty-button">Run super simulations</button>
+3. Click <button className="hotspotty-button">Run super simulations</button>
 
 :::note
+
 - Each location you selected will require 1 simulation credit.
 - A default height of 10m is used, unless you added a custom height to your locations.
 - You will receive an email when the super simulations are ready.
-:::
+  :::
 
 ![DOCS](/img/workspace/super-simulation-4.png)
 
-Alternatively you can run super simulations for **all** your locations. Click on the 3 dots <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> next to <button class="hotspotty-button">New location</button> and choose **Run super simulations**.
+Alternatively you can run super simulations for **all** your locations. Click on the 3 dots <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" className="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> next to <button className="hotspotty-button">New location</button> and choose **Run super simulations**.
 
 :::note
 Be aware of the following when doing this:
+
 - By default all locations will be used except if you have applied filters or you searched for locations by name or address. In short: for all the results, super simulations will be run.
 - Each location will require 1 simulation credit.
 - A default height of 10m is used, unless you added a custom height to your locations.
 - You will receive an email when the super simulations are ready.
-:::
+  :::
 
 ![DOCS](/img/workspace/super-simulation-5.png)
 
@@ -76,7 +78,7 @@ When a super simulation is created, it can be opened. For each location, you'll 
 
 1. **Line of sight visibility**: The number of hotspots that are visible from this location at an installation height of 0m is compared against how many witnesses hotspots have in the entire network.
 
-2. **Visible hotspot witness score**: This score is the product of the transmit scale * witness reward units. This diagram represents what visible hotspots have a terrible witness score and what hotspots have good witness scores. The more green is represented in the diagram, the more likely you want to place a hotspot in that area. If there is a lot of red, it means that the area is already dense enough and placing a hotspot there would result in low earning witnesses.
+2. **Visible hotspot witness score**: This score is the product of the transmit scale \* witness reward units. This diagram represents what visible hotspots have a terrible witness score and what hotspots have good witness scores. The more green is represented in the diagram, the more likely you want to place a hotspot in that area. If there is a lot of red, it means that the area is already dense enough and placing a hotspot there would result in low earning witnesses.
 
 3. **PoC score**: The PoC Score is a number that represents the PoC rewards potential in a way that can be directly compared to all other hotspots in the Helium network. The location gets a value assigned, the higher this value, the more valuable it is to put a hotspot on that location. Ideally you want the highest PoC score possible.
 
@@ -85,11 +87,11 @@ Underneath these 3 diagrams, you will find a list of all visible hotspots. Ranke
 4. **Visible locations**: This option is great for building out your own network. Instead of checking all visible hotspots, the super simulation will look at all your locations added in your workspace. Please note that only locations available at the time of the super simulation were included in the simulation. We recommend you add an installation height to all your locations to get more accurate results.
 
 ### Rank your locations based on super simulations
+
 1. Go over to your [Locations](https://app.hotspotty.net/workspace/locations) in your workspace.
 2. Double click **LAST SUPER SIMULATION** to rank your location from best PoC score to worst.
 
 ![DOCS](/img/workspace/super-simulation-8.png)
-
 
 :::note
 **DISCLAIMER**: Hotspotty super simulations use elevation profiles (NASA dataset), on-chain data (asserted hotspot height & coordinates) and user-entered data (location height). The results are a best-effort approximation and will likely differ from reality because not all this data reflects reality.

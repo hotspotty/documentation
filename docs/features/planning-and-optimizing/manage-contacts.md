@@ -27,13 +27,14 @@ When you save a contact, the name will appear on the left-hand side. Click on th
 ![Docs](/img/workspace/managecontacts4.png)
 
 ## Register payments
+
 You can manually add payments to your contacts and keep track of them together with generated commission reports in one history list. Let's say you manually paid 1 HNT to your contact as a gift of appreciation, you can add that payment to that contact's list as a reminder or to keep records.
 
 1. Go over to the **Contacts** section when you are on the [Hotspotty map](https://app.hotspotty.net/hotspots).
 
 2. Click on the desired contact and go over to the **Payments** section.
 
-3. Click <button class="hotspotty-button">Register payment</button>.
+3. Click <button className="hotspotty-button">Register payment</button>.
 
 4. Choose the currency, amount, payment date and leave a note.
 

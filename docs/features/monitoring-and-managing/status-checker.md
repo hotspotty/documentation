@@ -6,8 +6,8 @@ sidebar_position: 14
 
 ## Video Introduction
 
-<div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0ETAK0Osz2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div className="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0ETAK0Osz2Q" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
 
 When setting up a new hotspot or analyzing the performance of an existing one, there are many things you need to check in order to ensure top performance. The **status check** tool enables you to perform a live test of the actual hotspot instead of relying on the information provided by the blockchain. Before we dig into the tool, lets check out a few concepts first.
@@ -44,7 +44,7 @@ Our **real time status check** uses a **blockchain node** to force a direct conn
 
 ![hotspot-page](/img/advanced/status-check-01.png)
 
-When you go to any hotspot status page, you have two sections, **Blockchain data**, and **Real time status check** (displayed in the image above). The **Blockchain data** is the latest information pulled from the blockchain, which is usually correct but can be outdated. If you want to double-check the data, you can run the **status check** by pressing the <button class="hotspotty-button">Run status check</button> button.
+When you go to any hotspot status page, you have two sections, **Blockchain data**, and **Real time status check** (displayed in the image above). The **Blockchain data** is the latest information pulled from the blockchain, which is usually correct but can be outdated. If you want to double-check the data, you can run the **status check** by pressing the <button className="hotspotty-button">Run status check</button> button.
 
 ![hotspot-page](/img/advanced/status-check-05.png)
 
@@ -86,7 +86,7 @@ A relayed hotspot can be fixed by forwarding the **TCP port 44158** to the local
 
 The port test must be performed using the public IP address of the network to which the hotspot is connected. If this information is available on the blockchain, that IP address will be filled in automatically. The network IP address might have changed and might not yet have been updated on the blockchain. If this info is unavailable, we use the IP address from which you are using Hotspotty currently. That might not be available or might be different from your hotspot network (VPN, mobile internet, ...). To be 100% certain, you can connect to the same network as the hotspot with your computer/phone and go to [whatismyip.com](https://whatismyip.com) to get the correct IP address.
 
-To run the port test, click on the three dots, <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> and select **"Test relay status (port test)"**, which will open a form that is pre-filled with the hotspot's IP address or in case that is unavailable, with your current external IP address. You may need to change the IP address to the network where the hotspot is located.
+To run the port test, click on the three dots, <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" className="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> and select **"Test relay status (port test)"**, which will open a form that is pre-filled with the hotspot's IP address or in case that is unavailable, with your current external IP address. You may need to change the IP address to the network where the hotspot is located.
 
 ![port-check](/img/advanced/status-check-port-check-01.png)
 
