@@ -63,7 +63,8 @@ Be aware of the following when doing this:
 - Each location will require 1 simulation credit.
 - A default height of 10m is used, unless you added a custom height to your locations.
 - You will receive an email when the super simulations are ready.
-  :::
+
+:::
 
 ![DOCS](/img/workspace/super-simulation-5.png)
 
