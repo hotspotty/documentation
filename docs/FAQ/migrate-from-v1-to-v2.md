@@ -1,11 +1,12 @@
 ---
 sidebar_position: 2
 ---
+
 # How to migrate all data from Hotspotty v1 to v2?
 
 Hotspotty is more vivid than ever. With our new Hotspotty (v2) platform, you can get more out of your v1 experience. Use all your familiar features plus much more.
 
-1. Go over to https://hotspotty.net/ and get started for free with Hotspotty (v2).
+1. Go over to https://hotspotty.net and get started for free with Hotspotty (v2).
 
 ![Hotspotty](/img/faq/hotspotty.png)
 
@@ -16,4 +17,3 @@ Hotspotty is more vivid than ever. With our new Hotspotty (v2) platform, you can
 3. Import the .csv file in Hotspotty (v2) through your workspace > contacts.
 
 ![Hotspotty](/img/faq/v1-migration-2.png)
-

@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
 ---
+
 # How do I remove the distance line created by a placement simulation?
 
-Example of a distance line created by using the placement simulation tool.
+Example of a distance line created by using the [placement simulation tool](../advanced/hotspot-status/#placement-simulation).
 
 ![DistanceLine](/img/faq/placement-distance-line.png)
 
