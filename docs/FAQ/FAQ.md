@@ -10,3 +10,5 @@ Frequently asked questions are added here. [Reach out to us if you need more hel
 [How can I cancel my subscription?](./cancel-subscription)
 
 [How can I change the distance unit?](./change-distance-unit)
+
+[How to delete a workspace?](./delete-workspace)

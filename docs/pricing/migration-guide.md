@@ -48,6 +48,4 @@ In case you do not act before the 2nd of April, the oldest workspace will transi
 
 ## How to delete a workspace
 
-<div className="videoWrapper">
-    <iframe width="885" height="498" src="https://www.youtube.com/embed/9LtlZYlU_Rs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-</div>
+Please take a look at [this](/FAQ/delete-workspace) FAQ article.
