@@ -32,7 +32,7 @@ Depending on your preference you may want to enter the installation height in me
 By running a super simulation, 1 simulation credit will be used. You can buy super simulation credits for your workspace [here](https://app.hotspotty.net/pricing).
 :::
 
-5. It takes some time to run the calculations. The process should not take longer than a few minutes. You will receive an email once the super simulation is created. The status will change to <button className="hotspotty-button">Open simulation</button> when processing is done.
+5. It takes some time to run the calculations. The process should not take longer than a few minutes. You will receive an email once the super simulation is finished. The status will change to <button className="hotspotty-button">Open simulation</button> when processing is done.
 
 ![DOCS](/img/workspace/super-simulation-2.png)
 
@@ -70,7 +70,7 @@ Be aware of the following when doing this:
 
 ## Interpret the super simulation results
 
-When a super simulation is created, it can be opened. For each location, you'll see a history list with all previous created super simulations. Since the Helium network grows every day and your installation height might change over time, you can compare older super simulations with newer once.
+When a super simulation is finished, it can be opened. For each location, you'll see a history list with all previous created super simulations. Since the Helium network grows every day and your installation height might change over time, you can compare older super simulations with newer ones.
 
 ![DOCS](/img/workspace/super-simulation-6.png)
 
@@ -78,15 +78,15 @@ When a super simulation is created, it can be opened. For each location, you'll 
 
 ![DOCS](/img/workspace/super-simulation-7.png)
 
-1. **Line of sight visibility**: The number of hotspots that are visible from this location at an installation height of 0m is compared against how many witnesses hotspots have in the entire network.
+1. **Line of sight visibility**: The number of hotspots that are visible from this location at the given height is compared against how many witnesses hotspots have in the entire network. A default height of 10m is used for each hotspot or location for which a line of sight connection is calculated, unless a custom height is added to the blockchain or the location.
 
-2. **Visible hotspot witness score**: This score is the product of the transmit scale \* witness reward units. This diagram represents what visible hotspots have a terrible witness score and what hotspots have good witness scores. The more green is represented in the diagram, the more likely you want to place a hotspot in that area. If there is a lot of red, it means that the area is already dense enough and placing a hotspot there would result in low earning witnesses.
+2. **Visible hotspot witness score**: This score is the product of the **transmit scale** and the **witness reward units**. This diagram represents what visible hotspots have a terrible witness score and what hotspots have good witness scores. The more green is represented in the diagram, the more likely you want to place a hotspot in that area. If there is a lot of red, it means that the area is already dense enough and placing a hotspot there would result in low earning witnesses.
 
 3. **PoC score**: The PoC Score is a number that represents the PoC rewards potential in a way that can be directly compared to all other hotspots in the Helium network. The location gets a value assigned, the higher this value, the more valuable it is to put a hotspot on that location. Ideally you want the highest PoC score possible.
 
-Underneath these 3 diagrams, you will find a list of all visible hotspots. Ranked from best witness score to the most terrible one. For every seperate hotspot you can open the line of sight tool to get more info of what's in between the location and that hotspot.
+4. **Visible hotspots**: Underneath these 3 diagrams, you will find a list of all visible hotspots. Ranked from best to worst witness scores. For every seperate hotspot you can open the line of sight tool to get more info of what's in between the location and that hotspot.
 
-4. **Visible locations**: This option is great for building out your own network. Instead of checking all visible hotspots, the super simulation will look at all your locations added in your workspace. Please note that only locations available at the time of the super simulation were included in the simulation. We recommend you add an installation height to all your locations to get more accurate results.
+5. **Visible locations**: This option is great for planning greenfield deployments where there is no coverage yet. Instead of checking all visible hotspots, the super simulation will look at all your locations added in your workspace. Please note that only locations available at the time of the super simulation were included in the simulation. We recommend you add an installation height to all your locations to get more accurate results.
 
 ### Rank your locations based on super simulations
 
