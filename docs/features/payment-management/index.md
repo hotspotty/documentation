@@ -97,7 +97,7 @@ You can still export all contact commissions to a CSV file.
 
 ![Docs](/img/workspace/mark-as-paid.png)
 
-These "Contact payments" can be consulted on a separate page in the "Payments" section of the contact details page, assuming they were "Marked as paid". O n that page, you can also [manually register a payment](../planning-and-optimizing/manage-contacts.md#register-payments) for a contact, and even leave additional notes or specify a date in the past for when this payment happened.
+These "Contact payments" can be consulted on a separate page in the "Payments" section of the contact details page, assuming they were "Marked as paid". On that page, you can also [manually register a payment](../planning-and-optimizing/manage-contacts.md#register-payments) for a contact, and even leave additional notes or specify a date in the past for when this payment happened.
 
 The contact payments tab displays the total amounts that were marked as paid to that contact.
 
