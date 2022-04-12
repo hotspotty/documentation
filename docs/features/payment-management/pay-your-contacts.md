@@ -33,6 +33,9 @@ You can make bulk payments by simply scanning a QR code provided when you [creat
 
 By choosing the CLI payment option you will be prompted to download the generated JSON file. The file contains all the HNT wallet addresses associated with the HNT amount your hosts need to receive, so you can easily import the data using the [Helium CLI](https://docs.helium.com/wallets/cli-wallet/).
 
+### Pay using a CSV file
+Download a CSV file of an entire commission report with the amount owed for each contact, and the default payment details for that currency.
+
 ## Duplicate payment prevention
 
 Not feeling confident in paying tons of people with some simple clicks? We made it easy for you by automatically marking a [commission report](../payment-management/generate-commission-reports) as paid so that you are not able to accidentally pay your hosts multiple times at once.

@@ -96,4 +96,4 @@ Looking for hosts in an area to connect with? Choose the correct hex and join th
 
 ## Payment management
 
-Create commission reports to pay your hosts and more.
+Create commission reports to pay your hosts and more. [Explore payment management](../features/payment-management).
