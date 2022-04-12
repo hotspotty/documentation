@@ -4,14 +4,14 @@ sidebar_position: 2
 
 # Contact hotspot owners
 
-Letting people contact you is a great way to improve the overall quality of the Helium network. Maybe someone wants to collaborate with you or wants to help you [improve your reward scale](/advanced/optimize-your-earnings-and-reward-scaling)?
+Letting people contact you is a great way to improve the overall quality of the Helium network. Maybe someone wants to collaborate with you or wants to help you [improve your transmit scale](/advanced/optimize-your-earnings-and-transmit-scale)?
 Or what if you are the person willing to help someone out?
 
 ## How to get contacted?
 
 Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a 🤖. There are 2 approaches:
 
-1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button class="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](#verify-wallet-ownership).
+1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button className="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](#verify-wallet-ownership).
 
 ![Verify Wallet](/img/advanced/verify-wallet-01.png)
 
@@ -37,7 +37,7 @@ First, [navigate to the desired hotspot](https://app.hotspotty.net/hotspots) you
 
 ![Contact hotspot](/img/advanced/contact-hotspot-01.png)
 
-1. Whenever a hotspot belongs to a verified wallet, a <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg> icon will be displayed next to the name.
+1. Whenever a hotspot belongs to a verified wallet, a <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" className="los-icon" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg> icon will be displayed next to the name.
 
 2. This is the number of messages sent to this hotspot. In case no one has claimed the hotspot/wallet yet, the messages will be placed on hold until the wallet is verified.
 

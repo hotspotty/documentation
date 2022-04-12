@@ -22,6 +22,25 @@ You can also add a hotspot from the main map view by clicking on a hotspot you w
 
 ![Docs](/img/workspace/addhotspot3.png)
 
+## Remove hotspots
+
+Manually added hotspots can easily be removed from your workspace by clicking on the 3 dots <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" className="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> of the desired hotspot and choosing **Remove hotspot from workspace**.
+
+Via workspace:
+
+![Docs](/img/workspace/remove-hotspot.png)
+
+Via map:
+![Docs](/img/workspace/remove-hotspot-2.png)
+
+:::note
+You cannot remove hotspots one by one if they are tracked by a wallet. In order to remove those hotspots, you need to remove the wallet from your dashboard where the hotspots are attached to.
+
+You should only track a wallet incl. all hotspots in case you need them in your payment plan. Otherwise this will allocate hotspot slots in your payment plan.
+
+![Docs](/img/workspace/remove-hotspot-3.png)
+:::
+
 ## Hotspot performance visualizer
 
 The hotspots tab in your workspace shows a list of the hotspots you added.
@@ -33,6 +52,6 @@ Following information is shown there:
 - Added labels
 - ...
 
-You can customize all these metrics by clicking on the 3 dots next to <button class="hotspotty-button">Add hotspot</button> and choose **Edit columns**.
+You can customize all these metrics by clicking on the 3 dots next to <button className="hotspotty-button">Add hotspot</button> and choose **Edit columns**.
 
 ![Docs](/img/workspace/hotspots_overview.png)

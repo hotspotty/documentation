@@ -31,7 +31,7 @@ Head over to the [Hotspotty app landing page](https://app.hotspotty.net/hotspots
 These [hexes](/advanced/evaluate-hotspot-locations#hexes) lower the transmit scale as their limits are exceeded.
 
 :::tip
-A low transmit scale is not beneficial to generate the optimal HNT revenue. [Read more about optimizing your earnings](/advanced/optimize-your-earnings-and-reward-scaling).
+A low transmit scale is not beneficial to generate the optimal HNT revenue. [Read more about optimizing your earnings](/advanced/optimize-your-earnings-and-transmit-scale).
 :::
 
 ![DOCS](/img/advanced/appearance-problematic-hexes.png)
@@ -83,4 +83,4 @@ Choose a metric to visualize the relative performance of hotspots. [More info ca
 
 ## Customize your Hotspotty workspace
 
-Workspaces do not have special appearance settings next to the default ones. But almost all tabs shown in the workspace have 3 dots <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> that allow for editing the columns with metrics to your needs.
+Workspaces do not have special appearance settings next to the default ones. But almost all tabs shown in the workspace have 3 dots <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" className="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> that allow for editing the columns with metrics to your needs.

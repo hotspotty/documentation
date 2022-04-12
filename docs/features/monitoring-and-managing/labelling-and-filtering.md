@@ -17,6 +17,12 @@ Go over to the **settings** tab to have a list of all your created labels. From 
 
 ![DOCS](/img/advanced/workspace-labelling-settings.png)
 
+### Edit and remove labels
+
+Did you make a typo, do you want to change the color of your label or do you want to completely remove a label from your workspace? Go over to the **Labels** section in your workspace that is located under the **Settings** tab. Next to each label name you can find the type, usage amount and actions column. By clicking on the 3 dots <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" className="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> in the actions column next to the label you want to edit or remove, you will find the ability to edit/remove a label.
+
+![DOCS](/img/advanced/edit-remove-label.png)
+
 ## Labelling and filters via the map
 
 ![DOCS](/img/advanced/map-labelling.png)

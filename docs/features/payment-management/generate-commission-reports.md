@@ -10,8 +10,8 @@ Calculate and track payouts for contacts that facilitate your hotspot deployment
 
 ## Video introduction
 
-<div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.loom.com/embed/6812d5c255f14dddbc9f4878e68efc64" title="Loom video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div className="videoWrapper">
+    <iframe width="560" height="315" src="https://www.loom.com/embed/6812d5c255f14dddbc9f4878e68efc64" title="Loom video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
 
 ## Create commission report
@@ -39,7 +39,7 @@ By clicking on **+ Add new commission** you are able to specify what HNT percent
 
 ### **3. Generate report**
 
-It is time to generate a commission report now! Head over to the [**Commission reports**](https://app.hotspotty.net/workspace/commission-reports) tab in your workspace and click on <button class="hotspotty-button">Generate report</button>.
+It is time to generate a commission report now! Head over to the [**Commission reports**](https://app.hotspotty.net/workspace/commission-reports) tab in your workspace and click on <button className="hotspotty-button">Generate report</button>.
 
 Next, specify the start and end date for the report and generate it.
 
@@ -47,13 +47,13 @@ Please note that Hotspotty will not be held liable for any indirect or accidenta
 
 ![Docs](/img/workspace/commission-report-4.png)
 
-Open your generated report by clicking on the <button class="hotspotty-button">Open #</button>.
+Open your generated report by clicking on the <button className="hotspotty-button">Open #</button>.
 
 ![Docs](/img/workspace/commission-report-5.png)
 
 ### **4. Tips and tricks**
 
-The report will show the total amount of commissions in your preferred currency. The counter next to the amount shows how many contacts have an HNT wallet attached to them. U can pay them very easily by either choosing <button class="hotspotty-button">Pay selected contacts</button> or <button class="hotspotty-button">Pay all contacts</button>. It is recommended to check out [pay your contacts](../payment-management/pay-your-contacts).
+The report will show the total amount of commissions in your preferred currency. The counter next to the amount shows how many contacts have an HNT wallet attached to them. U can pay them very easily by either choosing <button className="hotspotty-button">Pay selected contacts</button> or <button className="hotspotty-button">Pay all contacts</button>. It is recommended to check out [pay your contacts](../payment-management/pay-your-contacts).
 
 Hotspotty helps you stay on top of paid HNT commissions by automatically monitoring the blockchain for paid wallet transactions making it easy to view across all your contacts - while still enabling you to manually mark commissions as paid, if needed.
 

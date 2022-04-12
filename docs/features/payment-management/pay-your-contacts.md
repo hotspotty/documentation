@@ -8,14 +8,18 @@ If you have not yet created a commission report, please go ahead and take a look
 
 ## Pay contacts individually
 
-Instead of paying all contacts in a commission report at the same time you have tha ability to pay your contacts one by one. Start by opening up a commission report.
+Instead of paying all contacts in a commission report at the same time you have the ability to pay your contacts one by one. Start by opening up a commission report.
 
 ![Docs](/img/workspace/pay-seperately-1.png)
 
-Select the contact(s) you want to pay. And click on <button class="hotspotty-button">Pay selected contacts</button>.
+Select the contact(s) you want to pay. And click on <button className="hotspotty-button">Pay selected contacts</button>.
 You can choose to pay your selected contact(s) using the Helium app to scan the provided QR code or pay using the [Helium CLI](https://docs.helium.com/wallets/cli-wallet/).
 
 ![Docs](/img/workspace/pay-seperately-2.png)
+
+Since April 2022 you can also download a CSV file for all contacts that have an HNT address linked to them. This CSV file contains info about the contact name, email, phone, HNT amount and wallet address.
+
+![Docs](/img/workspace/pay-seperately-3.png)
 
 ## Bulk payments
 
@@ -28,6 +32,9 @@ You can make bulk payments by simply scanning a QR code provided when you [creat
 ### Pay using the CLI
 
 By choosing the CLI payment option you will be prompted to download the generated JSON file. The file contains all the HNT wallet addresses associated with the HNT amount your hosts need to receive, so you can easily import the data using the [Helium CLI](https://docs.helium.com/wallets/cli-wallet/).
+
+### Pay using a CSV file
+Download a CSV file of an entire commission report with the amount owed for each contact, and the default payment details for that currency.
 
 ## Duplicate payment prevention
 

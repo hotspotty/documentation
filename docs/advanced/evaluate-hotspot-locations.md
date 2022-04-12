@@ -14,6 +14,6 @@ HIP17 rewards hotspots transmitting from a given location based on how many othe
 
 ## Hexes
 
-<div class="videoWrapper">
-    <iframe width="885" height="498" src="https://www.youtube.com/embed/MdSyjzE-s7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div className="videoWrapper">
+    <iframe width="885" height="498" src="https://www.youtube.com/embed/MdSyjzE-s7Y" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>

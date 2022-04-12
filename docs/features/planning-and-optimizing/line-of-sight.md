@@ -6,8 +6,8 @@ sidebar_position: 3
 
 ## Video Introduction
 
-<div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lBdkoYNK_kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div className="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lBdkoYNK_kE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
 
 When planning a hotspot deployment, there are many tools that you can use to help you assess if the locations are good and promising or not. With helium's PoC ([Proof-Of-Coverage](https://docs.helium.com/blockchain/proof-of-coverage/)), being able to communicate with other hotspots is extremely important to guarantee a profitable mining operation, as it is the current way the network analyzes that your hotspot is actually providing coverage to the network.
@@ -18,7 +18,7 @@ To use our line of sight tool, there are two different ways you can use it.
 
 ### First method
 
-The first way to use the tool is by going to the [map within hotspotty](https://app.hotspotty.net/hotspots) and click on the <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-2 0 26 26" stroke="currentColor" class="los-icon"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 5c7.18 0 13 5.82 13 13M6 11a7 7 0 017 7m-6 0a1 1 0 11-2 0 1 1 0 012 0z"></path></svg> icon at the bottom right of the screen. That will open a pin on the page where you will be prompted to select the **first point** where you want to analyze. Once you are happy with the first location, select **Confirm**.
+The first way to use the tool is by going to the [map within hotspotty](https://app.hotspotty.net/hotspots) and click on the <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-2 0 26 26" stroke="currentColor" className="los-icon"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 5c7.18 0 13 5.82 13 13M6 11a7 7 0 017 7m-6 0a1 1 0 11-2 0 1 1 0 012 0z"></path></svg> icon at the bottom right of the screen. That will open a pin on the page where you will be prompted to select the **first point** where you want to analyze. Once you are happy with the first location, select **Confirm**.
 
 ![los-01](/img/advanced/los-01.png)
 
@@ -36,6 +36,6 @@ Now that you have the two points selected, you can click on **Confirm** to be ab
 
 ### Second method
 
-The second method you can use to start a **LoS** verification is by going to the **[locations list](https://app.hotspotty.net/locations)** on the map or the **[workspace locations](https://app.hotspotty.net/workspace/locations)** and click on the three dots, <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" class="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> and select **Line of Sight**. Hotspotty will pre-define the first spot, as this location is the starting point of your verification.
+The second method you can use to start a **LoS** verification is by going to the **[locations list](https://app.hotspotty.net/locations)** on the map or the **[workspace locations](https://app.hotspotty.net/workspace/locations)** and click on the three dots, <svg xmlns="http://www.w3.org/2000/svg" viewBox="-3 -3 26 26" className="los-icon" fill="currentColor" aria-hidden="true"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg> and select **Line of Sight**. Hotspotty will pre-define the first spot, as this location is the starting point of your verification.
 
 ![los-05](/img/advanced/los-05.png)

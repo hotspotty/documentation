@@ -62,7 +62,7 @@ To have a smooth and successful experience using Hotspotty to manage your hotspo
 If you're managing a fleet of hotspots we recommend you utilise the advanced features of Hotspotty described in the below guides:
 
 - [Evaluate hotspot locations](./advanced/evaluate-hotspot-locations.md)
-- [Optimize your earnings and reward scaling](./advanced/optimize-your-earnings-and-reward-scaling.md)
+- [Optimize your earnings and transmit scale](./advanced/optimize-your-earnings-and-transmit-scale.md)
 - [Advanced hotspot overview](./advanced/hotspot-status.md)
 
 ## Pricing
