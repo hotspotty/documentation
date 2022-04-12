@@ -34,9 +34,9 @@ Via map:
 ![Docs](/img/workspace/remove-hotspot-2.png)
 
 :::note
-You cannot remove hotspots manually if they are tracked by a wallet. In order to remove those hotspots, you need to remove the wallet from your dashboard where the hotspots are attached to.
+You cannot remove hotspots one by one if they are tracked by a wallet. In order to remove those hotspots, you need to remove the wallet from your dashboard where the hotspots are attached to.
 
-You should only track a wallet incl. all hotspots in case you need them. Otherwise these will take unnecessary hotspot slots in your workspace.
+You should only track a wallet incl. all hotspots in case you need them in your payment plan. Otherwise this will allocate hotspot slots in your payment plan.
 
 ![Docs](/img/workspace/remove-hotspot-3.png)
 :::
