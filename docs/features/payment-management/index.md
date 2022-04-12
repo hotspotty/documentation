@@ -93,10 +93,15 @@ Instructions are provided in case some of your contacts do not have a payment me
 
 Once you exectute the payments, you can click on the "Mark as paid" button next to the payment method you used to pay the contacts. This will mark the payment as paid and will also update the payment status in the commission report. These contacts will also be moved to a separate "Paid contacts" section in the "Pay contacts" functionality to prevent any duplicate payments from happening.
 
-These "Contact payments" are can be consulted on a separate page in the "Payments" section of the contact details page. In this page, you can also manually register a payment for a contact, and even leave additional notes or specify a date in the past for when this payment happened.
+You can still export all contact commissions to a CSV file.
+
+![Docs](/img/workspace/mark-as-paid.png)
+
+These "Contact payments" can be consulted on a separate page in the "Payments" section of the contact details page. In this page, you can also [manually register a payment](../planning-and-optimizing/manage-contacts.md#register-payments) for a contact, and even leave additional notes or specify a date in the past for when this payment happened.
 
 The contact payments tab displays the total amounts that were marked as paid to that contact.
 
 #### Bonus: Automatically marked as paid for QR payments in HNT
 
 When paying contacts in HNT by scanning the QR code feature, and these payments are done from a wallet that is linked to the workspace, the system will automatically mark these contacts as paid.
+
