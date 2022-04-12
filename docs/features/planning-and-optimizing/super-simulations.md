@@ -49,7 +49,8 @@ If you want to build a network, it is interesting to check several locations so 
 - Each location you selected will require 1 simulation credit.
 - A default height of 10m is used, unless you added a custom height to your locations.
 - You will receive an email when the super simulations are ready.
-  :::
+
+:::
 
 ![DOCS](/img/workspace/super-simulation-4.png)
 
