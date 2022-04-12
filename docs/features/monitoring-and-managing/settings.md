@@ -42,3 +42,5 @@ Commission templates are very convenient when you want to have the same payout r
 ## Notifications
 
 Get notified whenever one of your hotspots goes offline or online. You'll be notified via email.
+
+![Docs](/img/workspace/workspace-notifications.png)
