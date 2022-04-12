@@ -21,7 +21,7 @@ As with RF modeling, this approach has shortcomings too, however it is much simp
 3. Enter the installation height (= antenna height above the ground) to simulate how a hotspot could perform if it were installed at this location at that given height above the ground.
 
 :::tip
-Depending on your preference you may want to enter the installation height in metric or imperial units. You can change your preference in the [appearance settings](appearance-settings.md) (the gear icon at the top right of the screen wherever you are in the Hotspotty app).
+Depending on your preference you may want to enter the installation height in metric or imperial units. [How can I change the distance unit?](https://docs.hotspotty.net/FAQ/change-distance-unit)
 :::
 
 ![DOCS](/img/workspace/super-simulation-1.png)
@@ -45,7 +45,7 @@ If you want to build a network, it is interesting to check several locations so 
 3. Click <button class="hotspotty-button">Run super simulations</button>
 
 :::note
-- Each location u selected will require 1 simulation credit.
+- Each location you selected will require 1 simulation credit.
 - A default height of 10m is used, unless you added a custom height to your locations.
 - You will receive an email when the super simulations are ready.
 :::
