@@ -41,3 +41,9 @@ You can manually add payments to your contacts and keep track of them together w
 5. Click save.
 
 ![Docs](/img/workspace/register-payment.png)
+
+:::tip
+ A QR code will be generated dynamically when you manually register a payment in the payments section of a contact. The QR code only shows up if the contact has a hnt wallet, the HNT currency is selected and the amount is larger than 0.
+
+ ![Docs](/img/workspace/register-payment-2.png)
+:::
