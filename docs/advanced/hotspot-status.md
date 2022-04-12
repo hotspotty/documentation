@@ -44,7 +44,7 @@ This tab shows the earning history of a particular hotspot. Get info about how a
 
 ## Reward scaling
 
-[Reward scaling](https://docs.helium.com/blockchain/proof-of-coverage/#poc-reward-scaling) promotes installation of hotspots in areas with insufficient coverage and penalizes unnecessary duplicate coverage. Rewards for witnessing and being witnessed are reduced using formulas described by [HIP15](https://github.com/helium/HIP/blob/main/0015-beaconing-rewards.md) and [HIP17](https://github.com/helium/HIP/blob/main/0017-hex-density-based-transmit-reward-scaling.md).
+[Reward scaling](https://docs.helium.com/blockchain/proof-of-coverage/#poc-transmit-scale) promotes installation of hotspots in areas with insufficient coverage and penalizes unnecessary duplicate coverage. Rewards for witnessing and being witnessed are reduced using formulas described by [HIP15](https://github.com/helium/HIP/blob/main/0015-beaconing-rewards.md) and [HIP17](https://github.com/helium/HIP/blob/main/0017-hex-density-based-transmit-transmit-scale.md).
 
 :::info
 

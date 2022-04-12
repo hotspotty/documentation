@@ -31,7 +31,7 @@ Head over to the [Hotspotty app landing page](https://app.hotspotty.net/hotspots
 These [hexes](/advanced/evaluate-hotspot-locations#hexes) lower the transmit scale as their limits are exceeded.
 
 :::tip
-A low transmit scale is not beneficial to generate the optimal HNT revenue. [Read more about optimizing your earnings](/advanced/optimize-your-earnings-and-reward-scaling).
+A low transmit scale is not beneficial to generate the optimal HNT revenue. [Read more about optimizing your earnings](/advanced/optimize-your-earnings-and-transmit-scale).
 :::
 
 ![DOCS](/img/advanced/appearance-problematic-hexes.png)
