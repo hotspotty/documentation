@@ -47,3 +47,9 @@ You can manually add payments to your contacts and keep track of them together w
 
  ![Docs](/img/workspace/register-payment-2.png)
 :::
+
+:::tip
+ When using Hotspotty on your phone, instead of having the option to scan a QR code, you will be prompted to pay directly via the new Helium wallet app. Simply sign the transaction and you are done. The button only shows up if the contact has a hnt wallet, the HNT currency is selected and the amount is larger than 0.
+
+ ![Docs](/img/workspace/register-payment-3.jpeg)
+:::

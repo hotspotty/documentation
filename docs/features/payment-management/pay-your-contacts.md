@@ -23,11 +23,18 @@ Since April 2022 you can also download a CSV file for all contacts that have an 
 
 ## Bulk payments
 
-Hotspotty gives you the option to pay multiple people at once so that you do not have to worry about copy/pasting every single HNT wallet address. We have 2 options to quickly have your contacts paid:
+Hotspotty gives you the option to pay multiple people at once so that you do not have to worry about copy/pasting every single HNT wallet address. We have 4 options to quickly have your contacts paid:
 
 ### Pay using a QR code
 
 You can make bulk payments by simply scanning a QR code provided when you [create a commission report](../payment-management/generate-commission-reports). Open up the Helium app. Go to 'My Wallet', and click on the blue 'Send HNT' button. Instead of entering the recipient address you can easily click on the qr code symbol, and you are good to go.
+
+### Pay using Hotspotty on your phone
+
+To use this option, you are required to have the new Helium wallet app installed. The limit of paying 25 hosts at once using the QR code can be exceeded using this option up to an unlimited amount of transactions. Simply open up the desired commission report on your phone. There will be an additional option that's not visible on the laptop/desktop version. <button className="hotspotty-button">Pay with Helium wallet</button> This will open up the new Helium wallet app and ask you to sign the transactions. Additionally, you can pay individual contacts with this method as well by manually registering payments for them. [Click here to learn more](../planning-and-optimizing/manage-contacts#register-payments).
+<div className="videoWrapper">
+<iframe width="967" height="544" src="https://www.youtube.com/embed/olFHOrKshYM" title="Hotspotty - New payment method directly from the helium wallet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Pay using the CLI
 
