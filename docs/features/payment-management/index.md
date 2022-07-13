@@ -79,6 +79,7 @@ These are some of the options available right now:
 #### HNT:
 
 - **QR code payments**: Generate batched QR codes that can be scanned by the [Helium Wallet App](https://docs.helium.com/wallets/app-wallet) to pay the contacts.
+- **Hotspotty on your phone**: Sign transactions directly through the new Helium wallet app using your mobile device.
 - **CLI payment**: Generate a `JSON` file compatible with the [Helium CLI (Command Line Interface)](https://docs.helium.com/wallets/cli-wallet/).
 - **CSV**: Download a CSV file of an entire commission report with the amount owed for each contact and the default payment details for that currency.
 
