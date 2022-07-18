@@ -21,7 +21,7 @@ Zoom in and out of the map using the + / - symbols in the top right corner. When
 
 Every dot on the map represents a hotspot as it is asserted in the Helium network or a location asserted in Hotspotty. The chosen appearance setting dictates the color scheme. The color of the dot corresponds with the hotspot status within the network. In the example below, we're visualising by the simulated transmit scale, and a green dot shows an active hotspot with an excellent transmit scale.
 
-If you navigate to the appearance settings cog in the top right corner you can read more about the different filters at the bottom of the page.
+If you navigate to the [layers cog](../features/planning-and-optimizing/appearance-settings.md#layers) in the bottom right corner you can read more about the different filters at the bottom of the page.
 
 <ul>
     <li><span className="green-text bold-text">Green</span> - the hotspot is <span className="bold-text">online</span> and has an <span className="bold-text">excellent transmit scale</span></li>
