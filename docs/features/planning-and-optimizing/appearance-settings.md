@@ -26,6 +26,9 @@ Head over to the [Hotspotty app landing page](https://app.hotspotty.net/hotspots
 
 ### Layers
 
+Change the way your Hotspotty map looks by enabling and/or disabling certain layer options.
+
+![DOCS](/img/advanced/appearance-settings-layers.png)
 #### Problematic hexes
 
 These [hexes](/advanced/evaluate-hotspot-locations#hexes) lower the transmit scale as their limits are exceeded.
