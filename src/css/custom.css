@@ -39,9 +39,11 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 .videoWrapper {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
+  padding-bottom: 56.25%;
+  /* 16:9 */
   height: 0;
 }
+
 .videoWrapper iframe,
 .videoWrapper embed,
 .videoWrapper object {
@@ -107,4 +109,8 @@ img {
 
 .purple-text {
   color: #a851f9;
+}
+
+img[alt=hotspotty-connect] {
+  width: 300px;
 }
