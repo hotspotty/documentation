@@ -36,6 +36,7 @@ To have a smooth and successful experience using Hotspotty to manage your hotspo
 - [Manage contacts](./features/planning-and-optimizing/manage-contacts.md)
 - [Line of sight tool](./features/planning-and-optimizing/line-of-sight.md)
 - [Appearance settings](./features/planning-and-optimizing/appearance-settings.md)
+- [Super simulations](./features/planning-and-optimizing/super-simulations.md)
 
 ### Monitoring & Managing
 
