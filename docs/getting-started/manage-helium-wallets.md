@@ -16,7 +16,7 @@ After signing in with Discord, we advise that you add and verify your helium wal
 
 Add your HNT wallet address and decide if you want to track all the hotspots associated with the HNT address. If not, untick the box. You can always add or remove individual hotspots associated with the wallet, should you decide not to track a selection of hotspots associated with a wallet.
 
-![Docs](/img/getting-started/verify-your-wallet-2.png)
+![Docs](/img/getting-started/add-wallet.png)
 
 ## Wallet payment transactions
 Incoming payments are shown underneath your wallet list.
