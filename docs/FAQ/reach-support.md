@@ -12,6 +12,9 @@ If you are reading this, you are already using Hotspotty's documentation 🙂. T
 
 The [Hotspotty & Chill discord server](https://discord.gg/EkKGzvnP56) is the place to be if you want to stay up to date with Hotspotty's latest announcements, want to connect with other Hotspotty users, or talk with members of the team. The options are endless. A special announcement is coming soon for Pro and Business customers.
 
+Do you want to report a bug? Feel free to open a ticket in the discord server.
+![DOCS](/img/faq/hotspotty-reach-support-discord.gif)
+
 
 ## Reach Hotspotty via the support team
 Do you have technical issues, or you couldn't find your answer on one of our platforms? Feel free to create a support ticket and get help from a Hotspotty support agent. You can reach out to us by clicking on the chat bubble in the bottom right corner on [www.hotspotty.net](https://hotspotty.net/) or by clicking the question mark icon in [www.app.hotspotty.net](https://app.hotspotty.net/).
