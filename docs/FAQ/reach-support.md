@@ -14,7 +14,7 @@ The [Hotspotty & Chill discord server](https://discord.gg/EkKGzvnP56) is the pla
 
 
 ## Reach Hotspotty via the support team
-Do you have technical issues, or you couldn't find your answer on one of our platforms? Feel free to create a support ticket and get help from a Hotspotty support agent. You can reach out to us by clicking on the chat bubble in the bottom right corner on [www.hotspotty.net](www.hotspotty.net) or by clicking the question mark icon in [www.app.hotspotty.net](www.app.hotspotty.net).
+Do you have technical issues, or you couldn't find your answer on one of our platforms? Feel free to create a support ticket and get help from a Hotspotty support agent. You can reach out to us by clicking on the chat bubble in the bottom right corner on [www.hotspotty.net](https://hotspotty.net/) or by clicking the question mark icon in [www.app.hotspotty.net](https://app.hotspotty.net/).
 
 
 ![DOCS](/img/faq/reach-support-hotspotty.png)
