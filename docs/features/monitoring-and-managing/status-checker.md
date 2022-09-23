@@ -10,7 +10,7 @@ With the [upgrade to Light Hotspots](https://blog.helium.com/light-hotspots-expl
 
 
 # Live diagnostics status for RAK/MNTD
-<iframe width="1116" height="628" src="https://www.youtube.com/embed/fIFaf_dIhVI" title="Hotspotty - Live Diagnostic Status with RAK/MNTD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fIFaf_dIhVI" title="Hotspotty - Live Diagnostic Status with RAK/MNTD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The remote hotspot diagnostics information below is brought to you trough the Cal-Chip API integration as part of the Hotspotty Maker Partnership Program and was retrieved directly from the hotspot 2 hours ago. This section gives you information about the connectivity of the miner, the hardware and software. This info can be easily retrieved by clicking on a hotspot and choosing the 'Show diagnostics' button on the status page.
 

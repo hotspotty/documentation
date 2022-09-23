@@ -13,6 +13,8 @@ Frequently asked questions are added here. [Reach out to us if you need more hel
 
 [How to delete a workspace?](./delete-workspace)
 
+[How to reach out to support?](./reach-support.md)
+
 ## Get to know Hotspotty more in-depth
 
 [Where does Hotspotty get its data from?](./hotspotty-data)
