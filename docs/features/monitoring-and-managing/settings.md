@@ -22,7 +22,7 @@ Give members permission to view or edit your workspace. Adding a member is easy.
 
 ## Labels
 
-You can configure labels for your wallets, locations, hotspots, contacts and installs. Use labels to make groups so that you can easily filter through them when you have a lot of data in your workspace. For more info: [Advanced labelling and filters](../labelling-and-filtering).
+You can configure labels for your wallets, locations, hotspots, contacts and installs. Use labels to make groups so that you can easily filter through them when you have a lot of data in your workspace. For more info: [Advanced labelling and filters](/features/monitoring-and-managing/labelling-and-filtering).
 
 ## Commissions
 
