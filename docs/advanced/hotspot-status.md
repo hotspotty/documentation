@@ -103,7 +103,7 @@ Rewards for transmitted beacons are scaled down by the transmit scale. All dots 
 
 ## Comments
 
-[Full explanation](../features/monitoring-and-managing/internal-workspace-comments)
+[Full explanation](/features/monitoring-and-managing/internal-workspace-comments)
 
 ## Info
 
