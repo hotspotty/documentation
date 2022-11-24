@@ -15,6 +15,8 @@ Frequently asked questions are added here. [Reach out to us if you need more hel
 
 [How to reach out to support?](./reach-support.md)
 
+[How can I delete a hotspot from my workspace?](./remove-hotspot.md)
+
 ## Get to know Hotspotty more in-depth
 
 [Where does Hotspotty get its data from?](./hotspotty-data)
