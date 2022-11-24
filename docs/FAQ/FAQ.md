@@ -13,9 +13,9 @@ Frequently asked questions are added here. [Reach out to us if you need more hel
 
 [How to delete a workspace?](./delete-workspace)
 
-[How to reach out to support?](./reach-support.md)
+[How to reach out to support?](./reach-support)
 
-[How can I delete a hotspot from my workspace?](./remove-hotspot.md)
+[How can I delete a hotspot from my workspace?](./remove-hotspot)
 
 ## Get to know Hotspotty more in-depth
 
