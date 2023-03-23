@@ -10,7 +10,7 @@ sidebar_position: 10
 
 > ## 🔥🔥🔥 Please note that if you pay your hosts in $HNT and they have their wallets in Binance, you must inform them to create a new wallet and change that inside Hotspotty. Below you can find information on how to create a Helium Wallet! Don't hesitate to get in touch with us on [Discord](https://discordapp.com/invite/498Rc8khaN) 🔥🔥🔥
 
-### Video Exaple
+### Video Example
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-vIBgW0S7d8" title="Creating a helium wallet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
