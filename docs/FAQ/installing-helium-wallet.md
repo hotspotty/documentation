@@ -6,9 +6,9 @@ sidebar_position: 10
 
 ## 💀💀💀 March 2023 Binance Delist 💀💀💀
 
-> ### On [March 24th, 2023](https://www.binance.com/en/support/announcement/binance-will-delist-hnt-and-wabi-on-2023-03-24-f1a8aa29692b4442a8f18be2076e14a0), Binance will delist HNT from its exchange pior to the [Solana Migration](https://blog.helium.com/an-update-on-the-helium-networks-migration-to-solana-4550e20552a9). **If you hold HNT on Binance at the time of the snapshot, you will need to withdraw your tokens before the snapshot. If you do not withdraw your tokens, you will not be able to access them after the snapshot.** [Click here for the full article](https://www.binance.com/en/support/announcement/binance-will-delist-hnt-and-wabi-on-2023-03-24-f1a8aa29692b4442a8f18be2076e14a0).
+> ### On [March 24th, 2023](https://www.binance.com/en/support/announcement/binance-will-delist-hnt-and-wabi-on-2023-03-24-f1a8aa29692b4442a8f18be2076e14a0), Binance will delist HNT from its exchange pior to the [Solana Migration](https://blog.helium.com/an-update-on-the-helium-networks-migration-to-solana-4550e20552a9). **If you hold HNT on Binance, you will need to withdraw your tokens as soon as possible.** [Click here for the full article](https://www.binance.com/en/support/announcement/binance-will-delist-hnt-and-wabi-on-2023-03-24-f1a8aa29692b4442a8f18be2076e14a0).
 
-> ## 🔥 Please note that if you pay your hosts in $HNT and they have their wallets in Binance, you must inform them to create a new wallet and change that inside Hotspotty.
+> ## 🔥 Please note that if you pay your hosts in $HNT and they have their wallets in Binance, you must inform them to create a new wallet and change that inside Hotspotty. Below you can find information on how to create a Helium Wallet! Don't hesitate to get in touch with us on [Discord](https://discordapp.com/invite/498Rc8khaN)
 
 ### Video Exaple
 
