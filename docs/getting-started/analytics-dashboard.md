@@ -22,8 +22,6 @@ Further down you see how much HNT your hotspots are generating over different ti
 
 Continue further, and you'll see the hotspots that require your attention. This section notifies you about any potential issues that your tracked hotspots are facing. For example, this section will show hotspots that are offline, relayed, without height setting, and hotspots with terrible transmit scale.
 
-This section notifies you of issues that are affecting your HNT earning potential and should be addressed.
-
-For example, for hotspots with terrible transmit scale you could be better off positioning these in a different location. To find the optimal location for your hotspot and to maximize HNT reward use Hotspotty planning tools and see [Evaluate hotspot locations](../advanced/evaluate-hotspot-locations.md) and [Optimize your earnings and transmit scale](../advanced/optimize-your-earnings-and-transmit-scale.md).
+This section notifies you of issues that are affecting your earning potential and should be addressed.
 
 ![Docs](/img/getting-started/dashboard-3.png)

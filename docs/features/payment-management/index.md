@@ -34,11 +34,11 @@ Commissions can now be added to your installs.
 
 There are three types of commissions:
 
-- **Percentage of rewards**: The percentage commissions will take a given percentage of the earned hotspot rewards, and convert it to the commission currency at the time of earnings.
+- **Percentage of rewards**: The percentage commissions will take a given percentage of the earned hotspot rewards, and convert it to the commission currency.
 - **Recurring fixed amount**: This type of commission will apply for example monthly a fixed amount of given currency every first day of the month.
 - **One time fixed amount**: This commission will only be applied once, on the specified date.
 
-All commission types are supported in the following currencies: hnt, usd, eur, gbp, cad, aud, brl, jpy, dkk, sek, chf, inr, cny, myr, sgd, nzd, btc and eth. Other currencies can be added upon request.
+All commission types are supported in the following currencies: hnt, iot, mobile, usd, eur, gbp, cad, aud, brl, jpy, dkk, sek, chf, inr, cny, myr, sgd and nzd. Other currencies can be added upon request.
 
 Each commission has a start date and optionally an end date. Please keep in mind that the start date should be on or after the installation date.
 
@@ -56,7 +56,7 @@ When adding a contact, you can link it to locations and vice versa. When one of 
 
 Based on the information entered, commission reports can be generated to show how much each contact is owed. This information can then be used to pay the contacts.
 
-The easiest way to generate a commission report is with the "Generate report" button in the "Commission Reports" section of the workspace settings. This will allow you to specify a title, the period, the currencies and the timezone for which the report should be generated. By default, the report will be generated for the past month. The currency selection only shows currencies for which there are commissions in this workspace. By default, it will generate a report for each currency.
+The easiest way to generate a commission report is with the "Generate report" button in the "Commission Reports" section of the workspace settings. This will allow you to specify a title, the period, and the timezone for which the report should be generated. A report will be generated for the selected period (by default: the past month) for all currencies that have commissions agreements in this workspace.
 
 It is also possible to generate a commission report for a specific list of contacts. To do this, simply select the contacts of interest in the contacts section of the workspace, and click the "Generate commission report" button.
 
@@ -76,11 +76,10 @@ The commission report details page has a "Pay contacts" button, that will offers
 
 These are some of the options available right now:
 
-#### HNT:
+#### HNT, IOT, MOBILE:
 
 - **QR code payments**: Generate batched QR codes that can be scanned by the [Helium Wallet App](https://docs.helium.com/wallets/app-wallet) to pay the contacts.
-- **Hotspotty on your phone**: Sign transactions directly through the new Helium wallet app using your mobile device.
-- **CLI payment**: Generate a `JSON` file compatible with the [Helium CLI (Command Line Interface)](https://docs.helium.com/wallets/cli-wallet/).
+- **Deep link integration**: When using Hotspotty on a mobile device, you can load the bulk payment transaction directly into the [Helium Wallet App](https://docs.helium.com/wallets/app-wallet) to pay your contacts.
 - **CSV**: Download a CSV file of an entire commission report with the amount owed for each contact and the default payment details for that currency.
 
 #### Other currencies:
@@ -102,7 +101,3 @@ You can still export all contact commissions to a CSV file.
 These "Contact payments" can be consulted on a separate page in the "Payments" section of the contact details page, assuming they were "Marked as paid". On that page, you can also [manually register a payment](../planning-and-optimizing/manage-contacts.md#register-payments) for a contact, and even leave additional notes or specify a date in the past for when this payment happened.
 
 The contact payments tab displays the total amounts that were marked as paid to that contact.
-
-#### Bonus: Automatically marked as paid for QR payments in HNT
-
-When paying contacts in HNT by scanning the QR code feature, and these payments are done from a wallet that is linked to the workspace, the system will automatically mark these contacts as paid.

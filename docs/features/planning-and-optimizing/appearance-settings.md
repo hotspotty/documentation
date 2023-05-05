@@ -18,32 +18,13 @@ No matter what page you are looking at, the **theme**, **distance unit** and **c
 
 **Distance unit**: Metric (m), Imperial (ft)
 
-**Currency**: HNT, USD, EURO, GBP, CAD, AUD, BRL, JPY, DKK, SEK, CHF, INR, CNY, MYR, SGD, NZD, BTC, ETH
+**Currency**: HNT, IOT, MOBILE, USD, EURO, GBP, CAD, AUD, BRL, JPY, DKK, SEK, CHF, INR, CNY, MYR, SGD, NZD
 
 ## Customize the Hotspotty map
 
 Head over to the [Hotspotty app landing page](https://app.hotspotty.net/hotspots). There are lots of options to choose from here.
 
 ### Layers
-
-Change the way your Hotspotty map looks by enabling and/or disabling certain layer options.
-
-![DOCS](/img/advanced/appearance-settings-layers.png)
-#### Problematic hexes
-
-These [hexes](/advanced/evaluate-hotspot-locations#hexes) lower the transmit scale as their limits are exceeded.
-
-:::tip
-A low transmit scale is not beneficial to generate the optimal HNT revenue. [Read more about optimizing your earnings](/advanced/optimize-your-earnings-and-transmit-scale).
-:::
-
-![DOCS](/img/advanced/appearance-problematic-hexes.png)
-
-#### Too close to witness
-
-Hotspots/locations that are too close to each other will not be rewarded for witnessing each other. These connections can be displayed by red lines. Hotspots located within 300 metres from each other are too close to witness and will not receive rewards for that type.
-
-![DOCS](/img/advanced/appearance-too-close-to-witness.png)
 
 #### Witness lines
 
@@ -58,13 +39,9 @@ Contour lines show vertical dimension on a region by joining points of equal ele
 
 ![DOCS](/img/advanced/appearance-elevation.png)
 
-#### Hotspots
+#### Helium IOT/MOBILE hotspots
 
 Hide hotspots for distraction free location planning.
-
-:::note
-This option is only available when you go over to the [Hexes](https://app.hotspotty.net/hexes) or [Locations](https://app.hotspotty.net/locations) tab on the Hotspotty map.
-:::
 
 :::note
 The [Contacts](https://app.hotspotty.net/contacts) tab on the Hotspotty map allows hotspots to be displayed that are currently installed at locations of your (filtered) contacts.
@@ -79,10 +56,6 @@ Locations allow managing and simulating potential places where hotspots can be i
 #### Satellite view
 
 Add a satellite view overlay to the map.
-
-### Relative performance
-
-Choose a metric to visualize the relative performance of hotspots. [More info can be found here](/getting-started/understand-your-area-and-account-verification)
 
 ## Customize your Hotspotty workspace
 
