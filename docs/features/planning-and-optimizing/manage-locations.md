@@ -33,7 +33,6 @@ By choosing <button className="hotspotty-button">Add location</button>, you will
 ## What can you do with locations?
 
 - Locations can be used to run [super simulations](super-simulations).
-- Locations can be used to simulate the [transmit scale](/advanced/optimize-your-earnings-and-transmit-scale) at that place.
 - Locations can be linked to an [install](../monitoring-and-managing/manage-installation-data) (installs can represent future or past locations).
 - You can assign labels to your locations to organize them properly.
   The easiest way is by adding them directly via the locations tab. But you can also [create labels via your workspace settings](https://app.hotspotty.net/workspace/settings/labels).
