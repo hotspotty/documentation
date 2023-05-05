@@ -30,10 +30,6 @@ By choosing <button className="hotspotty-button">Add location</button>, you will
 
 ![Docs](/img/workspace/add-locations-2.png)
 
-3. Added locations are ranked according to their transmit scale. A transmit scale of 1 is excellent, a transmit scale between 0 and 0.25 is terrible. More info about transmit scale can be found [here](/advanced/evaluate-hotspot-locations#transmit-scale).
-
-![Docs](/img/workspace/add-locations-3.png)
-
 ## What can you do with locations?
 
 - Locations can be used to run [super simulations](super-simulations).

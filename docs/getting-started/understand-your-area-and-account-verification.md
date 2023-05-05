@@ -31,15 +31,13 @@ If you navigate to the [layers cog](../features/planning-and-optimizing/appearan
     <li><span className="red-text bold-text">Red</span> - the hotspot is <span className="bold-text">online</span> and has a <span className="bold-text">terrible transmit scale</span></li>
  </ul>
 
-If you want a detailed understanding of reward scaling and how you can improve your reward potential see [Optimize your earnings and transmit scale](../advanced/optimize-your-earnings-and-transmit-scale) There are multiple concepts that are combined to scale the rewards, for example transmit scale (HIP17) and witness reward units (HIP15). A simplified version of the latter is included in Hotspotty.
-
 Click on an individual Hotspot and you'll see its analytics including hotspot status, rewards, reward scaling, hotspots witnessed and other information.
 
 ![Docs](/img/getting-started/understand-your-area2.png)
 
 You can contact a hotspot's owner under Contact Owner tab when you click on an individual hotspot. We recommend that all users verify their wallets to enable a smooth and easy communication among hotspot owners globally.
 
-See more on [Add your HNT wallet](./manage-helium-wallets#add-your-helium-wallet)
+See more on [Add your Solana wallet](./manage-wallets#add-your-wallet)
 
 ## Regional dashboard
 

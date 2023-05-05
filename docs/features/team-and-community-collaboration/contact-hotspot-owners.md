@@ -4,14 +4,14 @@ sidebar_position: 2
 
 # Contact hotspot owners
 
-Letting people contact you is a great way to improve the overall quality of the Helium network. Maybe someone wants to collaborate with you or wants to help you [improve your transmit scale](/advanced/optimize-your-earnings-and-transmit-scale)?
+Letting people contact you is a great way to improve the overall quality of the Helium network. Maybe someone wants to collaborate with you or wants to help you improve your setup?
 Or what if you are the person willing to help someone out?
 
 ## How to get contacted?
 
-Verify your HNT wallet so that Hotspotty knows you are a human 😀 and not a 🤖. There are 2 approaches:
+Verify your Solana wallet so that Hotspotty knows you are a human 😀 and not a 🤖. There are 2 approaches:
 
-1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button className="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your helium wallet](#verify-wallet-ownership).
+1. Search for your Helium hotspot on the [map](https://app.hotspotty.net/hotspots) and go to the **Contact owner** tab where you will find the <button className="hotspotty-button">Verify wallet</button> button. From there you can follow the steps to [verify your wallet](#verify-wallet-ownership).
 
 ![Verify Wallet](/img/advanced/verify-wallet-01.png)
 
@@ -67,22 +67,14 @@ The process of actually verifying a wallet is very straight forward.
 
 ![Docs](/img/getting-started/verify-flow-2.png)
 
-3. **A QR code is now generated and you have 24 hours the time in order to make the transaction by scanning the QR code using the Helium app. If the transaction is not made within 24 hours, you can start the process again.**
+3. **A QR code is now generated and you have 24 hours the time in order to make the transaction by scanning the QR code using the Helium Wallet app. If the transaction is not made within 24 hours, you can start the process again.**
 
 ![Docs](/img/getting-started/verify-flow-3.png)
 
-4. **Great! Your transaction is now pending and will automatically get approved by the Helium blockchain. You will receive an email once accepted.**
+4. **Great! Your transaction is now pending and will automatically get approved by the Solana blockchain. You will receive an email once accepted.**
 
 ![Docs](/img/getting-started/verify-flow-4.png)
 
-## Discord region collaboration
-
-At the press of a button, you can open a channel that automatically creates a group with and connects you to - nearby verified wallet owners. This makes it easy for verified owners to message and collaborate with other verified owners, whose hotspots may be impacting each other’s performance.
-
-1. Make sure you are on the **Map** and go over to **Hexes**.
-2. Select the resolution that best matches the region in which you want to contact people. Then select **Discord collaboration**.
-3. Make sure you made at least one [wallet verification](#verify-wallet-ownership) and click **Discuss in Discord**.
-
-![Discord collab](/img/advanced/discord-collab.png)
+## Community collaboration
 
 [Join the Hotspotty & Chill discord server by clicking here](https://discord.com/invite/498Rc8khaN)

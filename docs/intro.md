@@ -16,7 +16,7 @@ If you're just starting out in the Helium ecosystem and have a few hotspots or w
 
 - [Hotspotty 101](./getting-started/hotspotty-quickstart.md)
 - [Understand your area and account verification](./getting-started/understand-your-area-and-account-verification.md)
-- [Manage Helium wallets](./getting-started/manage-helium-wallets.md)
+- [Manage wallets](./getting-started/manage-wallets.md)
 - [Analytics dashboard](./getting-started/analytics-dashboard.md)
 
 ## Features
@@ -26,7 +26,6 @@ To have a smooth and successful experience using Hotspotty to manage your hotspo
 ### Visualize & Understand
 
 - [Hotspot Manufacturers & Order a hotspot](./features/visualize-and-understand/hotspot-manufacturers-metrics.md)
-- [Time travel & area analytics](./features/visualize-and-understand/time-travel.md)
 - [Manage hotspots in your workspace](./features/visualize-and-understand/manage-hotspots.md)
 - [Denylist](./features/visualize-and-understand/denylist.md)
 
@@ -62,8 +61,6 @@ To have a smooth and successful experience using Hotspotty to manage your hotspo
 
 If you're managing a fleet of hotspots we recommend you utilise the advanced features of Hotspotty described in the below guides:
 
-- [Evaluate hotspot locations](./advanced/evaluate-hotspot-locations.md)
-- [Optimize your earnings and transmit scale](./advanced/optimize-your-earnings-and-transmit-scale.md)
 - [Advanced hotspot overview](./advanced/hotspot-status.md)
 
 ## Pricing
