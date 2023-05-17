@@ -54,7 +54,7 @@ const config = {
         indexName: process.env.ALGOLIA_INDEX_NAME,
         contextualSearch: true,
         placeholder: 'Search docs',
-        appId: process.env.ALGOLIA_APPLICATION_ID,
+        appId: process.env.ALGOLIA_APP_ID,
       },
       navbar: {
         title: 'Hotspotty',
