@@ -38,7 +38,7 @@ By running a super simulation, 1 simulation credit will be used. You can buy sup
 
 ## Run multiple super simulations at once
 
-If you want to build a network, it is interesting to check several locations so you can get a good idea of which locations are best for placing a hotspot. Hotspotty makes it possible to check a lot of locations with just a few clicks. Checkout out [Import bulk locations via a .kml or .csv file](manage-locations#add-locations-via-your-workspace) if you are interested in importing a lot of locations at once.
+If you want to build a network, it is interesting to check several locations so you can get a good idea of which locations are best for placing a hotspot. Hotspotty makes it possible to check a lot of locations with just a few clicks. Checkout out [Import bulk locations via a .kml or .csv file](manage-locations.md#add-locations-via-your-workspace) if you are interested in importing a lot of locations at once.
 
 1. Go over to your [Locations](https://app.hotspotty.net/workspace/locations) in your workspace.
 2. Select the locations you want to run super simulations for by checking their boxes at the far left of the location names.
