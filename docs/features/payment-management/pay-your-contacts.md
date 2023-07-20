@@ -37,10 +37,6 @@ To use this option, you are required to have the Helium HNT Wallet app ([iOS](ht
 <iframe width="967" height="544" src="https://www.youtube.com/embed/olFHOrKshYM" title="Hotspotty - New payment method directly from the helium wallet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Pay using the CLI
-
-When using Hotspotty on a mobile device, you can load the bulk payment transaction directly into the [Helium Wallet App](https://docs.helium.com/wallets/app-wallet) to pay your contacts.
-
 ### Pay using a CSV file
 
 Download a CSV file of an entire commission report with the amount owed for each contact, and the default payment details for that currency.
