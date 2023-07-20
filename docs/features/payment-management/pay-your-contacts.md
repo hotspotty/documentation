@@ -23,7 +23,7 @@ Since April 2022 you can also download a CSV file for all contacts that have an 
 
 ## Bulk payments
 
-Hotspotty gives you the option to pay multiple people at once so that you do not have to worry about copy/pasting every single HNT wallet address. We have 4 options to quickly have your contacts paid:
+Hotspotty gives you the option to pay multiple people at once so that you do not have to worry about copy/pasting every single Solana wallet address. We have 4 options to quickly have your contacts paid:
 
 ### Pay using a QR code
 

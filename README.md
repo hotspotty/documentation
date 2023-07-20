@@ -24,3 +24,27 @@ $ yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Run Algolia crawler
+
+From the [docs](https://docsearch.algolia.com/docs/legacy/run-your-own/#run-the-crawl-from-the-docker-image)
+
+The first time, install jq:
+
+```
+brew install jq
+```
+
+Insure you have the right .env variables:
+
+```
+ALGOLIA_APP_ID=
+ALGOLIA_API_KEY=
+ALGOLIA_INDEX_NAME=
+```
+
+Then you can run the crawler:
+
+```
+docker run -it --env-file=.env -e "CONFIG=$(cat /path/to/your/config.json | jq -r tostring)" algolia/docsearch-scraper
+```

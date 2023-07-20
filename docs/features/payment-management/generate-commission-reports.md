@@ -22,7 +22,7 @@ Calculate and track payouts for contacts that facilitate your hotspot deployment
 In this example, John (a contact) hosts a hotspot at the given location address. This location is where the hotspot is currently installed, which is defined in the [installs tab](../monitoring-and-managing/manage-installation-data).
 
 :::note
-**In order to pay people easily in HNT using commission reports, a HNT wallet address must be added as a payment method to your contact otherwise you can only view the commission report.**
+**In order to pay people easily in tokens using commission reports, a wallet address must be added as a payment method to your contact otherwise you can only view the commission report.**
 :::
 
 ### **2. Add commission to [install](../monitoring-and-managing/manage-installation-data)**
@@ -33,7 +33,7 @@ You can either add a new commission for your contact or attach a [commission tem
 
 #### Add new commission
 
-By clicking on **+ Add new commission** you are able to specify what HNT percentage your host will receive. Setting an expiry date is optional. When the expiry date is met, the commission will no longer be active and the percentage will not be visible in any commission generated after that date.
+By clicking on **+ Add new commission** you are able to specify what percentage of mining rewards your host will receive. Setting an expiry date is optional. When the expiry date is met, the commission will no longer be active and the percentage will not be visible in any commission generated after that date.
 
 ![Docs](/img/workspace/commission-report-3.png)
 
@@ -53,7 +53,7 @@ Open your generated report by clicking on the <button className="hotspotty-butto
 
 ### **4. Tips and tricks**
 
-The report will show the total amount of commissions in your preferred currency. The counter next to the amount shows how many contacts have an HNT wallet attached to them. U can pay them very easily by either choosing <button className="hotspotty-button">Pay selected contacts</button> or <button className="hotspotty-button">Pay all contacts</button>. It is recommended to check out [pay your contacts](../payment-management/pay-your-contacts).
+The report will show the total amount of commissions in your preferred currency. The counter next to the amount shows how many contacts have an Solana wallet attached to them. U can pay them very easily by either choosing <button className="hotspotty-button">Pay selected contacts</button> or <button className="hotspotty-button">Pay all contacts</button>. It is recommended to check out [pay your contacts](../payment-management/pay-your-contacts).
 
 Hotspotty helps you stay on top of paid HNT commissions by automatically monitoring the blockchain for paid wallet transactions making it easy to view across all your contacts - while still enabling you to manually mark commissions as paid, if needed.
 
