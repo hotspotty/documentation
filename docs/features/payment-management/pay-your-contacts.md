@@ -32,15 +32,13 @@ You can make bulk payments by simply scanning a QR code provided when you [creat
 ### Pay using Hotspotty on your phone
 
 To use this option, you are required to have the Helium HNT Wallet app ([iOS](https://apps.apple.com/us/app/helium-hnt-wallet/id1609525848) or [Android](https://play.google.com/store/apps/details?id=com.helium.wallet.app)) installed. There is no limit to the number of contacts that can be paid per transaction, unlike the QR code payment option (max 25 per QR). Simply open up the desired commission report on your phone. There will be an additional option that's not visible on the laptop/desktop version. <button className="hotspotty-button">Pay with Helium wallet</button> This will open up the new Helium wallet app and ask you to sign the transactions. Additionally, you can pay individual contacts with this method as well by manually registering payments for them. [Click here to learn more](../planning-and-optimizing/manage-contacts#register-payments).
+
 <div className="videoWrapper">
 <iframe width="967" height="544" src="https://www.youtube.com/embed/olFHOrKshYM" title="Hotspotty - New payment method directly from the helium wallet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Pay using the CLI
-
-By choosing the CLI payment option you will be prompted to download the generated JSON file. The file contains all the HNT wallet addresses associated with the HNT amount your hosts need to receive, so you can easily import the data using the [Helium CLI](https://docs.helium.com/wallets/cli-wallet/).
-
 ### Pay using a CSV file
+
 Download a CSV file of an entire commission report with the amount owed for each contact, and the default payment details for that currency.
 
 ## Duplicate payment prevention
