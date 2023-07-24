@@ -41,6 +41,10 @@ Commission templates are very convenient when you want to have the same payout r
 
 ## Notifications
 
-Get notified whenever one of your hotspots goes offline or online. You'll be notified via email.
+### Proactive hotspot monitoring with ping notifications
 
-![Docs](/img/workspace/workspace-notifications.png)
+Opt-in to get alerts emailed to you whenever there’s an issue with how devices in your portfolio are functioning. We will ping your devices to ensure you know whenever your devices are experiencing connectivity issues.
+
+Hotspotty will automatically send notifications to the email associated with your account once a day, at midnight of the day in question. Emails look like this:
+
+![Docs](/img/workspace/hotspot-monitoring-email.png)
