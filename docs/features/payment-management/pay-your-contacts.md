@@ -46,3 +46,5 @@ Download a CSV file of an entire commission report with the amount owed for each
 Not feeling confident in paying tons of people with some simple clicks? We made it easy for you by automatically marking a [commission report](../payment-management/generate-commission-reports) as paid so that you are not able to accidentally pay your hosts multiple times at once.
 
 Besides that, you will also get notified whenever there is payment information missing from one or more hosts.
+
+![Duplicate payment prevention](/img/features/payment-management/duplicate-payment-prevention.png)
