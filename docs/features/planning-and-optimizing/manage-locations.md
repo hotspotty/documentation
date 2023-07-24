@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Manage locations
 
+## Add locations via global search
+
+![Add locations via global search](/img/workspace/add-locations-via-global-search.png)
+
+In the upper right of any Hotspotty page, you’ll find a magnifying glass icon 🔍. This is where you can execute global searches for anything across the Hotspotty application. If you’d like a quick way to add **locations**, simply type the physical address of the location, and select it from the dropdown that appears. You can also search for hotspots by name, wallets, contacts, and more.
+
 ## Add locations via your workspace
 
 Go over to the [locations tab](https://app.hotspotty.net/workspace/locations) in your workspace and click the <button className="hotspotty-button">Add location</button> button. In case you have a **.kml** or **.csv** file ready with locations, you can click the <button className="hotspotty-button-2">Import locations</button> button.
