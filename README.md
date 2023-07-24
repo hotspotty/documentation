@@ -46,5 +46,5 @@ ALGOLIA_INDEX_NAME=
 Then you can run the crawler:
 
 ```
-docker run -it --env-file=.env -e "CONFIG=$(cat /path/to/your/config.json | jq -r tostring)" algolia/docsearch-scraper
+docker run -it --env-file=.env -e "CONFIG=$(cat config.json | jq -r tostring)" algolia/docsearch-scraper
 ```
