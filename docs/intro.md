@@ -68,4 +68,3 @@ If you're managing a fleet of hotspots we recommend you utilise the advanced fea
 Hotspotty is a freemium service. You can learn more about the pricing below:
 
 - [Pricing](./pricing/pricing.md)
-- [Free to freemium migration guide](./pricing/migration-guide.md)
