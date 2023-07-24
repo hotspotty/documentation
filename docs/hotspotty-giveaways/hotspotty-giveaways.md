@@ -2,8 +2,8 @@
 
 ![Hotspotty Giveaways](/img/hotspotty-giveaways/hotspotty_giveaways.png)
 
-Hotspotty Giveaways is our new lottery. It’s a dual effort to support promising DePIN projects and to offer the community access to earn higher rewards and build out exciting solutions. We, and many of our community members, surely remember the days when early miners to promising networks would make $1000s or even $10s of 1000s per month. It is exciting to play a crucial part in the early buildout of a project. To help refuel some of that excitement, **every month we’ll be giving away new DePIN miners to paid subscribers of Hotspotty.**
+**Giveaways** is Hotspotty’s way to show appreciation to our paid users who allow us to keep the lights on while also helping support the DePIN ecosystem.
 
-We’ll announce our upcoming giveaway on our socials and newsletter, so keep your eye on our [Hotspotty & Chill Discord](https://hotspotty.net/discord).
+We periodically hold giveaways (currently scheduled once a month), where we offer state-of-the-art DePIN miners to one or more lucky subscribers. This enables you to explore the diversity and potential of various projects. This is your ticket to mining a wide array of tokens, giving you a front-row seat to both the emerging and established DePIN worlds.
 
-To play, you can join our new **[Starter Plan](https://app.hotspotty.net/pricing)** for as little as $2 a month. Let the games begin!
+Hotspotty Giveaways will be announced ahead of time on our [Hotspotty & Chill](https://discord.gg/qfeaKk4V) Discord server, [Twitter](https://twitter.com/hotspotty), and Newsletter; so stay connected and look out for your chance to win!
