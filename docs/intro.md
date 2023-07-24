@@ -4,7 +4,7 @@ slug: /
 title: "Home"
 ---
 
-![hotspotty docs](/img/hotspotty_docs.png)
+![hotspotty docs](/img/hotspotty_documentation.png)
 
 # Introduction
 

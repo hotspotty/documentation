@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/hotspotty/documentation/main/hotspotty_documentation.png)
+![](/static/img/hotspotty_documentation.png)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 Deployed to **[Hotspotty Docs](https://docs.hotspotty.net/)**
