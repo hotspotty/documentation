@@ -48,3 +48,17 @@ Not feeling confident in paying tons of people with some simple clicks? We made 
 Besides that, you will also get notified whenever there is payment information missing from one or more hosts.
 
 ![Duplicate payment prevention](/img/features/payment-management/duplicate-payment-prevention.png)
+
+## Manually track contact payments
+
+Mark as Paid the contacts you’ve already paid out. This will display in the Contact Details page of those contacts under the Status column (”Paid”/”Unpaid”). Additionally, in the context of a commission payout, the respective entry will include a link to the payment.
+
+![Manually track contact payments](/img/features/payment-management/manually-track-contact-payments.png)
+
+You can then see the marked payments in the contact details page:
+
+![Manually track contact payments](/img/features/payment-management/contact-payments.png)
+
+## Filter commission reports by contact and payment status
+
+Easily filter the contacts in a commission report on different dimensions such as payment status (payouts marked as paid) and labels.
