@@ -43,7 +43,7 @@ To have a smooth and successful experience using Hotspotty to manage your hotspo
 - [Manage installation data](./features/monitoring-and-managing/manage-installation-data.md)
 - [Labelling and filters](./features/monitoring-and-managing/labelling-and-filtering.md)
 - [Internal workspace comments](./features/monitoring-and-managing/internal-workspace-comments.md)
-- [Status checker tool](./features/monitoring-and-managing/status-checker.md)
+- [Remote diagnostics](./features/monitoring-and-managing/remote-diagnostics.md)
 - [Workspace settings](./features/monitoring-and-managing/settings.md)
 
 ### Team & Community Collaboration

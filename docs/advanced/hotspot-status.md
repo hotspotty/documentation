@@ -10,9 +10,9 @@ By clicking on a hotspot on the [Hotspotty map](https://app.hotspotty.net/hotspo
 
 ![Docs](/img/getting-started/hotspot-status-ui.png)
 
-## Status
+## Remote diagnostics
 
-[Full explanation](../features/monitoring-and-managing/status-checker)
+[Full explanation](../features/monitoring-and-managing/remote-diagnostics)
 
 ## Activity
 
